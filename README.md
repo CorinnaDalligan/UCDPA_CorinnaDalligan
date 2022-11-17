@@ -1,10 +1,16 @@
 # UCDPA_CorinnaDalligan
+Course: Certificate in Data Analytics for Business
+
+Lecturer: Nitya Govindaraju
+
+
 Written Assignment
 
-
+The Brief:
 Develop a Python project to analyse real world scenarios and generate valuable insights
 by visualising information. The project aims to analyse data from different data sources,
 manipulate information and visualise to generate insights.
+
 
 The goal of the assignment is to demonstrate how you are thinking about putting
 course concepts and learning into practice to demonstrate the course learning
