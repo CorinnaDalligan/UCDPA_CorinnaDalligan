@@ -1,0 +1,259 @@
+rowNumber,Date,Company,Level,Title,TCOMP,Location,YearsOfExperience,YearsOfService,Tag,BaseSalary,StockGrant,Bonus,Gender,CityId
+53,2017-08-13,AMAZON,L5,Software Engineer,231.0,"Dublin, DN, Ireland",11,3,NotDisclosed,115.0,115.0,1.0,NotDisclosed,4015
+381,2018-03-11,GOOGLE,5,Software Engineer,227.0,"Dublin, DN, Ireland",20,7,NotDisclosed,64.0,133.0,30.0,NotDisclosed,4015
+383,2018-03-11,INTERCOM,Senior,Software Engineer,181.0,"Dublin, DN, Ireland",9,1,NotDisclosed,150.0,31.0,0.0,NotDisclosed,4015
+897,2018-06-12,AMAZON,L5,Software Engineer,133.0,"Dublin, DN, Ireland",15,2,Full Stack,87.0,46.0,0.0,Male,4015
+1906,2018-09-07,AMAZON,L6,Product Manager,129.0,"Dublin, DN, Ireland",10,0,DevOps,129.0,0.0,0.0,NotDisclosed,4015
+1969,2018-09-09,WORKDAY,P4,Software Engineer,92.0,"Dublin, DN, Ireland",8,0,Distributed Systems (Back-End),56.0,36.0,0.0,NotDisclosed,4015
+3290,2018-10-31,AMAZON,6,Software Engineer,238.0,"Dublin, DN, Ireland",25,5,Distributed Systems (Back-End),155.0,83.0,0.0,NotDisclosed,4015
+4729,2018-12-27,GOOGLE,L3,Software Engineer,114.0,"Dublin, DN, Ireland",7,1,DevOps,69.0,10.0,35.0,Female,4015
+4862,2019-01-05,INTERCOM,PE2,Software Engineer,72.0,"Dublin, DN, Ireland",8,2,Distributed Systems (Back-End),72.0,0.0,0.0,Male,4015
+4985,2019-01-11,FACEBOOK,L6,Software Engineering Manager,178.0,"Dublin, DN, Ireland",19,1,DevOps,70.0,87.0,21.0,Male,4015
+5308,2019-01-23,MICROSOFT,60,Software Engineer,98.0,"Dublin, DN, Ireland",5,1,Full Stack,91.0,0.0,7.0,Male,4015
+5733,2019-02-08,WORKDAY,P3,Software Engineer,114.0,"Dublin, DN, Ireland",10,3,API Development (Back-End),68.0,41.0,5.0,Female,4015
+6319,2019-03-02,AMAZON,L5,Software Engineer,160.0,"Dublin, DN, Ireland",12,1,Web Development (Front-End),122.0,25.0,13.0,Male,4015
+7073,2019-03-26,MICROSOFT,63,Software Engineer,142.0,"Dublin, DN, Ireland",9,0,Distributed Systems (Back-End),98.0,33.0,11.0,Male,4015
+7846,2019-04-16,MICROSOFT,63,Software Engineer,139.0,"Dublin, DN, Ireland",9,0,SRE,125.0,0.0,14.0,Male,4015
+8485,2019-05-07,MICROSOFT,Principal SDE,Software Engineer,172.0,"Dublin, DN, Ireland",15,3,DevOps,122.0,22.0,28.0,NotDisclosed,4015
+8716,2019-05-15,GOOGLE,L5,Software Engineer,201.0,"Dublin, DN, Ireland",11,6,DevOps,154.0,42.0,5.0,Male,4015
+9576,2019-06-08,FACEBOOK,IC5,Software Engineer,209.0,"Dublin, DN, Ireland",12,4,Networking,121.0,71.0,17.0,Male,4015
+9776,2019-06-14,MICROSOFT,62,Software Engineer,144.0,"Dublin, DN, Ireland",3,1,ML / AI,114.0,25.0,5.0,Male,4015
+10485,2019-06-17,WORKDAY,P3,Software Engineer,99.0,"Dublin, DN, Ireland",4,2,Business logic,61.0,36.0,2.0,Male,4015
+11935,2019-07-16,WORKDAY,SWE II,Software Engineer,108.0,"Dublin, DN, Ireland",2,3,Distributed Systems (Back-End),61.0,38.0,9.0,Male,4015
+11989,2019-07-16,AMAZON,L4,Software Engineer,158.0,"Dublin, DN, Ireland",5,0,Distributed Systems (Back-End),80.0,61.0,17.0,Male,4015
+14518,2019-09-13,ORACLE,IC-2,Solution Architect,109.0,"Dublin, DN, Ireland",1,1,DevOps,79.0,0.0,30.0,Male,4015
+14531,2019-09-13,JPMORGAN CHASE,Associate,Software Engineer,108.0,"Dublin, DN, Ireland",6,1,Distributed Systems (Back-End),99.0,0.0,9.0,Male,4015
+16421,2019-10-18,AMAZON,SDE II,Software Engineer,135.0,"Dublin, DN, Ireland",6,1,Distributed Systems (Back-End),94.0,41.0,0.0,Male,4015
+16740,2019-10-26,AMAZON,L4,Software Engineer,100.0,"Dublin, DN, Ireland",3,0,Full Stack,71.0,8.0,21.0,Male,4015
+17199,2019-11-06,CIRCLECI,E5,Software Engineer,143.0,"Dublin, DN, Ireland",19,9,Full Stack,143.0,0.0,0.0,Male,4015
+17430,2019-11-11,GOOGLE,5,Software Engineer,202.0,"Dublin, DN, Ireland",8,6,DevOps,91.0,92.0,19.0,Male,4015
+18309,2019-12-01,MICROSOFT,65,Software Engineer,243.0,"Dublin, DN, Ireland",12,1,Distributed Systems (Back-End),181.0,30.0,32.0,Male,4015
+18547,2019-12-07,INTERCOM,Product Engineer 1,Software Engineer,66.0,"Dublin, DN, Ireland",3,0,Distributed Systems (Back-End),66.0,0.0,0.0,Male,4015
+18548,2019-12-07,INTERCOM,Product Engineer 2,Software Engineer,71.0,"Dublin, DN, Ireland",3,1,Distributed Systems (Back-End),71.0,0.0,0.0,Male,4015
+18549,2019-12-07,INTERCOM,Product Engineer 3,Software Engineer,107.0,"Dublin, DN, Ireland",5,1,Distributed Systems (Back-End),107.0,0.0,0.0,Male,4015
+18624,2019-12-09,AMAZON,L6,Software Engineering Manager,184.0,"Dublin, DN, Ireland",10,11,Security,60.0,124.0,0.0,Male,4015
+19445,2019-12-30,FACEBOOK,E5,Software Engineer,219.0,"Dublin, DN, Ireland",10,0,Distributed Systems (Back-End),120.0,83.0,16.0,Male,4015
+19652,2020-01-04,ARISTA NETWORKS,L3 (New Grad),Software Engineer,96.0,"Dublin, DN, Ireland",0,0,API Development (Back-End),82.0,14.0,0.0,Male,4015
+20963,2020-01-24,DELL TECHNOLOGIES,Principal Engineer,Software Engineer,72.0,"Cork, CK, Ireland",14,3,Full Stack,61.0,0.0,11.0,Male,4013
+21172,2020-01-27,MONGODB,Software Engineer,Software Engineer,252.0,"Dublin, DN, Ireland",14,3,Technical Services,133.0,119.0,0.0,Male,4015
+21388,2020-01-30,AMAZON,SDE I,Software Engineer,67.0,"Dublin, DN, Ireland",0,0,Web Development (Front-End),57.0,10.0,0.0,Female,4015
+22388,2020-02-13,FIDELITY INVESTMENTS,4,Software Engineer,63.0,"Dublin, DN, Ireland",2,2,Full Stack,61.0,0.0,2.0,Male,4015
+22783,2020-02-15,WORKDAY,Senior SWE,Software Engineer,140.0,"Dublin, DN, Ireland",12,3,Site Reliability (SRE),72.0,68.0,0.0,Male,4015
+23006,2020-02-16,HUBSPOT,SSE2,Software Engineer,94.0,"Dublin, DN, Ireland",6,1,Distributed Systems (Back-End),70.0,20.0,4.0,Male,4015
+23011,2020-02-16,MICROSOFT,64,Software Engineer,173.0,"Dublin, DN, Ireland",9,9,Full Stack,138.0,16.0,19.0,Male,4015
+23405,2020-02-20,CISCO,Software Engineer 2,Software Engineer,113.0,"Galway, GY, Ireland",2,0,API Development (Back-End),98.0,0.0,15.0,Male,4018
+23758,2020-02-25,PIVOTAL,P3,Software Engineer,80.0,"Dublin, DN, Ireland",12,3,Full Stack,69.0,11.0,0.0,NotDisclosed,4015
+23908,2020-02-27,MICROSOFT,60,Software Engineer,91.0,"Dublin, DN, Ireland",1,1,Distributed Systems (Back-End),63.0,16.0,12.0,NotDisclosed,4015
+23986,2020-02-28,MICROSOFT,62,Software Engineer,74.0,"Dublin, DN, Ireland",5,8,Distributed Systems (Back-End),51.0,10.0,13.0,Male,4015
+24401,2020-03-05,HUBSPOT,Software Engineer,Software Engineer,75.0,"Dublin, DN, Ireland",0,0,Distributed Systems (Back-End),63.0,3.0,9.0,Male,4015
+25935,2020-04-03,FACEBOOK,IC3,Software Engineer,127.0,"Dublin, DN, Ireland",10,0,Full Stack,109.0,10.0,8.0,Male,4015
+26334,2020-04-10,MICROSOFT,61,Software Engineer,85.0,"Dublin, DN, Ireland",4,0,Full Stack,69.0,9.0,7.0,Male,4015
+26433,2020-04-11,AMAZON,L5,Software Engineer,181.0,"Dublin, DN, Ireland",8,0,Networking,141.0,0.0,40.0,Male,4015
+26681,2020-04-15,WORKDAY,P3,Software Engineer,96.0,"Dublin, DN, Ireland",3,2,Site Reliability (SRE),65.0,23.0,8.0,Male,4015
+26731,2020-04-16,WORKDAY,P5,Software Engineer,181.0,"Dublin, DN, Ireland",10,4,App Dev,79.0,97.0,5.0,Male,4015
+26738,2020-04-16,TWILIO,IC3,Software Engineer,156.0,"Dublin, DN, Ireland",6,0,Data,113.0,43.0,0.0,Male,4015
+26806,2020-04-17,GROUPON,Director (L9),Software Engineering Manager,263.0,"Dublin, DN, Ireland",10,1,Full Stack,189.0,38.0,36.0,NotDisclosed,4015
+26960,2020-04-19,MICROSOFT,Senior SDE,Software Engineer,209.0,"Dublin, DN, Ireland",9,1,Distributed Systems (Back-End),121.0,59.0,29.0,Male,4015
+28179,2020-05-08,MICROSOFT,63,Software Engineer,175.0,"Dublin, DN, Ireland",8,2,Distributed Systems (Back-End),117.0,35.0,23.0,Male,4015
+28291,2020-05-10,SLACK,G04,Software Engineer,164.0,"Dublin, DN, Ireland",14,0,Site Reliability (SRE),90.0,64.0,10.0,Male,4015
+28295,2020-05-10,MICROSOFT,62,Software Engineer,141.0,"Dublin, DN, Ireland",11,1,Site Reliability (SRE),122.0,11.0,8.0,Male,4015
+28495,2020-05-13,GOOGLE,Manager (L6),Software Engineering Manager,294.0,"Dublin, DN, Ireland",31,1,Site Reliability (SRE),152.0,108.0,34.0,Male,4015
+28943,2020-05-19,INTERCOM,Product Engineer 3,Software Engineer,115.0,"Dublin, DN, Ireland",3,1,Distributed Systems (Back-End),115.0,0.0,0.0,NotDisclosed,4015
+29439,2020-05-26,FACEBOOK,IC4,Software Engineer,241.0,"Dublin, DN, Ireland",3,3,Distributed Systems (Back-End),155.0,72.0,14.0,Male,4015
+29574,2020-05-28,GENERAL MOTORS,L6,Software Engineer,65.0,"Limerick, LK, Ireland",3,3,Web Development (Front-End),63.0,0.0,2.0,Male,4020
+30399,2020-06-09,HUBSPOT,Entry,Software Engineer,76.0,"Dublin, DN, Ireland",1,1,Web Development (Front-End),73.0,3.0,0.0,Female,4015
+30998,2020-06-17,INTEL,Grade 6,Hardware Engineer,123.0,"Dublin, DN, Ireland",4,9,Other I u,80.0,43.0,0.0,Male,4015
+31162,2020-06-19,EXPEDIA,M,Technical Program Manager,124.0,"Dublin, DN, Ireland",12,7,Web Development (Front-End),74.0,27.0,23.0,Female,4015
+32497,2020-07-07,ARM,Senior Engineer,Software Engineer,99.0,"Galway, GY, Ireland",9,2,Software,94.0,0.0,5.0,Male,4018
+32890,2020-07-11,STRIPE,L2,Software Engineer,138.0,"Dublin, DN, Ireland",3,1,Security,70.0,60.0,8.0,Male,4015
+32901,2020-07-11,AMAZON,Senior SDE,Software Engineer,177.0,"Dublin, DN, Ireland",13,10,Distributed Systems (Back-End),120.0,57.0,0.0,Male,4015
+32910,2020-07-11,AWS,6,Technical Program Manager,100.0,"Dublin, DN, Ireland",14,7,Infrastructure ,59.0,41.0,0.0,Male,4015
+33601,2020-07-20,INTERCOM,Product Engineer 3,Software Engineer,123.0,"Dublin, DN, Ireland",9,1,Full Stack,123.0,0.0,0.0,Male,4015
+33732,2020-07-21,AMAZON,L5,Software Engineer,172.0,"Dublin, DN, Ireland",10,0,API Development (Back-End),149.0,10.0,13.0,Male,4015
+33739,2020-07-21,AMAZON,L5,Software Engineer,118.0,"Dublin, DN, Ireland",2,0,Distributed Systems (Back-End),75.0,27.0,16.0,Male,4015
+33963,2020-07-23,AMAZON,L4,Software Engineer,73.0,"Dublin, DN, Ireland",0,0,Distributed Systems (Back-End),57.0,11.0,5.0,NotDisclosed,4015
+33971,2020-07-23,WORKDAY,P3,Software Engineer,126.0,"Dublin, DN, Ireland",5,2,Web Development (Front-End),99.0,15.0,12.0,Male,4015
+34304,2020-07-26,FACEBOOK,IC3,Software Engineer,127.0,"Dublin, DN, Ireland",0,0,Full Stack,94.0,21.0,12.0,Male,4015
+34502,2020-07-28,AMAZON,SDE II,Software Engineer,146.0,"Dublin, DN, Ireland",11,1,Distributed Systems (Back-End),121.0,16.0,9.0,Male,4015
+34713,2020-07-30,ANALOG DEVICES,E07,Hardware Engineer,66.0,"Limerick, LK, Ireland",5,1,Analog,63.0,0.0,3.0,Male,4020
+35747,2020-08-08,AMAZON,L5,Software Engineer,114.0,"Dublin, DN, Ireland",6,3,Distributed Systems (Back-End),54.0,54.0,6.0,Male,4015
+36314,2020-08-13,DELOITTE,Senior Software Engineer,Software Engineer,79.0,"Dublin, DN, Ireland",13,2,Full Stack,73.0,0.0,6.0,Male,4015
+36835,2020-08-17,QUALCOMM,Senior Engineer,Hardware Engineer,108.0,"Cork, CK, Ireland",2,1,ASIC Design,81.0,19.0,8.0,NotDisclosed,4013
+37093,2020-08-19,N/A,Senior,Software Engineer,150.0,"Dublin, DN, Ireland",3,1,Web Development (Front-End),150.0,0.0,0.0,Male,4015
+37099,2020-08-19,WORKDAY,Senior SWE,Software Engineer,144.0,"Dublin, DN, Ireland",16,1,DevOps,111.0,26.0,7.0,Male,4015
+37137,2020-08-19,SHUTTERSTOCK,L5,Software Engineer,208.0,"Dublin, DN, Ireland",22,1,API Development (Back-End),178.0,15.0,15.0,NotDisclosed,4015
+37161,2020-08-19,VMWARE,Staff Engineer 2,Software Engineer,187.0,"Dublin, DN, Ireland",20,5,DevOps,104.0,50.0,33.0,Male,4015
+37278,2020-08-20,HUAWEI,17,Software Engineer,124.0,"Dublin, DN, Ireland",10,0,Networking,94.0,0.0,30.0,NotDisclosed,4015
+37607,2020-08-22,FACEBOOK,L3,Recruiter,96.0,"Dublin, DN, Ireland",3,1,Tech Recruiter ,86.0,4.0,6.0,NotDisclosed,4015
+37796,2020-08-24,APPLE,ICT3,Human Resources,83.0,"Cork, CK, Ireland",11,1,Operations,77.0,6.0,0.0,NotDisclosed,4013
+38040,2020-08-25,GOOGLE,L3,Software Engineer,113.0,"Dublin, DN, Ireland",3,5,Site Reliability (SRE),90.0,16.0,7.0,Male,4015
+39121,2020-09-02,AMAZON,L5,Software Engineer,66.0,"Dublin, DN, Ireland",3,1,Full Stack,66.0,0.0,0.0,Female,4015
+39127,2020-09-02,FACEBOOK,IC4,Software Engineer,99.0,"Dublin, DN, Ireland",7,3,Full Stack,57.0,30.0,12.0,Male,4015
+39253,2020-09-02,DELL TECHNOLOGIES,L8,Software Engineer,149.0,"Cork, CK, Ireland",19,2,Full Stack,132.0,0.0,17.0,Male,4013
+39674,2020-09-04,IBM,L7,Software Engineer,92.0,"Ireland, IN",20,18,Full Stack,92.0,0.0,0.0,Female,28920
+39865,2020-09-05,XILINX,E5,Hardware Engineer,91.0,"Cork, CK, Ireland",5,4,Analog,68.0,17.0,6.0,NotDisclosed,4013
+40023,2020-09-06,ZENDESK,Engineering Manager,Software Engineering Manager,77.0,"Dublin, DN, Ireland",12,4,Management,69.0,8.0,0.0,Male,4015
+40362,2020-09-09,AMAZON,L4,Software Engineer,124.0,"Dublin, DN, Ireland",0,0,Full Stack,99.0,10.0,15.0,Male,4015
+40554,2020-09-10,GOOGLE,L3,Sales,122.0,"Dublin, DN, Ireland",3,1,ML / AI,68.0,16.0,38.0,Male,4015
+40606,2020-09-10,NOKIA,Senior Member of Technical Staff,Mechanical Engineer,99.0,"Dublin, DN, Ireland",11,7,Research,84.0,0.0,15.0,Male,4015
+41183,2020-09-15,HUBSPOT,L5,Product Manager,180.0,"Dublin, DN, Ireland",9,3,Enterprise,123.0,57.0,0.0,Male,4015
+41634,2020-09-18,INTERCOM,Product Engineer 2,Software Engineer,108.0,"Dublin, DN, Ireland",8,0,iOS,76.0,32.0,0.0,Female,4015
+41640,2020-09-18,MICROSOFT,60,Sales,115.0,"Dublin, DN, Ireland",6,7,Sales,74.0,6.0,35.0,NotDisclosed,4015
+42013,2020-09-21,AMAZON,L6,Product Manager,175.0,"Dublin, DN, Ireland",6,0,Technical,111.0,36.0,28.0,NotDisclosed,4015
+42181,2020-09-22,ZALANDO,C7,Software Engineer,78.0,"Dublin, DN, Ireland",10,4,Web Development (Front-End),78.0,0.0,0.0,Male,4015
+42537,2020-09-24,WORKDAY,M3,Software Engineering Manager,189.0,"Dublin, DN, Ireland",19,1,Full Stack,166.0,23.0,0.0,Female,4015
+42802,2020-09-26,MICROSOFT,65,Software Engineering Manager,219.0,"Dublin, DN, Ireland",20,1,Distributed Systems (Back-End),170.0,21.0,28.0,NotDisclosed,4015
+43318,2020-09-30,AMAZON,L4,Software Engineer,127.0,"Dublin, DN, Ireland",0,0,Production,96.0,15.0,16.0,NotDisclosed,4015
+44338,2020-10-08,WALMART LABS,E4,Software Engineer,109.0,"Dublin, DN, Ireland",8,2,Distributed Systems (Back-End),81.0,10.0,18.0,Male,4015
+44391,2020-10-08,ANALOG DEVICES,e11,Hardware Engineer,66.0,"Cork, CK, Ireland",8,4,Analog,46.0,7.0,13.0,Male,4013
+44791,2020-10-12,HPE,Expert,Product Manager,108.0,"Dublin, DN, Ireland",10,5,Enterprise,98.0,3.0,7.0,Male,4015
+45505,2020-10-17,IBM,l5,Sales,97.0,"Ireland, IN",1,1,ML / AI,72.0,0.0,25.0,NotDisclosed,28920
+46092,2020-10-22,FACEBOOK,IC4,Recruiter,82.0,"Dublin, DN, Ireland",8,2,Technical,67.0,4.0,11.0,Male,4015
+46319,2020-10-23,MICROSOFT,59,Software Engineer,90.0,"Dublin, DN, Ireland",2,1,Distributed Systems (Back-End),72.0,10.0,8.0,Female,4015
+46935,2020-10-29,AMAZON,L5,Software Engineer,200.0,"Dublin, DN, Ireland",9,1,Distributed Systems (Back-End),161.0,17.0,22.0,Male,4015
+47207,2020-10-31,AMAZON,L5,Software Engineer,118.0,"Dublin, DN, Ireland",4,2,Distributed Systems (Back-End),72.0,46.0,0.0,Male,4015
+47340,2020-11-02,STRIPE,L3,Software Engineer,153.0,"Dublin, DN, Ireland",12,1,Distributed Systems (Back-End),149.0,0.0,4.0,Male,4015
+47699,2020-11-05,MICROSOFT,61,Software Engineer,96.0,"Dublin, DN, Ireland",3,3,Full Stack,65.0,26.0,5.0,Male,4015
+47954,2020-11-08,AMAZON,L4,Software Engineer,92.0,"Dublin, DN, Ireland",1,1,API Development (Back-End),70.0,13.0,9.0,NotDisclosed,4015
+48103,2020-11-10,STRIPE,L3,Software Engineer,297.0,"Dublin, DN, Ireland",7,3,Security,184.0,96.0,17.0,Male,4015
+48206,2020-11-11,GOOGLE,L3,Software Engineer,107.0,"Dublin, DN, Ireland",1,0,Security,90.0,8.0,9.0,NotDisclosed,4015
+48400,2020-11-13,AMAZON,L4,Software Engineer,109.0,"Dublin, DN, Ireland",4,0,Distributed Systems (Back-End),84.0,13.0,12.0,Male,4015
+48404,2020-11-13,WORKDAY,P3,Software Engineer,88.0,"Dublin, DN, Ireland",4,0,Full Stack,72.0,16.0,0.0,Male,4015
+48629,2020-11-16,IBM,Band 7,Software Engineer,82.0,"Dublin, DN, Ireland",5,5,Full Stack,81.0,0.0,1.0,NotDisclosed,4015
+49333,2020-11-23,QUALTRICS,L4,Software Engineer,191.0,"Dublin, DN, Ireland",3,2,Full Stack,138.0,46.0,7.0,Male,4015
+49878,2020-11-30,INTERCOM,L3,Technical Program Manager,118.0,"Dublin, DN, Ireland",4,4,Security,114.0,4.0,0.0,Female,4015
+50125,2020-12-02,AMAZON,L5,Software Engineer,166.0,"Dublin, DN, Ireland",8,4,Distributed Systems (Back-End),103.0,54.0,9.0,Male,4015
+50200,2020-12-03,INFOSYS,JL4,Software Engineer,73.0,"Dublin, DN, Ireland",8,4,API Development (Back-End),71.0,0.0,2.0,Male,4015
+50206,2020-12-03,AMAZON,L6,Software Engineer,222.0,"Dublin, DN, Ireland",13,2,Site Reliability (SRE),176.0,43.0,3.0,NotDisclosed,4015
+50670,2020-12-08,QUALCOMM,Staff Engineer,Hardware Engineer,104.0,"Cork, CK, Ireland",6,3,ASIC Design,71.0,30.0,3.0,NotDisclosed,4013
+50848,2020-12-10,MICROSOFT,SDE II,Solution Architect,174.0,"Dublin, DN, Ireland",2,0,Cloud Computing,141.0,10.0,23.0,NotDisclosed,4015
+50874,2020-12-10,FACEBOOK,IC4,Software Engineer,86.0,"Dublin, DN, Ireland",4,0,Production,60.0,16.0,10.0,Female,4015
+51199,2020-12-14,ANALOG DEVICES,E07,Hardware Engineer,63.0,"Limerick, LK, Ireland",2,1,Analog,60.0,0.0,3.0,NotDisclosed,4020
+51317,2020-12-15,AMAZON,L5,Software Engineer,75.0,"Dublin, DN, Ireland",4,3,Data,53.0,22.0,0.0,Male,4015
+51462,2020-12-16,MASTERCARD,Director,Software Engineering Manager,125.0,"Dublin, DN, Ireland",11,4,Manage Team of Software Developers,69.0,28.0,28.0,NotDisclosed,4015
+52036,2020-12-21,WALMART LABS,E5,Software Engineer,232.0,"Dublin, DN, Ireland",10,1,API Development (Back-End),137.0,59.0,36.0,Male,4015
+52414,2020-12-26,SERVICENOW,IC2,Software Engineer,77.0,"Dublin, DN, Ireland",3,1,Full Stack,62.0,7.0,8.0,Male,4015
+52503,2020-12-28,INTERCOM,Senior Product Engineer,Software Engineer,130.0,"Dublin, DN, Ireland",4,3,Distributed Systems (Back-End),130.0,0.0,0.0,NotDisclosed,4015
+52589,2020-12-29,GOOGLE,L3,Sales,157.0,"Dublin, DN, Ireland",3,3,Growth,110.0,15.0,32.0,Male,4015
+52917,2021-01-02,STRIPE,L2,Software Engineer,195.0,"Dublin, DN, Ireland",4,1,Full Stack,122.0,64.0,9.0,Male,4015
+52971,2021-01-03,GOOGLE,L5,Software Engineer,187.0,"Dublin, DN, Ireland",4,7,Site Reliability (SRE),70.0,99.0,18.0,Female,4015
+53202,2021-01-05,WALMART LABS,E4,Software Engineer,148.0,"Dublin, DN, Ireland",5,2,Web Development (Front-End),84.0,34.0,30.0,Male,4015
+53355,2021-01-06,GOOGLE,L3,Software Engineer,156.0,"Dublin, DN, Ireland",2,1,Site Reliability (SRE),105.0,36.0,15.0,Male,4015
+53370,2021-01-07,AMAZON,L5,Software Engineer,188.0,"Dublin, DN, Ireland",11,0,API Development (Back-End),158.0,30.0,0.0,NotDisclosed,4015
+53843,2021-01-12,FACEBOOK,IC6,Human Resources,242.0,"Dublin, DN, Ireland",9,4,Enterprise,193.0,12.0,37.0,NotDisclosed,4015
+53881,2021-01-12,GOOGLE,L2,Sales,80.0,"Dublin, DN, Ireland",4,2,Consumer,40.0,20.0,20.0,Male,4015
+54077,2021-01-14,QUANTCAST,L3,Data Scientist,78.0,"Dublin, DN, Ireland",6,0,Data,73.0,1.0,4.0,NotDisclosed,4015
+54633,2021-01-19,ZALANDO,C6,Software Engineer,65.0,"Dublin, DN, Ireland",5,0,Distributed Systems (Back-End),59.0,0.0,6.0,NotDisclosed,4015
+54635,2021-01-19,WALMART LABS,Software Engineer 3,Software Engineer,79.0,"Dublin, DN, Ireland",4,4,Distributed Systems (Back-End),45.0,22.0,12.0,Male,4015
+54770,2021-01-20,AMAZON,L4,Software Engineer,131.0,"Dublin, DN, Ireland",8,0,Distributed Systems (Back-End),105.0,18.0,8.0,Female,4015
+54962,2021-01-22,WORKDAY,P4,Software Engineer,138.0,"Dublin, DN, Ireland",7,9,App Dev,76.0,46.0,16.0,Male,4015
+54974,2021-01-22,IBM,Band 8,Software Engineer,61.0,"Dublin, DN, Ireland",11,30,ML / AI,61.0,0.0,0.0,Male,4015
+55560,2021-01-27,GOOGLE,L3,Software Engineer,72.0,"Dublin, DN, Ireland",0,0,Site Reliability (SRE),46.0,9.0,17.0,Male,4015
+55946,2021-01-30,ZALANDO,C8,Software Engineer,225.0,"Dublin, DN, Ireland",15,4,Distributed Systems (Back-End),206.0,17.0,2.0,NotDisclosed,4015
+56388,2021-02-03,AMAZON,L5,Software Engineer,133.0,"Dublin, DN, Ireland",9,1,Full Stack,69.0,39.0,25.0,Male,4015
+56458,2021-02-03,AMAZON,L4,Software Engineer,124.0,"Dublin, DN, Ireland",1,1,Networking,109.0,12.0,3.0,Male,4015
+56670,2021-02-05,APPLE,IC4,Human Resources,91.0,"Cork, CK, Ireland",9,3,hr,48.0,37.0,6.0,NotDisclosed,4013
+56792,2021-02-06,FACEBOOK,IC4,Software Engineer,192.0,"Dublin, DN, Ireland",17,4,Full Stack,97.0,85.0,10.0,Male,4015
+56944,2021-02-08,AMAZON,L4,Software Engineer,91.0,"Dublin, DN, Ireland",3,1,Full Stack,68.0,23.0,0.0,Male,4015
+57131,2021-02-10,INTERCOM,Product Engineer 3,Software Engineer,98.0,"Dublin, DN, Ireland",4,6,Full Stack,98.0,0.0,0.0,NotDisclosed,4015
+57149,2021-02-10,GOOGLE,L3,Software Engineer,110.0,"Dublin, DN, Ireland",2,3,Site Reliability (SRE),70.0,21.0,19.0,Male,4015
+57608,2021-02-14,GOOGLE,L3,Software Engineer,125.0,"Dublin, DN, Ireland",2,1,Site Reliability (SRE),71.0,39.0,15.0,Male,4015
+57711,2021-02-15,AMAZON,L5,Software Engineer,93.0,"Dublin, DN, Ireland",11,0,DevOps,61.0,0.0,32.0,Male,4015
+58114,2021-02-18,AMAZON,L5,Software Engineer,220.0,"Dublin, DN, Ireland",9,0,Distributed Systems (Back-End),171.0,34.0,15.0,Male,4015
+58591,2021-02-22,MICROSOFT,66,Software Engineering Manager,218.0,"Dublin, DN, Ireland",20,2,Full Stack,130.0,58.0,30.0,NotDisclosed,4015
+58635,2021-02-22,JPMORGAN CHASE,Vice President,Software Engineer,162.0,"Dublin, DN, Ireland",12,1,Full Stack,148.0,0.0,14.0,Male,4015
+59772,2021-03-02,GENERAL MOTORS,L6,Software Engineer,66.0,"Dublin, DN, Ireland",3,2,Full Stack,63.0,0.0,3.0,Male,4015
+59839,2021-03-03,MICROSOFT,63,Software Engineer,141.0,"Dublin, DN, Ireland",15,1,Production,98.0,19.0,24.0,Male,4015
+59903,2021-03-03,FACEBOOK,E4,Software Engineer,118.0,"Dublin, DN, Ireland",3,1,Production,70.0,33.0,15.0,Male,4015
+60101,2021-03-04,ZENDESK,ZEN3,Software Engineer,90.0,"Dublin, DN, Ireland",8,3,Distributed Systems (Back-End),55.0,32.0,3.0,NotDisclosed,4015
+60349,2021-03-06,PINTEREST,L4,Marketing,162.0,"Dublin, DN, Ireland",12,1,Salea,67.0,52.0,43.0,Male,4015
+60404,2021-03-07,GOOGLE,L4,Business Analyst,134.0,"Ireland, IN",9,3,Finance,81.0,37.0,16.0,Male,28920
+61121,2021-03-11,SHUTTERSTOCK,L3,Software Engineer,141.0,"Ireland, IN",7,0,Distributed Systems (Back-End),127.0,3.0,11.0,Male,28920
+61695,2021-03-16,AMAZON,L5,Software Engineer,165.0,"Dublin, DN, Ireland",11,0,Site Reliability (SRE),121.0,23.0,21.0,NotDisclosed,4015
+61889,2021-03-17,AMAZON,L4,Software Engineer,72.0,"Dublin, DN, Ireland",0,0,Distributed Systems (Back-End),59.0,8.0,5.0,Male,4015
+62121,2021-03-19,VMWARE,L4,Solution Architect,73.0,"Cork, CK, Ireland",0,0,Cloud,57.0,0.0,16.0,Male,4013
+62541,2021-03-23,WALMART LABS,Staff Software Engineer,Software Engineer,256.0,"Dublin, DN, Ireland",9,3,Distributed Systems (Back-End),187.0,30.0,39.0,NotDisclosed,4015
+63132,2021-03-27,AMAZON,L4,Software Engineer,131.0,"Dublin, DN, Ireland",6,2,Distributed Systems (Back-End),100.0,20.0,11.0,NotDisclosed,4015
+63311,2021-03-29,EQUIFAX,P1,Software Engineer,70.0,"Ireland, IN",2,1,API Development (Back-End),70.0,0.0,0.0,Male,28920
+63502,2021-03-30,AMAZON,L5,Software Engineer,187.0,"Dublin, DN, Ireland",9,3,Networking,149.0,28.0,10.0,NotDisclosed,4015
+63899,2021-04-02,AMAZON,SDE I,Software Engineer,129.0,"Dublin, DN, Ireland",3,0,Distributed Systems (Back-End),114.0,8.0,7.0,NotDisclosed,4015
+63938,2021-04-02,ZENDESK,L4,Software Engineer,131.0,"Dublin, DN, Ireland",10,4,Mobile (iOS + Android),103.0,23.0,5.0,Male,4015
+64118,2021-04-04,HUBSPOT,L1,Software Engineer,136.0,"Dublin, DN, Ireland",9,1,Web Development (Front-End),89.0,47.0,0.0,NotDisclosed,4015
+64367,2021-04-06,ZENDESK,L3,Software Engineer,70.0,"Dublin, DN, Ireland",3,2,Data,48.0,19.0,3.0,NotDisclosed,4015
+64595,2021-04-07,WORKHUMAN,Senior,Software Engineer,107.0,"Dublin, DN, Ireland",3,0,Web Development (Front-End),102.0,0.0,5.0,NotDisclosed,4015
+65127,2021-04-11,CISCO,Grade 8,Software Engineer,108.0,"Galway, GY, Ireland",8,1,Distributed Systems (Back-End),102.0,0.0,6.0,Male,4018
+65254,2021-04-12,FACEBOOK,IC5,Software Engineer,296.0,"Dublin, DN, Ireland",3,5,Full Stack,214.0,62.0,20.0,NotDisclosed,4015
+65459,2021-04-13,FACEBOOK,IC4,Software Engineer,166.0,"Dublin, DN, Ireland",10,2,Distributed Systems (Back-End),120.0,34.0,12.0,Male,4015
+65535,2021-04-13,ACCENTURE,Level 8,Business Analyst,106.0,"Dublin, DN, Ireland",7,2,Consultant ,103.0,0.0,3.0,Female,4015
+65604,2021-04-14,ERICSSON,JS7,Software Engineering Manager,70.0,"Athlone, WH, Ireland",8,6,Full Stack,64.0,0.0,6.0,Male,15461
+66659,2021-04-21,LINKEDIN,IC2,Business Analyst,136.0,"Dublin, DN, Ireland",2,3,Sales,113.0,16.0,7.0,Male,4015
+66692,2021-04-21,AMAZON,L4,Software Engineer,111.0,"Dublin, DN, Ireland",2,0,Distributed Systems (Back-End),95.0,9.0,7.0,NotDisclosed,4015
+66763,2021-04-21,AMAZON,L4,Software Engineer,147.0,"Dublin, DN, Ireland",4,1,API Development (Back-End),118.0,29.0,0.0,Male,4015
+67462,2021-04-26,AMAZON,L5,Software Engineer,157.0,"Dublin, DN, Ireland",3,2,API Development (Back-End),144.0,13.0,0.0,Male,4015
+67641,2021-04-27,ZENDESK,IC7,Product Manager,182.0,"Ireland, IN",13,1,Growth,137.0,32.0,13.0,Female,28920
+68068,2021-05-01,AMAZON,L4,Software Engineer,110.0,"Dublin, DN, Ireland",6,1,API Development (Back-End),79.0,19.0,12.0,Male,4015
+68205,2021-05-02,WORKHUMAN,L3,Software Engineer,117.0,"Dublin, DN, Ireland",3,1,Web Development (Front-End),102.0,0.0,15.0,Male,4015
+68237,2021-05-03,RIOT GAMES,P3,Software Engineer,144.0,"Dublin, DN, Ireland",9,3,Distributed Systems (Back-End),107.0,14.0,23.0,Male,4015
+68591,2021-05-05,WORKHUMAN,L3,Software Engineer,83.0,"Dublin, DN, Ireland",2,1,Web Development (Front-End),79.0,0.0,4.0,Male,4015
+68616,2021-05-05,FACEBOOK,IC4,Business Analyst,159.0,"Dublin, DN, Ireland",9,0,Platform integrity ,124.0,24.0,11.0,Male,4015
+68675,2021-05-06,GOOGLE,L3,Business Analyst,143.0,"Dublin, DN, Ireland",2,2,Sales,94.0,19.0,30.0,NotDisclosed,4015
+68826,2021-05-07,AMAZON,L6,Product Manager,95.0,"Dublin, DN, Ireland",8,3,Product,56.0,17.0,22.0,Male,4015
+68853,2021-05-07,AMAZON,L5,Software Engineer,170.0,"Dublin, DN, Ireland",6,4,Site Reliability (SRE),141.0,24.0,5.0,Male,4015
+69091,2021-05-09,RAPID7,L6,Software Engineer,83.0,"Dublin, DN, Ireland",8,3,Web Development (Front-End),66.0,5.0,12.0,Female,4015
+69145,2021-05-10,WORKDAY,P3,Software Engineer,94.0,"Dublin, DN, Ireland",4,0,API Development (Back-End),65.0,29.0,0.0,Male,4015
+69323,2021-05-11,JPMORGAN CHASE,Associate,Software Engineer,64.0,"Dublin, DN, Ireland",11,4,Distributed Systems (Back-End),57.0,0.0,7.0,NotDisclosed,4015
+69393,2021-05-11,IBM,Band 7,Software Engineer,63.0,"Dublin, DN, Ireland",3,6,Web Development (Front-End),62.0,0.0,1.0,Male,4015
+69823,2021-05-14,MICROSOFT,62,Software Engineer,62.0,"Dublin, DN, Ireland",4,5,Full Stack,45.0,5.0,12.0,Male,4015
+69891,2021-05-14,GOOGLE,L5,Software Engineer,174.0,"Dublin, DN, Ireland",14,13,Site Reliability (SRE),102.0,52.0,20.0,NotDisclosed,4015
+70120,2021-05-17,WORKDAY,P3,Software Engineer,94.0,"Dublin, DN, Ireland",5,0,Distributed Systems (Back-End),71.0,23.0,0.0,Male,4015
+70324,2021-05-19,DEUTSCHE BANK,avp,Data Scientist,154.0,"Dublin, DN, Ireland",18,3,"python, spark, hadoop",151.0,0.0,3.0,Male,4015
+70328,2021-05-19,FACEBOOK,M1,Software Engineering Manager,262.0,"Dublin, DN, Ireland",11,4,Networking,142.0,85.0,35.0,Male,4015
+70413,2021-05-20,MICROSOFT,64,Software Engineer,253.0,"Dublin, DN, Ireland",15,3,API Development (Back-End),203.0,16.0,34.0,Male,4015
+71306,2021-05-27,GOOGLE,L3,Product Designer,97.0,"Dublin, DN, Ireland",2,1,User Research,64.0,20.0,13.0,Female,4015
+71499,2021-05-28,LINKEDIN,Senior Software Engineer,Software Engineer,177.0,"Dublin, DN, Ireland",4,1,ML / AI,96.0,75.0,6.0,NotDisclosed,4015
+72074,2021-06-02,WORKDAY,P4,Software Engineer,151.0,"Dublin, DN, Ireland",11,5,DevOps,55.0,87.0,9.0,Male,4015
+72763,2021-06-07,ZALANDO,C7,Software Engineer,137.0,"Dublin, DN, Ireland",9,3,Distributed Systems (Back-End),137.0,0.0,0.0,NotDisclosed,4015
+73075,2021-06-09,WORKDAY,M3,Software Engineering Manager,256.0,"Dublin, DN, Ireland",12,2,API Development (Back-End),181.0,63.0,12.0,Male,4015
+73117,2021-06-09,CISCO,G8,Software Engineer,136.0,"Galway, GY, Ireland",8,0,Full Stack,120.0,0.0,16.0,Male,4018
+73251,2021-06-10,AMAZON,L5,Software Engineer,165.0,"Dublin, DN, Ireland",18,1,DevOps,131.0,24.0,10.0,Male,4015
+73309,2021-06-10,REDDIT,IC4,Software Engineer,207.0,"Dublin, DN, Ireland",8,3,Full Stack,207.0,0.0,0.0,Male,4015
+73595,2021-06-12,AMAZON,L1,Software Engineer,106.0,"Dublin, DN, Ireland",1,0,Networking,88.0,8.0,10.0,Male,4015
+73898,2021-06-15,AMDOCS,Senior Software Engineer,Software Engineer,92.0,"Dublin, DN, Ireland",12,0,DevOps,92.0,0.0,0.0,NotDisclosed,4015
+75663,2021-06-27,MICROSOFT,62,Software Engineer,178.0,"Dublin, DN, Ireland",11,0,Distributed Systems (Back-End),150.0,14.0,14.0,NotDisclosed,4015
+75711,2021-06-28,ERICSSON,L6,Software Engineer,72.0,"Athlone, WH, Ireland",9,0,Distributed Systems (Back-End),72.0,0.0,0.0,Male,15461
+76033,2021-06-30,FIDELITY INVESTMENTS,L3,Software Engineer,75.0,"Dublin, DN, Ireland",6,1,Web Development (Front-End),49.0,0.0,26.0,Male,4015
+76306,2021-07-01,WORKHUMAN,Senior,Software Engineer,118.0,"Dublin, DN, Ireland",9,1,Web Development (Front-End),111.0,0.0,7.0,NotDisclosed,4015
+76518,2021-07-02,AMAZON,L4,Software Engineer,87.0,"Dublin, DN, Ireland",4,0,API Development (Back-End),62.0,16.0,9.0,Male,4015
+76935,2021-07-06,BNY MELLON,I,Software Engineer,102.0,"Dublin, DN, Ireland",2,4,Full Stack,100.0,0.0,2.0,Male,4015
+77629,2021-07-11,VMWARE,Senior MTS,Software Engineer,148.0,"Galway, GY, Ireland",2,0,Distributed Systems (Back-End),125.0,13.0,10.0,Male,4018
+77632,2021-07-11,AMAZON,L5,Software Engineer,124.0,"Dublin, DN, Ireland",12,0,API Development (Back-End),91.0,21.0,12.0,NotDisclosed,4015
+77638,2021-07-11,ZENDESK,Senior Software Engineer,Software Engineer,76.0,"Dublin, DN, Ireland",3,4,Distributed Systems (Back-End),56.0,17.0,3.0,Male,4015
+77641,2021-07-11,MICROSOFT,61,Software Engineer,74.0,"Dublin, DN, Ireland",6,2,Full Stack,54.0,8.0,12.0,Male,4015
+77657,2021-07-11,SAP,Associate Developer,Software Engineer,68.0,"Galway, GY, Ireland",4,1,SAP development,63.0,0.0,5.0,Male,4018
+77812,2021-07-12,AMAZON,L5,Software Engineer,248.0,"Dublin, DN, Ireland",4,2,Distributed Systems (Back-End),171.0,77.0,0.0,Male,4015
+78355,2021-07-15,CISCO,Grade 11,Solution Architect,124.0,"Dublin, DN, Ireland",12,2,Networking,76.0,16.0,32.0,Male,4015
+78481,2021-07-16,SQUARESPACE,M5,Software Engineering Manager,210.0,"Dublin, DN, Ireland",3,0,DevOps,182.0,28.0,0.0,Male,4015
+78748,2021-07-18,AMAZON,L5,Software Engineer,194.0,"Dublin, DN, Ireland",4,2,Distributed Systems (Back-End),136.0,58.0,0.0,Male,4015
+79152,2021-07-21,HUBSPOT,5,Marketing,129.0,"Dublin, DN, Ireland",9,0,Product Marketing,129.0,0.0,0.0,Male,4015
+79795,2021-07-25,AMAZON,L4,Software Engineer,133.0,"Dublin, DN, Ireland",0,0,Networking,114.0,7.0,12.0,NotDisclosed,4015
+79917,2021-07-26,MICROSOFT,59,Sales,102.0,"Dublin, DN, Ireland",4,5,Digital / Inside Sales,72.0,5.0,25.0,Male,4015
+80277,2021-07-28,VIASAT,Senior,Software Engineer,78.0,"Dublin, DN, Ireland",4,1,Support,78.0,0.0,0.0,Male,4015
+80622,2021-07-30,AMAZON,L6,Software Engineer,200.0,"Dublin, DN, Ireland",13,6,Full Stack,91.0,109.0,0.0,Male,4015
+80875,2021-08-01,SUSQUEHANNA INTERNATIONAL GROUP,L3,Software Engineer,122.0,"Dublin, DN, Ireland",12,5,Data,100.0,0.0,22.0,Male,4015
+81088,2021-08-03,FIREEYE,L3,Software Engineer,130.0,"Dublin, DN, Ireland",13,8,Distributed Systems (Back-End),70.0,54.0,6.0,Male,4015
+81377,2021-08-04,AMAZON,L4,Software Engineer,128.0,"Dublin, DN, Ireland",0,0,Distributed Systems (Back-End),109.0,10.0,9.0,Female,4015
+81713,2021-08-05,ZENDESK,P10,Software Engineer,105.0,"Dublin, DN, Ireland",1,1,Data,101.0,2.0,2.0,Female,4015
+81714,2021-08-05,RIOT GAMES,P3,Software Engineer,144.0,"Dublin, DN, Ireland",11,2,Distributed Systems (Back-End),109.0,0.0,35.0,Male,4015
+81904,2021-08-06,HUBSPOT,Senior Software Engineer II,Software Engineer,128.0,"Dublin, DN, Ireland",8,6,Distributed Systems (Back-End),75.0,53.0,0.0,Male,4015
+81913,2021-08-06,HUBSPOT,Senior,Software Engineer,97.0,"Dublin, DN, Ireland",7,1,Web Development (Front-End),81.0,14.0,2.0,Male,4015
+81915,2021-08-06,HUBSPOT,SSE2,Software Engineer,90.0,"Dublin, DN, Ireland",11,3,Distributed Systems (Back-End),68.0,22.0,0.0,Male,4015
+81917,2021-08-06,AMAZON,L5,Software Engineer,108.0,"Dublin, DN, Ireland",3,1,Distributed Systems (Back-End),91.0,15.0,2.0,Male,4015
+81957,2021-08-06,CISCO,Grade 11,Software Engineer,182.0,"Galway, GY, Ireland",3,9,Full Stack,131.0,40.0,11.0,NotDisclosed,4018
+82302,2021-08-09,IBM,Band 8,Software Engineer,99.0,"Dublin, DN, Ireland",8,4,Full Stack,97.0,0.0,2.0,NotDisclosed,4015
+82316,2021-08-09,MICROSOFT,64,Software Engineer,206.0,"Dublin, DN, Ireland",15,3,Software developer,191.0,15.0,0.0,Male,4015
+82931,2021-08-12,HUAWEI,19,Software Engineer,283.0,"Dublin, DN, Ireland",5,1,Distributed Systems (Back-End),237.0,22.0,24.0,Male,4015
+83505,2021-08-15,GOOGLE,L4,Software Engineer,186.0,"Dublin, DN, Ireland",9,1,Site Reliability (SRE),150.0,24.0,12.0,Male,4015
+83509,2021-08-15,GITLAB,Senior Manager,Marketing,134.0,"Dublin, DN, Ireland",6,1,Customer ,127.0,6.0,1.0,Female,4015
+83562,2021-08-15,AMAZON,L5,Software Engineer,159.0,"Dublin, DN, Ireland",12,0,Distributed Systems (Back-End),123.0,27.0,9.0,NotDisclosed,4015
+83667,2021-08-16,REDDIT,L4,Software Engineer,184.0,"Dublin, DN, Ireland",13,0,Distributed Systems (Back-End),146.0,38.0,0.0,NotDisclosed,4015
+83843,2021-08-17,AMAZON,L5,Software Engineer,99.0,"Dublin, DN, Ireland",9,1,Site Reliability (SRE),61.0,17.0,21.0,Male,4015

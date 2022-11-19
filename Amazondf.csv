@@ -1,0 +1,1573 @@
+rowNumber,Date,Company,Level,Title,TCOMP,Location,YearsOfExperience,YearsOfService,Tag,BaseSalary,StockGrant,Bonus,Gender,CityId
+90,2017-09-08,AMAZON,L5,Software Engineer,197.0,"Seattle, WA",6,6,NotDisclosed,161.0,36.0,0.0,NotDisclosed,11527
+91,2017-09-08,AMAZON,5,Software Engineer,132.0,"Seattle, WA",2,1,NotDisclosed,76.0,56.0,0.0,NotDisclosed,11527
+96,2017-09-10,AMAZON,L5,Software Engineer,167.0,"Seattle, WA",7,8,NotDisclosed,117.0,50.0,0.0,NotDisclosed,11527
+144,2017-11-09,AMAZON,L4,Software Engineer,189.0,"Seattle, WA",0,0,NotDisclosed,158.0,4.0,27.0,NotDisclosed,11527
+166,2017-11-30,AMAZON,L5,Software Engineer,159.0,"Seattle, WA",5,6,NotDisclosed,133.0,26.0,0.0,NotDisclosed,11527
+192,2017-12-28,AMAZON,L6,Software Engineer,178.0,"Seattle, WA",18,2,NotDisclosed,81.0,97.0,0.0,NotDisclosed,11527
+208,2018-01-04,AMAZON,L4,Software Engineer,150.0,"Seattle, WA",1,0,NotDisclosed,117.0,3.0,30.0,NotDisclosed,11527
+230,2018-01-17,AMAZON,L4,Software Engineer,137.0,"Seattle, WA",1,0,NotDisclosed,108.0,4.0,25.0,NotDisclosed,11527
+280,2018-02-06,AMAZON,SDE II,Software Engineer,288.0,"Seattle, WA",6,5,NotDisclosed,188.0,100.0,0.0,NotDisclosed,11527
+334,2018-02-25,AMAZON,L5,Software Engineer,161.0,"Seattle, WA",4,3,NotDisclosed,122.0,24.0,15.0,NotDisclosed,11527
+336,2018-02-26,AMAZON,L5,Software Engineer,133.0,"Seattle, WA",4,1,NotDisclosed,95.0,31.0,7.0,NotDisclosed,11527
+341,2018-02-27,AMAZON,L5,Software Engineer,223.0,"Seattle, WA",2,4,NotDisclosed,145.0,78.0,0.0,NotDisclosed,11527
+351,2018-03-02,AMAZON,5,Software Engineer,142.0,"Seattle, WA",4,5,NotDisclosed,106.0,36.0,0.0,NotDisclosed,11527
+406,2018-03-20,AMAZON,L5,Software Engineer,193.0,"Seattle, WA",13,2,NotDisclosed,83.0,110.0,0.0,NotDisclosed,11527
+480,2018-04-12,AMAZON,L5,Software Engineer,180.0,"Seattle, WA",13,1,NotDisclosed,163.0,17.0,0.0,Male,11527
+515,2018-04-21,AMAZON,L5 / SDE2,Software Engineer,263.0,"Seattle, WA",6,2,NotDisclosed,198.0,65.0,0.0,Female,11527
+523,2018-04-23,AMAZON,L6 - SDE3 - Senior Engineer,Software Engineer,279.0,"Seattle, WA",11,5,NotDisclosed,172.0,107.0,0.0,Male,11527
+574,2018-05-05,AMAZON,L5,Software Engineer,286.0,"Seattle, WA",3,7,NotDisclosed,174.0,112.0,0.0,Male,11527
+587,2018-05-07,AMAZON,L5,Software Engineer,140.0,"Seattle, WA",5,1,NotDisclosed,80.0,29.0,31.0,Male,11527
+597,2018-05-08,AMAZON,L5,Software Engineer,232.0,"Seattle, WA",8,2,NotDisclosed,167.0,65.0,0.0,Male,11527
+646,2018-05-15,AMAZON,L5,Software Engineer,197.0,"Seattle, WA",8,0,NotDisclosed,151.0,15.0,31.0,Male,11527
+743,2018-05-29,AMAZON,5,Software Engineer,185.0,"Seattle, WA",6,2,NotDisclosed,154.0,16.0,15.0,Male,11527
+782,2018-06-02,AMAZON,SDE II,Software Engineer,218.0,"Seattle, WA",27,1,NotDisclosed,168.0,14.0,36.0,Male,11527
+859,2018-06-09,AMAZON,SDE II,Software Engineer,191.0,"Seattle, WA",6,5,Security,119.0,72.0,0.0,Male,11527
+1241,2018-07-31,AMAZON,L5,Software Engineer,170.0,"Seattle, WA",2,2,Distributed Systems (Back-End),122.0,47.0,1.0,Male,11527
+1246,2018-08-01,AMAZON,L5,Software Engineer,156.0,"Seattle, WA",4,4,Distributed Systems (Back-End),130.0,26.0,0.0,Male,11527
+1288,2018-08-07,AMAZON,5,Software Engineer,253.0,"Seattle, WA",10,2,Distributed Systems (Back-End),195.0,58.0,0.0,NotDisclosed,11527
+1291,2018-08-07,AMAZON,L4,Software Engineer,195.0,"Seattle, WA",1,0,Full Stack,161.0,15.0,19.0,Male,11527
+1308,2018-08-08,AMAZON,L4,Software Engineer,156.0,"Seattle, WA",2,0,Distributed Systems (Back-End),101.0,26.0,29.0,NotDisclosed,11527
+1364,2018-08-11,AMAZON,L5,Software Engineer,259.0,"Seattle, WA",4,4,Web Development (Front-End),153.0,106.0,0.0,NotDisclosed,11527
+1498,2018-08-16,AMAZON,SDE II,Software Engineer,213.0,"Seattle, WA",3,3,API Development (Back-End),172.0,41.0,0.0,NotDisclosed,11527
+1623,2018-08-23,AMAZON,L5,Software Engineer,224.0,"Seattle, WA",7,2,Full Stack,167.0,57.0,0.0,NotDisclosed,11527
+1728,2018-08-28,AMAZON,L4,Software Engineer,129.0,"Seattle, WA",0,0,Full Stack,89.0,21.0,19.0,NotDisclosed,11527
+1746,2018-08-29,AMAZON,L5,Software Engineer,188.0,"Seattle, WA",2,3,Distributed Systems (Back-End),112.0,63.0,13.0,NotDisclosed,11527
+1814,2018-09-04,AMAZON,SDE I,Software Engineer,155.0,"Seattle, WA",0,1,API Development (Back-End),123.0,14.0,18.0,NotDisclosed,11527
+1818,2018-09-04,AMAZON,L5,Software Engineer,140.0,"Seattle, WA",13,0,Distributed Systems (Back-End),82.0,41.0,17.0,NotDisclosed,11527
+2086,2018-09-16,AMAZON,SDE II,Software Engineer,170.0,"Seattle, WA",3,1,Distributed Systems (Back-End),97.0,37.0,36.0,NotDisclosed,11527
+2135,2018-09-18,AMAZON,L5,Software Engineer,225.0,"Seattle, WA",4,0,Full Stack,147.0,51.0,27.0,NotDisclosed,11527
+2186,2018-09-21,AMAZON,SDE II,Software Engineer,198.0,"Seattle, WA",4,3,Full Stack,136.0,62.0,0.0,NotDisclosed,11527
+2226,2018-09-22,AMAZON,L5,Software Engineer,244.0,"Seattle, WA",2,3,Full Stack,196.0,48.0,0.0,NotDisclosed,11527
+2324,2018-09-26,AMAZON,L4,Software Engineer,109.0,"Seattle, WA",15,1,ML / AI,98.0,7.0,4.0,NotDisclosed,11527
+2336,2018-09-27,AMAZON,L5,Software Engineer,188.0,"Seattle, WA",5,4,ML / AI,111.0,77.0,0.0,NotDisclosed,11527
+2354,2018-09-27,AMAZON,L5,Software Engineer,132.0,"Seattle, WA",4,1,Full Stack,106.0,5.0,21.0,NotDisclosed,11527
+2468,2018-09-28,AMAZON,L5,Software Engineer,184.0,"Seattle, WA",7,1,Full Stack,134.0,36.0,14.0,NotDisclosed,11527
+2528,2018-09-29,AMAZON,L5,Software Engineer,297.0,"Seattle, WA",3,4,Distributed Systems (Back-End),196.0,98.0,3.0,NotDisclosed,11527
+2537,2018-09-29,AMAZON,L5,Software Engineer,109.0,"Seattle, WA",1,4,Distributed Systems (Back-End),103.0,6.0,0.0,NotDisclosed,11527
+2619,2018-10-02,AMAZON,L5,Software Engineer,241.0,"Seattle, WA",11,0,Distributed Systems (Back-End),168.0,58.0,15.0,NotDisclosed,11527
+2647,2018-10-03,AMAZON,2,Software Engineer,251.0,"Seattle, WA",3,1,Full Stack,183.0,56.0,12.0,NotDisclosed,11527
+2690,2018-10-04,AMAZON,SDE II,Software Engineer,155.0,"Seattle, WA",6,6,API Development (Back-End),126.0,29.0,0.0,NotDisclosed,11527
+2807,2018-10-09,AMAZON,L5,Software Engineer,202.0,"Seattle, WA",9,1,Distributed Systems (Back-End),132.0,59.0,11.0,NotDisclosed,11527
+2825,2018-10-10,AMAZON,L4,Software Engineer,233.0,"Seattle, WA",1,0,Distributed Systems (Back-End),201.0,3.0,29.0,NotDisclosed,11527
+2839,2018-10-10,AMAZON,L5,Software Engineer,190.0,"Seattle, WA",4,2,API Development (Back-End),99.0,91.0,0.0,NotDisclosed,11527
+2901,2018-10-13,AMAZON,L5,Software Engineer,144.0,"Seattle, WA",3,1,Distributed Systems (Back-End),94.0,31.0,19.0,NotDisclosed,11527
+2973,2018-10-16,AMAZON,L6,Software Engineer,133.0,"Seattle, WA",9,5,Distributed Systems (Back-End),73.0,60.0,0.0,NotDisclosed,11527
+2974,2018-10-16,AMAZON,L5,Software Engineer,147.0,"Seattle, WA",4,1,Full Stack,106.0,41.0,0.0,NotDisclosed,11527
+3033,2018-10-19,AMAZON,L5,Software Engineer,230.0,"Seattle, WA",2,1,Distributed Systems (Back-End),181.0,24.0,25.0,NotDisclosed,11527
+3059,2018-10-21,AMAZON,L5,Software Engineer,191.0,"Seattle, WA",32,1,API Development (Back-End),106.0,45.0,40.0,NotDisclosed,11527
+3085,2018-10-23,AMAZON,L5,Software Engineer,244.0,"Seattle, WA",9,1,Full Stack,191.0,25.0,28.0,NotDisclosed,11527
+3148,2018-10-26,AMAZON,L4,Software Engineer,153.0,"Seattle, WA",0,0,Distributed Systems (Back-End),125.0,21.0,7.0,NotDisclosed,11527
+3153,2018-10-26,AMAZON,SDE I,Software Engineer,147.0,"Seattle, WA",0,0,API Development (Back-End),98.0,9.0,40.0,NotDisclosed,11527
+3160,2018-10-27,AMAZON,L4,Software Engineer,112.0,"Seattle, WA",1,1,Web Development (Front-End),101.0,3.0,8.0,NotDisclosed,11527
+3243,2018-10-31,AMAZON,L4,Software Engineer,207.0,"Seattle, WA",1,1,API Development (Back-End),166.0,26.0,15.0,NotDisclosed,11527
+3249,2018-10-31,AMAZON,L5,Software Engineer,122.0,"Seattle, WA",10,0,Distributed Systems (Back-End),81.0,21.0,20.0,NotDisclosed,11527
+3305,2018-10-31,AMAZON,L4,Software Engineer,130.0,"Seattle, WA",3,0,API Development (Back-End),94.0,15.0,21.0,NotDisclosed,11527
+3540,2018-11-01,AMAZON,SDE II,Software Engineer,224.0,"Seattle, WA",11,6,API Development (Back-End),151.0,73.0,0.0,NotDisclosed,11527
+3580,2018-11-01,AMAZON,SDE II,Software Engineer,178.0,"Seattle, WA",3,6,Full Stack,89.0,89.0,0.0,NotDisclosed,11527
+3629,2018-11-02,AMAZON,SDE I,Software Engineer,142.0,"Seattle, WA",0,0,,90.0,43.0,9.0,NotDisclosed,11527
+3658,2018-11-04,AMAZON,L5,Software Engineer,204.0,"Seattle, WA",29,1,Full Stack,80.0,89.0,35.0,Male,11527
+3691,2018-11-05,AMAZON,SDE II,Software Engineer,254.0,"Seattle, WA",4,0,Distributed Systems (Back-End),190.0,41.0,23.0,Male,11527
+3742,2018-11-07,AMAZON,L4,Software Engineer,144.0,"Seattle, WA",0,0,Full Stack,108.0,24.0,12.0,Male,11527
+3743,2018-11-07,AMAZON,L4,Software Engineer,144.0,"Seattle, WA",0,0,Full Stack,127.0,9.0,8.0,Male,11527
+3757,2018-11-08,AMAZON,SDE II,Software Engineer,270.0,"Seattle, WA",4,0,API Development (Back-End),187.0,43.0,40.0,Male,11527
+3901,2018-11-13,AMAZON,SDE I,Software Engineer,101.0,"Seattle, WA",0,0,Distributed Systems (Back-End),87.0,4.0,10.0,Male,11527
+3974,2018-11-17,AMAZON,l5,Software Engineer,173.0,"Seattle, WA",15,2,API Development (Back-End),137.0,19.0,17.0,Male,11527
+4095,2018-11-26,AMAZON,L5,Software Engineer,150.0,"Seattle, WA",3,3,Full Stack,124.0,26.0,0.0,Female,11527
+4170,2018-11-30,AMAZON,L5,Software Engineer,251.0,"Seattle, WA",3,2,API Development (Back-End),167.0,84.0,0.0,Female,11527
+4218,2018-12-03,AMAZON,L4,Software Engineer,131.0,"Seattle, WA",3,0,Full Stack,75.0,29.0,27.0,Male,11527
+4276,2018-12-06,AMAZON,L5,Software Engineer,218.0,"Seattle, WA",1,3,Web Development (Front-End),176.0,25.0,17.0,Male,11527
+4422,2018-12-13,AMAZON,L5,Software Engineer,260.0,"Seattle, WA",7,1,Distributed Systems (Back-End),198.0,54.0,8.0,Male,11527
+4438,2018-12-14,AMAZON,L5,Software Engineer,179.0,"Seattle, WA",8,0,Full Stack,101.0,51.0,27.0,NotDisclosed,11527
+4445,2018-12-15,AMAZON,L6,Software Engineer,221.0,"Seattle, WA",15,9,Distributed Systems (Back-End),128.0,93.0,0.0,Male,11527
+4483,2018-12-18,AMAZON,SDE I,Software Engineer,130.0,"Seattle, WA",3,0,Full Stack,86.0,4.0,40.0,Male,11527
+4503,2018-12-18,AMAZON,L4,Software Engineer,247.0,"Seattle, WA",1,0,Distributed Systems (Back-End),198.0,11.0,38.0,Male,11527
+4514,2018-12-19,AMAZON,L4,Software Engineer,168.0,"Seattle, WA",0,0,,120.0,17.0,31.0,Male,11527
+4516,2018-12-19,AMAZON,L5,Software Engineer,219.0,"Seattle, WA",2,0,API Development (Back-End),128.0,91.0,0.0,Male,11527
+4618,2018-12-24,AMAZON,L5,Software Engineer,121.0,"Seattle, WA",1,1,API Development (Back-End),77.0,38.0,6.0,Male,11527
+4658,2018-12-26,AMAZON,L5,Software Engineer,126.0,"Seattle, WA",7,3,Android,96.0,30.0,0.0,Male,11527
+4745,2018-12-28,AMAZON,L4,Software Engineer,170.0,"Seattle, WA",1,1,API Development (Back-End),142.0,9.0,19.0,Male,11527
+4770,2018-12-29,AMAZON,SDE I,Software Engineer,135.0,"Seattle, WA",0,0,Full Stack,107.0,16.0,12.0,Male,11527
+4839,2019-01-04,AMAZON,L5,Software Engineer,143.0,"Seattle, WA",1,1,Distributed Systems (Back-End),109.0,18.0,16.0,Male,11527
+4886,2019-01-06,AMAZON,SDE II,Software Engineer,216.0,"Seattle, WA",3,4,Full Stack,128.0,88.0,0.0,Male,11527
+4946,2019-01-09,AMAZON,L4,Software Engineer,110.0,"Seattle, WA",2,0,Full Stack,81.0,3.0,26.0,Female,11527
+5056,2019-01-13,AMAZON,L4,Software Engineer,129.0,"Seattle, WA",0,0,Full Stack,92.0,5.0,32.0,Male,11527
+5180,2019-01-18,AMAZON,SDE II,Software Engineer,134.0,"Seattle, WA",5,2,Distributed Systems (Back-End),86.0,48.0,0.0,Male,11527
+5249,2019-01-21,AMAZON,L4,Software Engineer,151.0,"Seattle, WA",6,0,API Development (Back-End),105.0,30.0,16.0,Male,11527
+5260,2019-01-21,AMAZON,L5,Software Engineer,231.0,"Seattle, WA",4,1,Full Stack,198.0,11.0,22.0,Male,11527
+5266,2019-01-22,AMAZON,SDE II,Software Engineer,208.0,"Seattle, WA",7,0,Full Stack,149.0,38.0,21.0,Male,11527
+5272,2019-01-22,AMAZON,SDE II,Software Engineer,239.0,"Seattle, WA",11,3,Full Stack,180.0,59.0,0.0,Male,11527
+5284,2019-01-22,AMAZON,L5,Software Engineer,229.0,"Seattle, WA",7,0,Full Stack,140.0,51.0,38.0,Male,11527
+5288,2019-01-22,AMAZON,SDE II,Software Engineer,103.0,"Seattle, WA",5,7,Distributed Systems (Back-End),71.0,32.0,0.0,Male,11527
+5347,2019-01-25,AMAZON,SDE II,Software Engineer,220.0,"Seattle, WA",3,0,Distributed Systems (Back-End),164.0,40.0,16.0,Other,11527
+5357,2019-01-25,AMAZON,SDE II,Software Engineer,180.0,"Seattle, WA",2,4,Distributed Systems (Back-End),115.0,52.0,13.0,Male,11527
+5382,2019-01-26,AMAZON,L6,Software Engineer,244.0,"Seattle, WA",12,8,Full Stack,146.0,96.0,2.0,Male,11527
+5432,2019-01-29,AMAZON,L4,Software Engineer,135.0,"Seattle, WA",1,0,Distributed Systems (Back-End),88.0,15.0,32.0,Male,11527
+5433,2019-01-29,AMAZON,L5,Software Engineer,202.0,"Seattle, WA",4,2,API Development (Back-End),148.0,31.0,23.0,Female,11527
+5458,2019-01-30,AMAZON,SDE II,Software Engineer,144.0,"Seattle, WA",4,5,Distributed Systems (Back-End),124.0,20.0,0.0,Male,11527
+5492,2019-01-31,AMAZON,SDE II,Software Engineer,190.0,"Seattle, WA",6,0,Full Stack,161.0,9.0,20.0,Male,11527
+5651,2019-02-05,AMAZON,L5,Software Engineer,119.0,"Seattle, WA",1,1,Distributed Systems (Back-End),88.0,21.0,10.0,Male,11527
+5694,2019-02-06,AMAZON,L4,Software Engineer,193.0,"Seattle, WA",0,1,Distributed Systems (Back-End),167.0,7.0,19.0,Male,11527
+5709,2019-02-07,AMAZON,SDE II,Software Engineer,252.0,"Seattle, WA",3,2,Full Stack,200.0,30.0,22.0,Male,11527
+5742,2019-02-08,AMAZON,L4,Software Engineer,181.0,"Seattle, WA",4,0,Web Development (Front-End),152.0,26.0,3.0,Male,11527
+5830,2019-02-12,AMAZON,SDE III,Software Engineer,182.0,"Seattle, WA",5,3,Networking,139.0,43.0,0.0,Male,11527
+5917,2019-02-15,AMAZON,L5,Software Engineer,208.0,"Seattle, WA",6,4,Full Stack,150.0,58.0,0.0,Male,11527
+5924,2019-02-15,AMAZON,SDE II,Software Engineer,244.0,"Seattle, WA",5,1,Distributed Systems (Back-End),201.0,28.0,15.0,Male,11527
+6007,2019-02-19,AMAZON,L4,Software Engineer,154.0,"Seattle, WA",1,0,Distributed Systems (Back-End),120.0,21.0,13.0,NotDisclosed,11527
+6022,2019-02-20,AMAZON,SDE III,Software Engineer,315.0,"Seattle, WA",6,7,Android,201.0,90.0,24.0,NotDisclosed,11527
+6031,2019-02-21,AMAZON,L4,Software Engineer,183.0,"Seattle, WA",1,2,Full Stack,155.0,8.0,20.0,Male,11527
+6202,2019-02-27,AMAZON,L4,Software Engineer,131.0,"Seattle, WA",5,0,Full Stack,106.0,4.0,21.0,Male,11527
+6301,2019-03-01,AMAZON,L4,Software Engineer,174.0,"Seattle, WA",0,0,Full Stack,125.0,17.0,32.0,Male,11527
+6315,2019-03-02,AMAZON,L4,Software Engineer,189.0,"Seattle, WA",15,1,Full Stack,155.0,3.0,31.0,Male,11527
+6394,2019-03-04,AMAZON,SDE I,Software Engineer,175.0,"Seattle, WA",4,0,Distributed Systems (Back-End),147.0,16.0,12.0,NotDisclosed,11527
+6465,2019-03-06,AMAZON,SDE II,Software Engineer,155.0,"Seattle, WA",0,1,Distributed Systems (Back-End),100.0,47.0,8.0,Male,11527
+6499,2019-03-07,AMAZON,SDE I,Software Engineer,165.0,"Seattle, WA",0,0,Full Stack,147.0,10.0,8.0,Male,11527
+6504,2019-03-07,AMAZON,L5,Software Engineer,179.0,"Seattle, WA",9,1,Distributed Systems (Back-End),139.0,32.0,8.0,Male,11527
+6514,2019-03-07,AMAZON,L5,Software Engineer,115.0,"Seattle, WA",6,0,Full Stack,79.0,21.0,15.0,Male,11527
+6525,2019-03-08,AMAZON,L4,Software Engineer,143.0,"Seattle, WA",3,3,Full Stack,124.0,10.0,9.0,Female,11527
+6567,2019-03-09,AMAZON,L5,Software Engineer,123.0,"Seattle, WA",5,2,API Development (Back-End),74.0,49.0,0.0,NotDisclosed,11527
+6648,2019-03-12,AMAZON,L5,Software Engineer,258.0,"Seattle, WA",12,4,Distributed Systems (Back-End),185.0,73.0,0.0,Female,11527
+6691,2019-03-13,AMAZON,SDE II,Software Engineer,233.0,"Seattle, WA",12,2,iOS,153.0,51.0,29.0,Male,11527
+6752,2019-03-15,AMAZON,SDE II,Software Engineer,160.0,"Seattle, WA",15,0,Full Stack,112.0,41.0,7.0,Male,11527
+6849,2019-03-19,AMAZON,SDE II,Software Engineer,211.0,"Seattle, WA",13,1,Web Development (Front-End),149.0,62.0,0.0,Male,11527
+6914,2019-03-21,AMAZON,L4,Software Engineer,185.0,"Seattle, WA",2,0,API Development (Back-End),143.0,5.0,37.0,Male,11527
+6916,2019-03-21,AMAZON,L5,Software Engineer,179.0,"Seattle, WA",6,0,Full Stack,89.0,64.0,26.0,NotDisclosed,11527
+6967,2019-03-22,AMAZON,SDE I,Software Engineer,139.0,"Seattle, WA",1,0,Distributed Systems (Back-End),104.0,5.0,30.0,Male,11527
+7007,2019-03-23,AMAZON,L4,Software Engineer,115.0,"Seattle, WA",0,0,API Development (Back-End),73.0,23.0,19.0,Male,11527
+7049,2019-03-25,AMAZON,5,Software Engineer,290.0,"Seattle, WA",5,3,API Development (Back-End),178.0,112.0,0.0,Male,11527
+7103,2019-03-26,AMAZON,L4,Software Engineer,167.0,"Seattle, WA",2,4,Distributed Systems (Back-End),89.0,78.0,0.0,Male,11527
+7135,2019-03-27,AMAZON,SDE II,Software Engineer,132.0,"Seattle, WA",3,3,Distributed Systems (Back-End),115.0,17.0,0.0,Male,11527
+7158,2019-03-28,AMAZON,L6,Software Engineer,254.0,"Seattle, WA",17,15,ML / AI,162.0,92.0,0.0,NotDisclosed,11527
+7172,2019-03-28,AMAZON,L5,Software Engineer,232.0,"Seattle, WA",9,5,Networking,141.0,91.0,0.0,Male,11527
+7203,2019-03-29,AMAZON,SDE I,Software Engineer,203.0,"Seattle, WA",3,4,Full Stack,158.0,30.0,15.0,Male,11527
+7214,2019-03-29,AMAZON,SDE I,Software Engineer,157.0,"Seattle, WA",0,0,Web Development (Front-End),128.0,23.0,6.0,Male,11527
+7230,2019-03-30,AMAZON,SDE II,Software Engineer,116.0,"Seattle, WA",12,7,Distributed Systems (Back-End),87.0,29.0,0.0,Male,11527
+7279,2019-03-31,AMAZON,L4,Software Engineer,168.0,"Seattle, WA",0,0,API Development (Back-End),142.0,4.0,22.0,NotDisclosed,11527
+7308,2019-04-01,AMAZON,SDE I,Software Engineer,157.0,"Seattle, WA",2,0,Security,108.0,6.0,43.0,Male,11527
+7370,2019-04-02,AMAZON,L4,Software Engineer,172.0,"Seattle, WA",0,1,Distributed Systems (Back-End),128.0,11.0,33.0,Male,11527
+7470,2019-04-05,AMAZON,L4,Software Engineer,270.0,"Seattle, WA",1,1,ML / AI,207.0,41.0,22.0,Male,11527
+7473,2019-04-05,AMAZON,L4,Software Engineer,219.0,"Seattle, WA",1,0,Distributed Systems (Back-End),177.0,14.0,28.0,Female,11527
+7543,2019-04-08,AMAZON,SDE I,Software Engineer,183.0,"Seattle, WA",0,0,Full Stack,143.0,27.0,13.0,Male,11527
+7615,2019-04-10,AMAZON,L5,Software Engineer,189.0,"Seattle, WA",7,3,Full Stack,106.0,83.0,0.0,Male,11527
+7618,2019-04-10,AMAZON,SDE I,Software Engineer,212.0,"Seattle, WA",1,0,API Development (Back-End),181.0,9.0,22.0,Male,11527
+7634,2019-04-10,AMAZON,L5,Software Engineer,162.0,"Seattle, WA",5,5,API Development (Back-End),90.0,72.0,0.0,Male,11527
+7636,2019-04-10,AMAZON,L5,Software Engineer,284.0,"Seattle, WA",6,0,API Development (Back-End),198.0,45.0,41.0,Male,11527
+7652,2019-04-11,AMAZON,L5,Software Engineer,237.0,"Seattle, WA",9,7,Distributed Systems (Back-End),203.0,34.0,0.0,NotDisclosed,11527
+7666,2019-04-11,AMAZON,SDE I,Software Engineer,208.0,"Seattle, WA",1,0,Distributed Systems (Back-End),165.0,14.0,29.0,Male,11527
+7671,2019-04-11,AMAZON,L5,Software Engineer,185.0,"Seattle, WA",11,4,API Development (Back-End),119.0,66.0,0.0,Male,11527
+7768,2019-04-14,AMAZON,L5,Software Engineer,152.0,"Seattle, WA",3,4,Distributed Systems (Back-End),74.0,78.0,0.0,Male,11527
+7769,2019-04-14,AMAZON,L5,Software Engineer,175.0,"Seattle, WA",3,4,Distributed Systems (Back-End),140.0,35.0,0.0,Male,11527
+7810,2019-04-15,AMAZON,L5,Software Engineer,272.0,"Seattle, WA",5,3,API Development (Back-End),204.0,68.0,0.0,NotDisclosed,11527
+7859,2019-04-16,AMAZON,L4,Software Engineer,199.0,"Seattle, WA",8,1,Full Stack,174.0,17.0,8.0,Male,11527
+7875,2019-04-17,AMAZON,SDE III,Software Engineer,183.0,"Seattle, WA",6,4,API Development (Back-End),110.0,73.0,0.0,Male,11527
+7894,2019-04-17,AMAZON,L5,Software Engineer,108.0,"Seattle, WA",3,1,Web Development (Front-End),82.0,23.0,3.0,Male,11527
+7900,2019-04-18,AMAZON,L5,Software Engineer,240.0,"Seattle, WA",6,7,Full Stack,137.0,103.0,0.0,Male,11527
+7912,2019-04-18,AMAZON,SDE I,Software Engineer,147.0,"Seattle, WA",0,0,Full Stack,138.0,9.0,0.0,Male,11527
+7921,2019-04-18,AMAZON,L5,Software Engineer,194.0,"Seattle, WA",2,3,Full Stack,112.0,75.0,7.0,Male,11527
+7945,2019-04-19,AMAZON,SDE I,Software Engineer,174.0,"Seattle, WA",1,0,Distributed Systems (Back-End),134.0,22.0,18.0,NotDisclosed,11527
+7964,2019-04-20,AMAZON,SDE II,Software Engineer,146.0,"Seattle, WA",7,6,Distributed Systems (Back-End),110.0,36.0,0.0,NotDisclosed,11527
+8016,2019-04-22,AMAZON,L5,Software Engineer,132.0,"Seattle, WA",9,4,Distributed Systems (Back-End),70.0,62.0,0.0,Male,11527
+8018,2019-04-22,AMAZON,SDE I,Software Engineer,208.0,"Seattle, WA",1,0,Robotics,148.0,39.0,21.0,Male,11527
+8029,2019-04-22,AMAZON,SDE II,Software Engineer,231.0,"Seattle, WA",11,4,API Development (Back-End),186.0,45.0,0.0,Male,11527
+8030,2019-04-22,AMAZON,L5,Software Engineer,273.0,"Seattle, WA",17,3,Full Stack,188.0,85.0,0.0,Male,11527
+8086,2019-04-23,AMAZON,SDE III,Software Engineer,222.0,"Seattle, WA",9,12,API Development (Back-End),181.0,41.0,0.0,Male,11527
+8091,2019-04-24,AMAZON,Senior SDE,Software Engineer,157.0,"Seattle, WA",5,6,Full Stack,91.0,66.0,0.0,Male,11527
+8106,2019-04-24,AMAZON,L5,Software Engineer,254.0,"Seattle, WA",4,7,Full Stack,165.0,89.0,0.0,Male,11527
+8114,2019-04-24,AMAZON,L6,Software Engineer,182.0,"Seattle, WA",19,4,DevOps,138.0,44.0,0.0,NotDisclosed,11527
+8125,2019-04-25,AMAZON,L5,Software Engineer,205.0,"Seattle, WA",5,1,Full Stack,174.0,18.0,13.0,Male,11527
+8161,2019-04-26,AMAZON,L6,Software Engineer,221.0,"Seattle, WA",8,1,Web Development (Front-End),123.0,98.0,0.0,Male,11527
+8265,2019-04-30,AMAZON,SDE III,Software Engineer,198.0,"Seattle, WA",11,7,Distributed Systems (Back-End),115.0,83.0,0.0,Male,11527
+8302,2019-05-01,AMAZON,L4,Software Engineer,157.0,"Seattle, WA",3,1,Embedded,124.0,18.0,15.0,Male,11527
+8345,2019-05-02,AMAZON,L5,Software Engineer,140.0,"Seattle, WA",2,3,Full Stack,80.0,54.0,6.0,Male,11527
+8366,2019-05-02,AMAZON,SDE II,Software Engineer,162.0,"Seattle, WA",4,0,Web Development (Front-End),101.0,58.0,3.0,Male,11527
+8380,2019-05-03,AMAZON,L5,Software Engineer,208.0,"Seattle, WA",3,4,Distributed Systems (Back-End),177.0,31.0,0.0,Male,11527
+8381,2019-05-03,AMAZON,L5,Software Engineer,200.0,"Seattle, WA",3,4,API Development (Back-End),144.0,56.0,0.0,Male,11527
+8419,2019-05-04,AMAZON,L5,Software Engineer,221.0,"Seattle, WA",9,4,API Development (Back-End),180.0,41.0,0.0,Male,11527
+8566,2019-05-10,AMAZON,L5,Software Engineer,199.0,"Seattle, WA",7,2,Full Stack,125.0,74.0,0.0,Male,11527
+8596,2019-05-10,AMAZON,SDE II,Software Engineer,187.0,"Seattle, WA",1,3,Full Stack,134.0,44.0,9.0,Male,11527
+8631,2019-05-11,AMAZON,SDE I,Software Engineer,135.0,"Seattle, WA",2,1,ML / AI,108.0,14.0,13.0,Male,11527
+8654,2019-05-12,AMAZON,L4,Software Engineer,140.0,"Seattle, WA",0,0,Distributed Systems (Back-End),115.0,25.0,0.0,Male,11527
+8657,2019-05-13,AMAZON,SDE II,Software Engineer,181.0,"Seattle, WA",3,3,API Development (Back-End),113.0,68.0,0.0,Male,11527
+8742,2019-05-16,AMAZON,L4,Software Engineer,131.0,"Seattle, WA",1,1,Distributed Systems (Back-End),88.0,30.0,13.0,Male,11527
+8778,2019-05-16,AMAZON,L4,Software Engineer,136.0,"Seattle, WA",4,1,API Development (Back-End),117.0,7.0,12.0,Male,11527
+8828,2019-05-18,AMAZON,SDE II,Software Engineer,240.0,"Seattle, WA",6,5,Distributed Systems (Back-End),173.0,67.0,0.0,Male,11527
+8829,2019-05-18,AMAZON,L5,Software Engineer,166.0,"Seattle, WA",7,4,Distributed Systems (Back-End),136.0,30.0,0.0,Male,11527
+8942,2019-05-21,AMAZON,SDE II,Software Engineer,200.0,"Seattle, WA",8,2,API Development (Back-End),171.0,29.0,0.0,Male,11527
+8944,2019-05-21,AMAZON,L4,Software Engineer,162.0,"Seattle, WA",4,0,Distributed Systems (Back-End),122.0,11.0,29.0,Female,11527
+8998,2019-05-22,AMAZON,SDE I,Software Engineer,224.0,"Seattle, WA",3,0,API Development (Back-End),167.0,37.0,20.0,Male,11527
+9054,2019-05-23,AMAZON,L5,Software Engineer,138.0,"Seattle, WA",2,2,Back-end,113.0,25.0,0.0,Male,11527
+9092,2019-05-24,AMAZON,L5,Software Engineer,193.0,"Seattle, WA",8,7,Distributed Systems (Back-End),145.0,48.0,0.0,Male,11527
+9102,2019-05-24,AMAZON,5,Software Engineer,227.0,"Seattle, WA",5,4,Distributed Systems (Back-End),152.0,75.0,0.0,Male,11527
+9118,2019-05-24,AMAZON,L5,Software Engineer,161.0,"Seattle, WA",1,0,Distributed Systems (Back-End),128.0,33.0,0.0,Male,11527
+9132,2019-05-25,AMAZON,L5,Software Engineer,231.0,"Seattle, WA",2,1,Embedded,183.0,48.0,0.0,NotDisclosed,11527
+9160,2019-05-26,AMAZON,L5,Software Engineer,246.0,"Seattle, WA",4,2,Distributed Systems (Back-End),154.0,92.0,0.0,Male,11527
+9163,2019-05-27,AMAZON,L5,Software Engineer,259.0,"Seattle, WA",2,3,ML / AI,202.0,57.0,0.0,Male,11527
+9194,2019-05-28,AMAZON,SDE III,Software Engineer,127.0,"Seattle, WA",9,5,Distributed Systems (Back-End),74.0,53.0,0.0,NotDisclosed,11527
+9207,2019-05-28,AMAZON,L5,Software Engineer,175.0,"Seattle, WA",8,0,Distributed Systems (Back-End),88.0,78.0,9.0,Male,11527
+9250,2019-05-29,AMAZON,L4,Software Engineer,134.0,"Seattle, WA",2,0,API Development (Back-End),79.0,18.0,37.0,NotDisclosed,11527
+9334,2019-06-01,AMAZON,L4,Software Engineer,115.0,"Seattle, WA",5,3,Web Development (Front-End),99.0,16.0,0.0,Male,11527
+9361,2019-06-02,AMAZON,SDE I,Software Engineer,199.0,"Seattle, WA",0,0,Testing (SDET),166.0,6.0,27.0,Male,11527
+9486,2019-06-06,AMAZON,L5,Software Engineer,171.0,"Seattle, WA",6,3,Full Stack,127.0,44.0,0.0,Male,11527
+9488,2019-06-06,AMAZON,L5,Software Engineer,200.0,"Seattle, WA",3,2,API Development (Back-End),180.0,20.0,0.0,Female,11527
+9522,2019-06-07,AMAZON,L5,Software Engineer,202.0,"Seattle, WA",4,4,Distributed Systems (Back-End),179.0,23.0,0.0,Male,11527
+9596,2019-06-09,AMAZON,L5,Software Engineer,103.0,"Seattle, WA",7,2,Full Stack,85.0,18.0,0.0,Male,11527
+9597,2019-06-09,AMAZON,SDE II,Software Engineer,238.0,"Seattle, WA",7,5,Distributed Systems (Back-End),163.0,75.0,0.0,Male,11527
+9614,2019-06-09,AMAZON,L4,Software Engineer,150.0,"Seattle, WA",0,0,Networking,130.0,3.0,17.0,Male,11527
+9629,2019-06-10,AMAZON,L6,Software Engineer,203.0,"Seattle, WA",6,6,Distributed Systems (Back-End),92.0,111.0,0.0,Male,11527
+9636,2019-06-10,AMAZON,SDE I,Software Engineer,129.0,"Seattle, WA",0,0,Devices,87.0,26.0,16.0,Male,11527
+9682,2019-06-11,AMAZON,SDE I,Software Engineer,165.0,"Seattle, WA",3,1,Distributed Systems (Back-End),137.0,28.0,0.0,NotDisclosed,11527
+9683,2019-06-11,AMAZON,L5,Software Engineer,228.0,"Seattle, WA",1,3,Distributed Systems (Back-End),183.0,28.0,17.0,Male,11527
+9688,2019-06-11,AMAZON,SDE II,Software Engineer,134.0,"Seattle, WA",5,6,API Development (Back-End),87.0,47.0,0.0,Male,11527
+9754,2019-06-13,AMAZON,L5,Software Engineer,114.0,"Seattle, WA",2,3,Full Stack,85.0,29.0,0.0,Male,11527
+9770,2019-06-13,AMAZON,SDE I,Software Engineer,198.0,"Seattle, WA",2,3,API Development (Back-End),163.0,16.0,19.0,Male,11527
+9838,2019-06-15,AMAZON,L5,Software Engineer,225.0,"Seattle, WA",0,6,ML / AI,203.0,22.0,0.0,Male,11527
+9861,2019-06-15,AMAZON,SDE II,Software Engineer,212.0,"Seattle, WA",4,2,Full Stack,175.0,37.0,0.0,Male,11527
+9879,2019-06-15,AMAZON,L5,Software Engineer,166.0,"Seattle, WA",6,2,Full Stack,77.0,89.0,0.0,Male,11527
+9985,2019-06-15,AMAZON,L5,Software Engineer,128.0,"Seattle, WA",9,8,Full Stack,76.0,52.0,0.0,Male,11527
+10052,2019-06-15,AMAZON,L5,Software Engineer,238.0,"Seattle, WA",4,3,API Development (Back-End),197.0,41.0,0.0,Male,11527
+10157,2019-06-15,AMAZON,SDE II,Software Engineer,189.0,"Seattle, WA",7,4,Distributed Systems (Back-End),160.0,29.0,0.0,Male,11527
+10160,2019-06-15,AMAZON,L5,Software Engineer,213.0,"Seattle, WA",5,2,Full Stack,148.0,57.0,8.0,Male,11527
+10179,2019-06-16,AMAZON,L5,Software Engineer,216.0,"Seattle, WA",6,3,Distributed Systems (Back-End),105.0,111.0,0.0,Male,11527
+10190,2019-06-16,AMAZON,L4,Software Engineer,175.0,"Seattle, WA",5,3,Full Stack,123.0,52.0,0.0,NotDisclosed,11527
+10389,2019-06-16,AMAZON,L5,Software Engineer,157.0,"Seattle, WA",5,2,Web Development (Front-End),114.0,43.0,0.0,Female,11527
+10395,2019-06-16,AMAZON,L4,Software Engineer,214.0,"Seattle, WA",4,0,API Development (Back-End),170.0,25.0,19.0,Male,11527
+10444,2019-06-17,AMAZON,L5,Software Engineer,216.0,"Seattle, WA",23,5,Distributed Systems (Back-End),192.0,24.0,0.0,Male,11527
+10450,2019-06-17,AMAZON,L6,Software Engineer,228.0,"Seattle, WA",8,4,Distributed Systems (Back-End),151.0,77.0,0.0,Male,11527
+10562,2019-06-17,AMAZON,L5,Software Engineer,222.0,"Seattle, WA",7,3,Embedded,132.0,90.0,0.0,Male,11527
+10716,2019-06-19,AMAZON,SDE II,Software Engineer,197.0,"Seattle, WA",5,4,Distributed Systems (Back-End),139.0,58.0,0.0,Male,11527
+10764,2019-06-19,AMAZON,L4,Software Engineer,156.0,"Seattle, WA",1,0,Security,119.0,25.0,12.0,Male,11527
+10824,2019-06-20,AMAZON,SDE II,Software Engineer,139.0,"Seattle, WA",3,3,Full Stack,112.0,27.0,0.0,NotDisclosed,11527
+10852,2019-06-20,AMAZON,L4,Software Engineer,118.0,"Seattle, WA",1,1,Full Stack,72.0,19.0,27.0,Male,11527
+10872,2019-06-21,AMAZON,L6,Software Engineer,242.0,"Seattle, WA",13,4,Web Development (Front-End),136.0,106.0,0.0,Male,11527
+10875,2019-06-21,AMAZON,SDE II,Software Engineer,287.0,"Seattle, WA",4,1,Distributed Systems (Back-End),193.0,67.0,27.0,Male,11527
+10993,2019-06-23,AMAZON,L4,Software Engineer,197.0,"Seattle, WA",1,0,Full Stack,165.0,21.0,11.0,NotDisclosed,11527
+11055,2019-06-24,AMAZON,L5,Software Engineer,156.0,"Seattle, WA",4,1,Full Stack,134.0,22.0,0.0,Male,11527
+11065,2019-06-25,AMAZON,L5,Software Engineer,143.0,"Seattle, WA",3,2,API Development (Back-End),88.0,36.0,19.0,Male,11527
+11134,2019-06-26,AMAZON,L5,Software Engineer,125.0,"Seattle, WA",5,1,Web Development (Front-End),89.0,36.0,0.0,Female,11527
+11154,2019-06-26,AMAZON,L5,Software Engineer,208.0,"Seattle, WA",7,1,Distributed Systems (Back-End),109.0,99.0,0.0,Male,11527
+11166,2019-06-26,AMAZON,L5,Software Engineer,160.0,"Seattle, WA",2,3,ML / AI,94.0,38.0,28.0,Male,11527
+11240,2019-06-28,AMAZON,L5,Software Engineer,222.0,"Seattle, WA",7,2,Full Stack,182.0,40.0,0.0,Male,11527
+11257,2019-06-29,AMAZON,L5,Software Engineer,245.0,"Seattle, WA",3,3,Distributed Systems (Back-End),189.0,56.0,0.0,Male,11527
+11271,2019-06-29,AMAZON,L5,Software Engineer,227.0,"Seattle, WA",6,9,Full Stack,132.0,95.0,0.0,Male,11527
+11288,2019-06-29,AMAZON,l5,Software Engineer,188.0,"Seattle, WA",3,4,Distributed Systems (Back-End),132.0,56.0,0.0,Male,11527
+11344,2019-07-01,AMAZON,L5,Software Engineer,167.0,"Seattle, WA",13,4,Distributed Systems (Back-End),105.0,62.0,0.0,Male,11527
+11355,2019-07-01,AMAZON,L5,Software Engineer,103.0,"Seattle, WA",4,1,Distributed Systems (Back-End),73.0,30.0,0.0,Male,11527
+11398,2019-07-02,AMAZON,L5,Software Engineer,249.0,"Seattle, WA",7,6,Mobile (iOS + Android),206.0,43.0,0.0,NotDisclosed,11527
+11492,2019-07-05,AMAZON,SDE II,Software Engineer,262.0,"Seattle, WA",3,1,Distributed Systems (Back-End),175.0,49.0,38.0,Male,11527
+11521,2019-07-06,AMAZON,L5,Software Engineer,245.0,"Seattle, WA",3,4,Distributed Systems (Back-End),160.0,85.0,0.0,Male,11527
+11575,2019-07-09,AMAZON,L5,Software Engineer,201.0,"Seattle, WA",3,3,ML / AI,112.0,89.0,0.0,Male,11527
+11593,2019-07-09,AMAZON,L4,Software Engineer,197.0,"Seattle, WA",2,0,ML / AI,169.0,3.0,25.0,Female,11527
+11622,2019-07-09,AMAZON,SDE I,Software Engineer,179.0,"Seattle, WA",3,0,Distributed Systems (Back-End),154.0,25.0,0.0,Male,11527
+11623,2019-07-09,AMAZON,L5,Software Engineer,109.0,"Seattle, WA",5,5,Distributed Systems (Back-End),76.0,33.0,0.0,Male,11527
+11650,2019-07-10,AMAZON,L5,Software Engineer,177.0,"Seattle, WA",6,0,ML / AI,84.0,73.0,20.0,Male,11527
+11678,2019-07-11,AMAZON,SDE II,Software Engineer,145.0,"Seattle, WA",2,2,Mobile (iOS + Android),93.0,52.0,0.0,Male,11527
+11727,2019-07-12,AMAZON,L4,Software Engineer,178.0,"Seattle, WA",0,0,Distributed Systems (Back-End),152.0,6.0,20.0,Male,11527
+11816,2019-07-14,AMAZON,SDE II,Software Engineer,134.0,"Seattle, WA",7,5,Distributed Systems (Back-End),87.0,47.0,0.0,Male,11527
+11891,2019-07-15,AMAZON,L4,Software Engineer,199.0,"Seattle, WA",0,1,API Development (Back-End),149.0,36.0,14.0,Male,11527
+11913,2019-07-16,AMAZON,L6,Software Engineer,258.0,"Seattle, WA",8,4,Distributed Systems (Back-End),185.0,73.0,0.0,Male,11527
+11921,2019-07-16,AMAZON,L4,Software Engineer,179.0,"Seattle, WA",2,0,Web Development (Front-End),152.0,15.0,12.0,Male,11527
+12011,2019-07-17,AMAZON,L5,Software Engineer,235.0,"Seattle, WA",3,0,Distributed Systems (Back-End),175.0,33.0,27.0,Male,11527
+12080,2019-07-18,AMAZON,L6,Software Engineer,227.0,"Seattle, WA",19,4,API Development (Back-End),126.0,101.0,0.0,Male,11527
+12141,2019-07-20,AMAZON,L4,Software Engineer,192.0,"Seattle, WA",0,0,API Development (Back-End),149.0,29.0,14.0,NotDisclosed,11527
+12171,2019-07-20,AMAZON,SDE II,Software Engineer,137.0,"Seattle, WA",2,6,Android,84.0,21.0,32.0,Male,11527
+12237,2019-07-23,AMAZON,SDE II,Software Engineer,161.0,"Seattle, WA",3,3,API Development (Back-End),104.0,57.0,0.0,Male,11527
+12249,2019-07-23,AMAZON,L5,Software Engineer,232.0,"Seattle, WA",16,1,Distributed Systems (Back-End),180.0,32.0,20.0,Male,11527
+12253,2019-07-23,AMAZON,L5,Software Engineer,186.0,"Seattle, WA",3,2,Full Stack,148.0,38.0,0.0,Male,11527
+12257,2019-07-23,AMAZON,SDE II,Software Engineer,231.0,"Seattle, WA",6,5,Distributed Systems (Back-End),145.0,86.0,0.0,Male,11527
+12394,2019-07-25,AMAZON,L5,Software Engineer,209.0,"Seattle, WA",2,2,Distributed Systems (Back-End),170.0,39.0,0.0,Male,11527
+12464,2019-07-26,AMAZON,L5,Software Engineer,191.0,"Seattle, WA",6,3,Distributed Systems (Back-End),133.0,58.0,0.0,Other,11527
+12479,2019-07-27,AMAZON,SDE II,Software Engineer,247.0,"Seattle, WA",3,1,ML / AI,209.0,29.0,9.0,Male,11527
+12516,2019-07-28,AMAZON,L5,Software Engineer,173.0,"Seattle, WA",5,5,Distributed Systems (Back-End),124.0,49.0,0.0,Male,11527
+12542,2019-07-28,AMAZON,L5,Software Engineer,226.0,"Seattle, WA",9,7,Distributed Systems (Back-End),116.0,110.0,0.0,Male,11527
+12639,2019-07-31,AMAZON,L5,Software Engineer,277.0,"Seattle, WA",2,3,Distributed Systems (Back-End),195.0,82.0,0.0,Male,11527
+12667,2019-07-31,AMAZON,SDE III,Software Engineer,251.0,"Seattle, WA",18,7,Distributed Systems (Back-End),162.0,89.0,0.0,Male,11527
+12701,2019-08-01,AMAZON,SDE I,Software Engineer,128.0,"Seattle, WA",2,0,Distributed Systems (Back-End),98.0,14.0,16.0,NotDisclosed,11527
+12706,2019-08-01,AMAZON,SDE II,Software Engineer,210.0,"Seattle, WA",4,3,ML / AI,164.0,46.0,0.0,Male,11527
+12737,2019-08-01,AMAZON,L5,Software Engineer,246.0,"Seattle, WA",18,3,Android,205.0,41.0,0.0,Male,11527
+12752,2019-08-02,AMAZON,L5,Software Engineer,218.0,"Seattle, WA",3,5,Full Stack,162.0,56.0,0.0,Male,11527
+12875,2019-08-06,AMAZON,L5,Software Engineer,135.0,"Seattle, WA",8,4,API Development (Back-End),102.0,33.0,0.0,Male,11527
+12932,2019-08-09,AMAZON,L5,Software Engineer,233.0,"Seattle, WA",6,0,Web Development (Front-End),180.0,11.0,42.0,Male,11527
+13009,2019-08-12,AMAZON,SDE I,Software Engineer,196.0,"Seattle, WA",3,0,API Development (Back-End),173.0,4.0,19.0,Male,11527
+13047,2019-08-13,AMAZON,L4,Software Engineer,148.0,"Seattle, WA",1,1,API Development (Back-End),114.0,16.0,18.0,Male,11527
+13109,2019-08-13,AMAZON,L5,Software Engineer,200.0,"Seattle, WA",7,1,Full Stack,167.0,15.0,18.0,Male,11527
+13119,2019-08-14,AMAZON,L5,Software Engineer,146.0,"Seattle, WA",1,0,API Development (Back-End),94.0,33.0,19.0,Male,11527
+13139,2019-08-14,AMAZON,L6,Software Engineer,266.0,"Seattle, WA",7,4,Distributed Systems (Back-End),205.0,61.0,0.0,Male,11527
+13230,2019-08-16,AMAZON,L5,Software Engineer,151.0,"Seattle, WA",7,2,Distributed Systems (Back-End),101.0,50.0,0.0,Male,11527
+13244,2019-08-16,AMAZON,L4,Software Engineer,114.0,"Seattle, WA",6,1,DevOps,81.0,33.0,0.0,NotDisclosed,11527
+13299,2019-08-17,AMAZON,L5,Software Engineer,171.0,"Seattle, WA",4,4,API Development (Back-End),126.0,45.0,0.0,Male,11527
+13304,2019-08-17,AMAZON,L4,Software Engineer,108.0,"Seattle, WA",3,3,Distributed Systems (Back-End),80.0,28.0,0.0,Male,11527
+13341,2019-08-18,AMAZON,SDE I,Software Engineer,214.0,"Seattle, WA",0,0,API Development (Back-End),154.0,60.0,0.0,Male,11527
+13404,2019-08-19,AMAZON,L5,Software Engineer,259.0,"Seattle, WA",4,0,Distributed Systems (Back-End),178.0,52.0,29.0,NotDisclosed,11527
+13405,2019-08-19,AMAZON,L5,Software Engineer,257.0,"Seattle, WA",5,10,Full Stack,194.0,63.0,0.0,Male,11527
+13542,2019-08-22,AMAZON,SDE I,Software Engineer,139.0,"Seattle, WA",0,0,Distributed Systems (Back-End),106.0,16.0,17.0,Female,11527
+13579,2019-08-23,AMAZON,L5,Software Engineer,145.0,"Seattle, WA",7,7,Full Stack,105.0,40.0,0.0,Male,11527
+13607,2019-08-23,AMAZON,L4,Software Engineer,201.0,"Seattle, WA",2,1,Full Stack,152.0,30.0,19.0,Female,11527
+13608,2019-08-23,AMAZON,L5,Software Engineer,142.0,"Seattle, WA",4,3,Full Stack,102.0,30.0,10.0,Male,11527
+13665,2019-08-25,AMAZON,L4,Software Engineer,169.0,"Seattle, WA",0,0,Full Stack,144.0,15.0,10.0,Female,11527
+13747,2019-08-27,AMAZON,SDE I,Software Engineer,164.0,"Seattle, WA",0,0,API Development (Back-End),106.0,22.0,36.0,Male,11527
+13792,2019-08-28,AMAZON,L5,Software Engineer,217.0,"Seattle, WA",3,0,Web Development (Front-End),126.0,51.0,40.0,Male,11527
+13816,2019-08-28,AMAZON,L4,Software Engineer,220.0,"Seattle, WA",3,1,API Development (Back-End),162.0,33.0,25.0,Male,11527
+13875,2019-08-29,AMAZON,L5,Software Engineer,147.0,"Seattle, WA",3,3,Full Stack,109.0,38.0,0.0,Male,11527
+13954,2019-08-31,AMAZON,L4,Software Engineer,186.0,"Seattle, WA",4,0,Full Stack,146.0,23.0,17.0,Male,11527
+14001,2019-09-02,AMAZON,L4,Software Engineer,141.0,"Seattle, WA",0,0,API Development (Back-End),102.0,27.0,12.0,Male,11527
+14042,2019-09-03,AMAZON,SDE II,Software Engineer,157.0,"Seattle, WA",7,1,Networking,107.0,16.0,34.0,Male,11527
+14133,2019-09-05,AMAZON,L4,Software Engineer,140.0,"Seattle, WA",1,0,Full Stack,85.0,13.0,42.0,Male,11527
+14169,2019-09-05,AMAZON,L5,Software Engineer,223.0,"Seattle, WA",2,4,Distributed Systems (Back-End),184.0,36.0,3.0,Male,11527
+14201,2019-09-06,AMAZON,L4,Software Engineer,212.0,"Seattle, WA",0,0,Distributed Systems (Back-End),110.0,70.0,32.0,Female,11527
+14288,2019-09-09,AMAZON,SDE II,Software Engineer,180.0,"Seattle, WA",1,3,Distributed Systems (Back-End),135.0,45.0,0.0,Male,11527
+14375,2019-09-10,AMAZON,L5,Software Engineer,138.0,"Seattle, WA",3,4,Embedded,91.0,31.0,16.0,Male,11527
+14387,2019-09-10,AMAZON,L5,Software Engineer,211.0,"Seattle, WA",7,3,Web Development (Front-End),167.0,44.0,0.0,Female,11527
+14402,2019-09-11,AMAZON,L4,Software Engineer,143.0,"Seattle, WA",1,1,ML / AI,91.0,22.0,30.0,Male,11527
+14449,2019-09-11,AMAZON,SDE II,Software Engineer,272.0,"Seattle, WA",9,4,Distributed Systems (Back-End),189.0,83.0,0.0,Male,11527
+14505,2019-09-12,AMAZON,L6,Software Engineer,208.0,"Seattle, WA",9,8,API Development (Back-End),137.0,71.0,0.0,NotDisclosed,11527
+14515,2019-09-13,AMAZON,L5,Software Engineer,125.0,"Seattle, WA",5,1,Distributed Systems (Back-End),96.0,29.0,0.0,Male,11527
+14670,2019-09-14,AMAZON,L4,Software Engineer,133.0,"Seattle, WA",1,0,Full Stack,100.0,27.0,6.0,Male,11527
+14692,2019-09-14,AMAZON,L4,Software Engineer,173.0,"Seattle, WA",2,0,Web Development (Front-End),147.0,7.0,19.0,Female,11527
+14709,2019-09-14,AMAZON,L4,Software Engineer,145.0,"Seattle, WA",1,0,API Development (Back-End),123.0,22.0,0.0,Male,11527
+14851,2019-09-15,AMAZON,new grad,Software Engineer,211.0,"Seattle, WA",0,0,Full Stack,135.0,40.0,36.0,Female,11527
+14938,2019-09-16,AMAZON,L5,Software Engineer,227.0,"Seattle, WA",4,5,ML / AI,191.0,36.0,0.0,Male,11527
+14998,2019-09-17,AMAZON,L4,Software Engineer,185.0,"Seattle, WA",5,1,Distributed Systems (Back-End),154.0,15.0,16.0,Male,11527
+15033,2019-09-17,AMAZON,L5,Software Engineer,241.0,"Seattle, WA",8,0,Full Stack,183.0,26.0,32.0,Male,11527
+15162,2019-09-20,AMAZON,L4,Software Engineer,210.0,"Seattle, WA",3,0,API Development (Back-End),166.0,3.0,41.0,Female,11527
+15271,2019-09-23,AMAZON,SDE I,Software Engineer,200.0,"Seattle, WA",3,0,Full Stack,134.0,30.0,36.0,Male,11527
+15298,2019-09-24,AMAZON,SDE I,Software Engineer,133.0,"Seattle, WA",1,0,Distributed Systems (Back-End),93.0,6.0,34.0,Female,11527
+15303,2019-09-24,AMAZON,SDE II,Software Engineer,256.0,"Seattle, WA",3,2,Full Stack,200.0,20.0,36.0,Male,11527
+15304,2019-09-24,AMAZON,SDE II,Software Engineer,121.0,"Seattle, WA",5,2,Full Stack,79.0,26.0,16.0,Male,11527
+15308,2019-09-24,AMAZON,SDE I,Software Engineer,183.0,"Seattle, WA",0,0,API Development (Back-End),154.0,11.0,18.0,Male,11527
+15368,2019-09-25,AMAZON,5,Software Engineer,181.0,"Seattle, WA",3,2,Full Stack,115.0,66.0,0.0,Male,11527
+15478,2019-09-27,AMAZON,SDE I,Software Engineer,142.0,"Seattle, WA",1,0,Distributed Systems (Back-End),102.0,6.0,34.0,Female,11527
+15493,2019-09-28,AMAZON,SDE II,Software Engineer,191.0,"Seattle, WA",3,2,API Development (Back-End),140.0,44.0,7.0,Male,11527
+15501,2019-09-28,AMAZON,L5,Software Engineer,210.0,"Seattle, WA",2,2,API Development (Back-End),174.0,36.0,0.0,Male,11527
+15502,2019-09-28,AMAZON,L5,Software Engineer,229.0,"Seattle, WA",4,0,Distributed Systems (Back-End),154.0,39.0,36.0,NotDisclosed,11527
+15509,2019-09-28,AMAZON,SDE I,Software Engineer,179.0,"Seattle, WA",1,0,Distributed Systems (Back-End),136.0,6.0,37.0,Female,11527
+15548,2019-09-29,AMAZON,L4,Software Engineer,102.0,"Seattle, WA",0,0,Full Stack,70.0,5.0,27.0,Male,11527
+15550,2019-09-29,AMAZON,L5,Software Engineer,280.0,"Seattle, WA",4,2,Distributed Systems (Back-End),181.0,99.0,0.0,Male,11527
+15566,2019-09-29,AMAZON,L5,Software Engineer,167.0,"Seattle, WA",5,2,Distributed Systems (Back-End),76.0,91.0,0.0,NotDisclosed,11527
+15578,2019-09-29,AMAZON,SDE I,Software Engineer,183.0,"Seattle, WA",1,0,Distributed Systems (Back-End),145.0,3.0,35.0,Female,11527
+15654,2019-10-01,AMAZON,SDE I,Software Engineer,120.0,"Seattle, WA",1,0,Distributed Systems (Back-End),70.0,7.0,43.0,Male,11527
+15658,2019-10-01,AMAZON,SDE I,Software Engineer,133.0,"Seattle, WA",1,0,Distributed Systems (Back-End),97.0,4.0,32.0,Male,11527
+15759,2019-10-03,AMAZON,SDE I,Software Engineer,120.0,"Seattle, WA",1,0,Full Stack,75.0,17.0,28.0,Male,11527
+15776,2019-10-03,AMAZON,SDE I,Software Engineer,155.0,"Seattle, WA",0,0,API Development (Back-End),129.0,4.0,22.0,NotDisclosed,11527
+15810,2019-10-04,AMAZON,L4,Software Engineer,177.0,"Seattle, WA",1,0,DevOps,158.0,3.0,16.0,Male,11527
+15825,2019-10-04,AMAZON,SDE I,Software Engineer,175.0,"Seattle, WA",0,0,Entry-Level,147.0,15.0,13.0,Male,11527
+15828,2019-10-04,AMAZON,L3,Software Engineer,115.0,"Seattle, WA",13,1,Distributed Systems (Back-End),103.0,5.0,7.0,NotDisclosed,11527
+15849,2019-10-04,AMAZON,SDE I,Software Engineer,152.0,"Seattle, WA",1,0,Distributed Systems (Back-End),119.0,3.0,30.0,Male,11527
+15851,2019-10-05,AMAZON,L4,Software Engineer,136.0,"Seattle, WA",8,1,Full Stack,120.0,6.0,10.0,Male,11527
+15877,2019-10-05,AMAZON,L5,Software Engineer,134.0,"Seattle, WA",3,2,Distributed Systems (Back-End),97.0,32.0,5.0,Male,11527
+15919,2019-10-06,AMAZON,SDE I,Software Engineer,137.0,"Seattle, WA",1,0,Distributed Systems (Back-End),96.0,4.0,37.0,Male,11527
+16003,2019-10-08,AMAZON,SDE I,Software Engineer,98.0,"Seattle, WA",1,0,Distributed Systems (Back-End),78.0,14.0,6.0,Female,11527
+16009,2019-10-08,AMAZON,L4,Software Engineer,226.0,"Seattle, WA",0,0,API Development (Back-End),131.0,72.0,23.0,Male,11527
+16060,2019-10-09,AMAZON,SDE II,Software Engineer,201.0,"Seattle, WA",1,2,Full Stack,174.0,27.0,0.0,Male,11527
+16066,2019-10-09,AMAZON,SDE II,Software Engineer,214.0,"Seattle, WA",1,0,ML / AI,150.0,35.0,29.0,Male,11527
+16070,2019-10-09,AMAZON,L6,Software Engineer,191.0,"Seattle, WA",7,9,Distributed Systems (Back-End),101.0,90.0,0.0,Male,11527
+16076,2019-10-09,AMAZON,L4,Software Engineer,225.0,"Seattle, WA",1,0,Full Stack,160.0,29.0,36.0,Male,11527
+16118,2019-10-10,AMAZON,L4,Software Engineer,117.0,"Seattle, WA",0,0,Distributed Systems (Back-End),94.0,16.0,7.0,Male,11527
+16161,2019-10-11,AMAZON,L5,Software Engineer,174.0,"Seattle, WA",3,6,API Development (Back-End),94.0,80.0,0.0,Male,11527
+16164,2019-10-11,AMAZON,SDE II,Software Engineer,229.0,"Seattle, WA",1,0,ML / AI,183.0,20.0,26.0,NotDisclosed,11527
+16189,2019-10-12,AMAZON,L5,Software Engineer,254.0,"Seattle, WA",25,0,ML / AI,142.0,83.0,29.0,NotDisclosed,11527
+16235,2019-10-13,AMAZON,L5,Software Engineer,160.0,"Seattle, WA",3,5,API Development (Back-End),81.0,58.0,21.0,Male,11527
+16236,2019-10-13,AMAZON,L6,Software Engineer,204.0,"Seattle, WA",3,7,Distributed Systems (Back-End),102.0,102.0,0.0,Male,11527
+16254,2019-10-14,AMAZON,L4,Software Engineer,103.0,"Seattle, WA",1,0,Full Stack,83.0,10.0,10.0,Male,11527
+16273,2019-10-14,AMAZON,L4,Software Engineer,115.0,"Seattle, WA",0,0,Distributed Systems (Back-End),94.0,4.0,17.0,Male,11527
+16301,2019-10-15,AMAZON,L5,Software Engineer,227.0,"Seattle, WA",2,3,Distributed Systems (Back-End),196.0,31.0,0.0,Male,11527
+16333,2019-10-16,AMAZON,SDE II,Software Engineer,130.0,"Seattle, WA",7,1,ML / AI,92.0,38.0,0.0,Male,11527
+16352,2019-10-16,AMAZON,L5,Software Engineer,233.0,"Seattle, WA",6,5,DevOps,104.0,87.0,42.0,Male,11527
+16422,2019-10-18,AMAZON,SDE I,Software Engineer,121.0,"Seattle, WA",2,0,Full Stack,95.0,15.0,11.0,NotDisclosed,11527
+16436,2019-10-18,AMAZON,L4,Software Engineer,187.0,"Seattle, WA",0,0,Not Given,151.0,12.0,24.0,Male,11527
+16454,2019-10-18,AMAZON,L4,Software Engineer,127.0,"Seattle, WA",0,0,API Development (Back-End),87.0,3.0,37.0,Female,11527
+16528,2019-10-20,AMAZON,L4,Software Engineer,161.0,"Seattle, WA",1,1,API Development (Back-End),147.0,14.0,0.0,Male,11527
+16550,2019-10-21,AMAZON,5,Software Engineer,155.0,"Seattle, WA",5,1,Distributed Systems (Back-End),119.0,8.0,28.0,Male,11527
+16576,2019-10-22,AMAZON,L4,Software Engineer,176.0,"Seattle, WA",0,0,API Development (Back-End),129.0,4.0,43.0,NotDisclosed,11527
+16582,2019-10-22,AMAZON,L5,Software Engineer,257.0,"Seattle, WA",3,2,Distributed Systems (Back-End),174.0,83.0,0.0,Male,11527
+16630,2019-10-23,AMAZON,SDE I,Software Engineer,129.0,"Seattle, WA",0,0,Full Stack,104.0,4.0,21.0,Male,11527
+16688,2019-10-25,AMAZON,L4,Software Engineer,101.0,"Seattle, WA",0,0,Distributed Systems (Back-End),71.0,20.0,10.0,NotDisclosed,11527
+16715,2019-10-25,AMAZON,L4,Software Engineer,119.0,"Seattle, WA",0,0,Undecided,98.0,5.0,16.0,Male,11527
+16733,2019-10-25,AMAZON,SDE III,Software Engineer,200.0,"Seattle, WA",17,4,Distributed Systems (Back-End),139.0,61.0,0.0,Male,11527
+16768,2019-10-27,AMAZON,L4,Software Engineer,151.0,"Seattle, WA",0,0,Full Stack,99.0,22.0,30.0,NotDisclosed,11527
+16805,2019-10-28,AMAZON,L5,Software Engineer,245.0,"Seattle, WA",3,0,Distributed Systems (Back-End),188.0,34.0,23.0,Male,11527
+16837,2019-10-29,AMAZON,SDE I,Software Engineer,163.0,"Seattle, WA",0,0,Alexa,120.0,5.0,38.0,Male,11527
+16840,2019-10-29,AMAZON,L4,Software Engineer,162.0,"Seattle, WA",7,5,API Development (Back-End),120.0,22.0,20.0,NotDisclosed,11527
+16851,2019-10-29,AMAZON,L4,Software Engineer,129.0,"Seattle, WA",3,0,Distributed Systems (Back-End),100.0,13.0,16.0,Male,11527
+16861,2019-10-29,AMAZON,L4,Software Engineer,176.0,"Seattle, WA",0,0,Full Stack,149.0,7.0,20.0,Male,11527
+16910,2019-10-31,AMAZON,L5,Software Engineer,128.0,"Seattle, WA",3,2,Full Stack,109.0,19.0,0.0,Male,11527
+16930,2019-10-31,AMAZON,SDE I,Software Engineer,206.0,"Seattle, WA",0,0,New Grad,164.0,28.0,14.0,Male,11527
+17036,2019-11-02,AMAZON,L4,Software Engineer,120.0,"Seattle, WA",0,0,Distributed Systems (Back-End),87.0,26.0,7.0,Male,11527
+17054,2019-11-02,AMAZON,L5,Software Engineer,214.0,"Seattle, WA",2,3,Distributed Systems (Back-End),141.0,73.0,0.0,Male,11527
+17111,2019-11-04,AMAZON,L5,Software Engineer,166.0,"Seattle, WA",2,1,Full Stack,99.0,67.0,0.0,Male,11527
+17233,2019-11-06,AMAZON,L4,Software Engineer,173.0,"Seattle, WA",1,1,Distributed Systems (Back-End),147.0,16.0,10.0,Male,11527
+17267,2019-11-07,AMAZON,SDE I,Software Engineer,214.0,"Seattle, WA",1,0,API Development (Back-End),176.0,3.0,35.0,Male,11527
+17298,2019-11-07,AMAZON,L5,Software Engineer,224.0,"Seattle, WA",6,6,API Development (Back-End),143.0,81.0,0.0,Male,11527
+17425,2019-11-10,AMAZON,L5,Software Engineer,182.0,"Seattle, WA",2,4,API Development (Back-End),105.0,77.0,0.0,NotDisclosed,11527
+17487,2019-11-12,AMAZON,L5,Software Engineer,145.0,"Seattle, WA",8,2,DevOps,114.0,31.0,0.0,NotDisclosed,11527
+17510,2019-11-13,AMAZON,L4,Software Engineer,143.0,"Seattle, WA",0,0,API Development (Back-End),84.0,21.0,38.0,Male,11527
+17523,2019-11-13,AMAZON,L4,Software Engineer,177.0,"Seattle, WA",1,1,Distributed Systems (Back-End),133.0,10.0,34.0,Male,11527
+17533,2019-11-13,AMAZON,SDE II,Software Engineer,192.0,"Seattle, WA",2,3,Full Stack,173.0,19.0,0.0,Male,11527
+17575,2019-11-14,AMAZON,L4,Software Engineer,229.0,"Seattle, WA",2,0,Distributed Systems (Back-End),208.0,4.0,17.0,Male,11527
+17626,2019-11-15,AMAZON,L4,Software Engineer,220.0,"Seattle, WA",4,0,Distributed Systems (Back-End),133.0,87.0,0.0,Male,11527
+17676,2019-11-15,AMAZON,L4,Software Engineer,227.0,"Seattle, WA",1,0,Full Stack,175.0,22.0,30.0,Male,11527
+17721,2019-11-16,AMAZON,SDE I,Software Engineer,117.0,"Seattle, WA",0,0,TBD,80.0,15.0,22.0,Male,11527
+17730,2019-11-17,AMAZON,L4,Software Engineer,244.0,"Seattle, WA",1,0,ML / AI,166.0,65.0,13.0,NotDisclosed,11527
+17752,2019-11-17,AMAZON,SDE II,Software Engineer,179.0,"Seattle, WA",3,4,API Development (Back-End),123.0,56.0,0.0,Male,11527
+17771,2019-11-18,AMAZON,SDE II,Software Engineer,142.0,"Seattle, WA",3,0,Cloud Compute,97.0,5.0,40.0,Male,11527
+17817,2019-11-19,AMAZON,SDE I,Software Engineer,134.0,"Seattle, WA",0,0,API Development (Back-End),86.0,12.0,36.0,Male,11527
+17845,2019-11-19,AMAZON,SDE I,Software Engineer,192.0,"Seattle, WA",0,0,Distributed Systems (Back-End),136.0,21.0,35.0,Male,11527
+17955,2019-11-22,AMAZON,L4,Software Engineer,199.0,"Seattle, WA",0,0,API Development (Back-End),154.0,35.0,10.0,Female,11527
+17959,2019-11-22,AMAZON,SDE I,Software Engineer,188.0,"Seattle, WA",0,0,Distributed Systems (Back-End),152.0,19.0,17.0,Male,11527
+17986,2019-11-22,AMAZON,L5,Software Engineer,196.0,"Seattle, WA",1,0,Full Stack,145.0,26.0,25.0,Male,11527
+18007,2019-11-23,AMAZON,L5,Software Engineer,170.0,"Seattle, WA",4,4,Distributed Systems (Back-End),103.0,67.0,0.0,NotDisclosed,11527
+18036,2019-11-24,AMAZON,L4,Software Engineer,223.0,"Seattle, WA",2,0,Web Development (Front-End),174.0,44.0,5.0,Male,11527
+18054,2019-11-24,AMAZON,L6,Software Engineer,196.0,"Seattle, WA",5,4,Distributed Systems (Back-End),110.0,86.0,0.0,Male,11527
+18083,2019-11-25,AMAZON,L5,Software Engineer,276.0,"Seattle, WA",5,2,API Development (Back-End),192.0,46.0,38.0,Male,11527
+18229,2019-11-28,AMAZON,SDE II,Software Engineer,160.0,"Seattle, WA",1,2,Distributed Systems (Back-End),103.0,57.0,0.0,NotDisclosed,11527
+18238,2019-11-28,AMAZON,L5,Software Engineer,235.0,"Seattle, WA",7,3,Distributed Systems (Back-End),171.0,64.0,0.0,Male,11527
+18239,2019-11-28,AMAZON,SDE III,Software Engineer,271.0,"Seattle, WA",7,7,API Development (Back-End),162.0,109.0,0.0,Male,11527
+18308,2019-12-01,AMAZON,L5,Software Engineer,201.0,"Seattle, WA",6,6,Distributed Systems (Back-End),132.0,69.0,0.0,Male,11527
+18324,2019-12-01,AMAZON,L5,Software Engineer,104.0,"Seattle, WA",7,0,Business Intelligence Engineer II,78.0,15.0,11.0,Male,11527
+18330,2019-12-01,AMAZON,L5,Software Engineer,266.0,"Seattle, WA",11,3,Testing (SDET),197.0,69.0,0.0,Male,11527
+18345,2019-12-02,AMAZON,L4,Software Engineer,127.0,"Seattle, WA",1,0,Full Stack,88.0,4.0,35.0,Male,11527
+18383,2019-12-03,AMAZON,L5,Software Engineer,193.0,"Seattle, WA",1,0,Full Stack,115.0,49.0,29.0,Male,11527
+18425,2019-12-04,AMAZON,SDE I,Software Engineer,100.0,"Seattle, WA",1,0,API Development (Back-End),74.0,7.0,19.0,Male,11527
+18435,2019-12-04,AMAZON,SDE I,Software Engineer,176.0,"Seattle, WA",0,0,Full Stack,147.0,24.0,5.0,Male,11527
+18456,2019-12-05,AMAZON,SDE I,Software Engineer,195.0,"Seattle, WA",0,0,SDE I,154.0,25.0,16.0,Male,11527
+18593,2019-12-08,AMAZON,SDE I,Software Engineer,161.0,"Seattle, WA",0,0,API Development (Back-End),116.0,6.0,39.0,Male,11527
+18620,2019-12-09,AMAZON,SDE II,Software Engineer,255.0,"Seattle, WA",16,3,Networking,201.0,54.0,0.0,Male,11527
+18638,2019-12-09,AMAZON,SDE II,Software Engineer,222.0,"Seattle, WA",4,1,API Development (Back-End),154.0,47.0,21.0,NotDisclosed,11527
+18740,2019-12-11,AMAZON,L4,Software Engineer,190.0,"Seattle, WA",2,0,API Development (Back-End),152.0,22.0,16.0,Male,11527
+18798,2019-12-12,AMAZON,L4,Software Engineer,113.0,"Seattle, WA",2,0,API Development (Back-End),94.0,4.0,15.0,Male,11527
+18849,2019-12-13,AMAZON,SDE I,Software Engineer,181.0,"Seattle, WA",0,0,API Development (Back-End),124.0,27.0,30.0,Male,11527
+18851,2019-12-13,AMAZON,L5,Software Engineer,200.0,"Seattle, WA",13,3,Distributed Systems (Back-End),151.0,49.0,0.0,Male,11527
+18888,2019-12-14,AMAZON,L5,Software Engineer,206.0,"Seattle, WA",4,2,Full Stack,174.0,32.0,0.0,Male,11527
+19016,2019-12-17,AMAZON,L6,Software Engineer,141.0,"Seattle, WA",19,6,Full Stack,83.0,58.0,0.0,Male,11527
+19043,2019-12-17,AMAZON,L4,Software Engineer,193.0,"Seattle, WA",2,0,API Development (Back-End),168.0,5.0,20.0,Male,11527
+19116,2019-12-18,AMAZON,L4,Software Engineer,155.0,"Seattle, WA",0,0,New Grad,114.0,4.0,37.0,Male,11527
+19131,2019-12-19,AMAZON,SDE I,Software Engineer,135.0,"Seattle, WA",0,0,Full Stack,100.0,3.0,32.0,Male,11527
+19197,2019-12-20,AMAZON,SDE I,Software Engineer,149.0,"Seattle, WA",1,0,Full Stack,110.0,5.0,34.0,Male,11527
+19252,2019-12-22,AMAZON,SDE II,Software Engineer,279.0,"Seattle, WA",5,2,ML / AI,190.0,89.0,0.0,NotDisclosed,11527
+19338,2019-12-26,AMAZON,L6,Software Engineer,196.0,"Seattle, WA",9,4,Distributed Systems (Back-End),90.0,106.0,0.0,NotDisclosed,11527
+19340,2019-12-26,AMAZON,SDE I,Software Engineer,139.0,"Seattle, WA",1,0,Full Stack,102.0,25.0,12.0,Male,11527
+19373,2019-12-27,AMAZON,L5,Software Engineer,161.0,"Seattle, WA",7,4,Distributed Systems (Back-End),83.0,78.0,0.0,Male,11527
+19394,2019-12-28,AMAZON,L4,Software Engineer,187.0,"Seattle, WA",0,0,Full Stack,167.0,12.0,8.0,Male,11527
+19402,2019-12-28,AMAZON,L6,Software Engineer,178.0,"Seattle, WA",7,3,Web Development (Front-End),87.0,91.0,0.0,Male,11527
+19411,2019-12-28,AMAZON,L6,Software Engineer,263.0,"Seattle, WA",8,8,Full Stack,202.0,61.0,0.0,Male,11527
+19438,2019-12-29,AMAZON,SDE I,Software Engineer,175.0,"Seattle, WA",0,0,Distributed Systems (Back-End),135.0,27.0,13.0,NotDisclosed,11527
+19441,2019-12-30,AMAZON,L5,Software Engineer,148.0,"Seattle, WA",3,4,Testing (SDET),120.0,28.0,0.0,Male,11527
+19449,2019-12-30,AMAZON,L5,Software Engineer,199.0,"Seattle, WA",4,3,API Development (Back-End),143.0,56.0,0.0,Male,11527
+19528,2019-12-31,AMAZON,L5,Software Engineer,253.0,"Seattle, WA",32,2,Distributed Systems (Back-End),186.0,67.0,0.0,Male,11527
+19531,2019-12-31,AMAZON,L6,Software Engineer,270.0,"Seattle, WA",6,8,Distributed Systems (Back-End),198.0,72.0,0.0,Male,11527
+19547,2020-01-01,AMAZON,L5,Software Engineer,143.0,"Seattle, WA",5,5,API Development (Back-End),85.0,58.0,0.0,Male,11527
+19583,2020-01-02,AMAZON,L4,Software Engineer,173.0,"Seattle, WA",1,1,Distributed Systems (Back-End),132.0,23.0,18.0,Male,11527
+19618,2020-01-03,AMAZON,L5,Software Engineer,205.0,"Seattle, WA",7,2,API Development (Back-End),174.0,7.0,24.0,Female,11527
+19636,2020-01-03,AMAZON,L5,Software Engineer,162.0,"Seattle, WA",7,5,Full Stack,86.0,76.0,0.0,Male,11527
+19653,2020-01-04,AMAZON,L4,Software Engineer,180.0,"Seattle, WA",0,0,API Development (Back-End),157.0,5.0,18.0,Male,11527
+19694,2020-01-05,AMAZON,SDE II,Software Engineer,192.0,"Seattle, WA",3,3,Full Stack,150.0,42.0,0.0,Male,11527
+19718,2020-01-05,AMAZON,L5,Software Engineer,221.0,"Seattle, WA",3,1,API Development (Back-End),193.0,10.0,18.0,Male,11527
+19729,2020-01-06,AMAZON,L5,Software Engineer,179.0,"Seattle, WA",2,4,API Development (Back-End),140.0,39.0,0.0,Male,11527
+19823,2020-01-07,AMAZON,L4,Software Engineer,182.0,"Seattle, WA",1,1,Distributed Systems (Back-End),150.0,13.0,19.0,Male,11527
+19890,2020-01-08,AMAZON,SDE II,Software Engineer,222.0,"Seattle, WA",3,4,Full Stack,147.0,75.0,0.0,Male,11527
+19915,2020-01-08,AMAZON,L5,Software Engineer,162.0,"Seattle, WA",0,2,Distributed Systems (Back-End),107.0,55.0,0.0,Male,11527
+19945,2020-01-09,AMAZON,L5,Software Engineer,259.0,"Seattle, WA",19,1,API Development (Back-End),157.0,102.0,0.0,Male,11527
+19968,2020-01-10,AMAZON,SDE III,Software Engineer,262.0,"Seattle, WA",11,4,Distributed Systems (Back-End),205.0,57.0,0.0,NotDisclosed,11527
+20013,2020-01-10,AMAZON,L5,Software Engineer,200.0,"Seattle, WA",4,1,ML / AI,141.0,59.0,0.0,Male,11527
+20020,2020-01-10,AMAZON,SDE I,Software Engineer,159.0,"Seattle, WA",1,0,Unknown team,139.0,20.0,0.0,Female,11527
+20092,2020-01-12,AMAZON,SDE II,Software Engineer,103.0,"Seattle, WA",4,2,Distributed Systems (Back-End),80.0,23.0,0.0,Male,11527
+20097,2020-01-12,AMAZON,L6,Software Engineer,247.0,"Seattle, WA",15,9,Full Stack,155.0,92.0,0.0,Male,11527
+20115,2020-01-13,AMAZON,L4,Software Engineer,106.0,"Seattle, WA",0,0,Full Stack,76.0,13.0,17.0,Male,11527
+20123,2020-01-13,AMAZON,L4,Software Engineer,129.0,"Seattle, WA",0,0,Distributed Systems (Back-End),102.0,27.0,0.0,Male,11527
+20145,2020-01-13,AMAZON,L4,Software Engineer,128.0,"Seattle, WA",0,0,API Development (Back-End),97.0,13.0,18.0,Male,11527
+20156,2020-01-14,AMAZON,L5,Software Engineer,274.0,"Seattle, WA",7,3,ML / AI,186.0,88.0,0.0,Male,11527
+20194,2020-01-14,AMAZON,SDE I,Software Engineer,168.0,"Seattle, WA",1,0,Full Stack,135.0,12.0,21.0,Male,11527
+20251,2020-01-15,AMAZON,L4,Software Engineer,132.0,"Seattle, WA",6,1,Distributed Systems (Back-End),104.0,15.0,13.0,Male,11527
+20253,2020-01-15,AMAZON,SDE I,Software Engineer,147.0,"Seattle, WA",1,0,Distributed Systems (Back-End),134.0,13.0,0.0,Male,11527
+20272,2020-01-15,AMAZON,L4,Software Engineer,168.0,"Seattle, WA",0,0,Distributed Systems (Back-End),141.0,12.0,15.0,Male,11527
+20275,2020-01-15,AMAZON,L4,Software Engineer,111.0,"Seattle, WA",1,1,Distributed Systems (Back-End),90.0,5.0,16.0,Male,11527
+20279,2020-01-15,AMAZON,L5,Software Engineer,157.0,"Seattle, WA",4,3,Distributed Systems (Back-End),111.0,46.0,0.0,Male,11527
+20295,2020-01-15,AMAZON,SDE I,Software Engineer,117.0,"Seattle, WA",0,0,API Development (Back-End),75.0,16.0,26.0,Male,11527
+20301,2020-01-16,AMAZON,L5,Software Engineer,226.0,"Seattle, WA",3,1,Distributed Systems (Back-End),182.0,24.0,20.0,Male,11527
+20434,2020-01-17,AMAZON,L5,Software Engineer,144.0,"Seattle, WA",8,4,Full Stack,93.0,51.0,0.0,Male,11527
+20466,2020-01-18,AMAZON,L5,Software Engineer,204.0,"Seattle, WA",3,1,Web Development (Front-End),170.0,15.0,19.0,NotDisclosed,11527
+20467,2020-01-18,AMAZON,L5,Software Engineer,117.0,"Seattle, WA",2,2,Distributed Systems (Back-End),72.0,45.0,0.0,Male,11527
+20487,2020-01-18,AMAZON,SDE II,Software Engineer,259.0,"Seattle, WA",2,3,Mobile (iOS + Android),193.0,66.0,0.0,Male,11527
+20608,2020-01-20,AMAZON,SDE I,Software Engineer,161.0,"Seattle, WA",0,0,Distributed Systems (Back-End),127.0,17.0,17.0,Male,11527
+20752,2020-01-21,AMAZON,5,Software Engineer,127.0,"Seattle, WA",10,1,Distributed Systems (Back-End),85.0,29.0,13.0,Male,11527
+20821,2020-01-22,AMAZON,L5,Software Engineer,171.0,"Seattle, WA",5,4,Full Stack,86.0,85.0,0.0,NotDisclosed,11527
+20826,2020-01-22,AMAZON,L5,Software Engineer,161.0,"Seattle, WA",9,1,Distributed Systems (Back-End),121.0,20.0,20.0,Male,11527
+20888,2020-01-23,AMAZON,SDE I,Software Engineer,115.0,"Seattle, WA",0,0,Full Stack,90.0,6.0,19.0,Male,11527
+20935,2020-01-24,AMAZON,L4,Software Engineer,87.0,"Seattle, WA",1,1,Security,72.0,3.0,12.0,Male,11527
+21024,2020-01-25,AMAZON,L5,Software Engineer,187.0,"Seattle, WA",5,1,API Development (Back-End),129.0,36.0,22.0,Male,11527
+21120,2020-01-26,AMAZON,SDE I,Software Engineer,180.0,"Seattle, WA",0,0,API Development (Back-End),147.0,21.0,12.0,NotDisclosed,11527
+21162,2020-01-27,AMAZON,L5,Software Engineer,254.0,"Seattle, WA",3,3,Distributed Systems (Back-End),154.0,74.0,26.0,Male,11527
+21193,2020-01-27,AMAZON,SDE II,Software Engineer,140.0,"Seattle, WA",3,0,Full Stack,85.0,51.0,4.0,Male,11527
+21242,2020-01-28,AMAZON,L5,Software Engineer,156.0,"Seattle, WA",5,3,DevOps,106.0,28.0,22.0,Male,11527
+21296,2020-01-28,AMAZON,SDE II,Software Engineer,141.0,"Seattle, WA",4,6,Distributed Systems (Back-End),92.0,49.0,0.0,NotDisclosed,11527
+21342,2020-01-29,AMAZON,SDE II,Software Engineer,149.0,"Seattle, WA",3,7,Distributed Systems (Back-End),105.0,44.0,0.0,Male,11527
+21369,2020-01-29,AMAZON,L5,Software Engineer,165.0,"Seattle, WA",2,2,Full Stack,105.0,60.0,0.0,Female,11527
+21444,2020-01-30,AMAZON,SDE III,Software Engineer,175.0,"Seattle, WA",4,2,ML / AI,107.0,68.0,0.0,Male,11527
+21460,2020-01-30,AMAZON,SDE II,Software Engineer,244.0,"Seattle, WA",18,3,Full Stack,156.0,88.0,0.0,NotDisclosed,11527
+21470,2020-01-31,AMAZON,L5,Software Engineer,251.0,"Seattle, WA",8,4,Distributed Systems (Back-End),201.0,50.0,0.0,Male,11527
+21509,2020-01-31,AMAZON,L4,Software Engineer,125.0,"Seattle, WA",1,1,Distributed Systems (Back-End),73.0,25.0,27.0,Male,11527
+21521,2020-01-31,AMAZON,5,Software Engineer,187.0,"Seattle, WA",3,7,ML / AI,127.0,60.0,0.0,Female,11527
+21525,2020-01-31,AMAZON,L5,Software Engineer,149.0,"Seattle, WA",2,2,API Development (Back-End),88.0,46.0,15.0,NotDisclosed,11527
+21527,2020-02-01,AMAZON,L4,Software Engineer,164.0,"Seattle, WA",0,0,Full Stack,132.0,32.0,0.0,NotDisclosed,11527
+21548,2020-02-01,AMAZON,L4,Software Engineer,108.0,"Seattle, WA",2,2,Distributed Systems (Back-End),84.0,11.0,13.0,Male,11527
+21704,2020-02-03,AMAZON,L4,Software Engineer,208.0,"Seattle, WA",1,1,Full Stack,174.0,4.0,30.0,Female,11527
+21771,2020-02-04,AMAZON,SDE III,Software Engineer,242.0,"Seattle, WA",18,5,DevOps,186.0,56.0,0.0,Male,11527
+21778,2020-02-04,AMAZON,L5,Software Engineer,241.0,"Seattle, WA",2,4,Full Stack,163.0,78.0,0.0,Male,11527
+21788,2020-02-05,AMAZON,SDE I,Software Engineer,122.0,"Seattle, WA",7,1,API Development (Back-End),76.0,22.0,24.0,Male,11527
+21833,2020-02-05,AMAZON,L4,Software Engineer,221.0,"Seattle, WA",0,0,Distributed Systems (Back-End),160.0,29.0,32.0,Female,11527
+21866,2020-02-06,AMAZON,L5,Software Engineer,199.0,"Seattle, WA",4,4,Full Stack,196.0,3.0,0.0,Male,11527
+21927,2020-02-06,AMAZON,L4,Software Engineer,147.0,"Seattle, WA",2,2,Testing (SDET),112.0,35.0,0.0,Male,11527
+21935,2020-02-06,AMAZON,L5,Software Engineer,178.0,"Seattle, WA",4,7,Distributed Systems (Back-End),78.0,100.0,0.0,Male,11527
+21984,2020-02-07,AMAZON,l4,Software Engineer,117.0,"Seattle, WA",3,1,qae,93.0,4.0,20.0,Female,11527
+22037,2020-02-08,AMAZON,L4,Software Engineer,164.0,"Seattle, WA",2,0,API Development (Back-End),116.0,28.0,20.0,Male,11527
+22039,2020-02-08,AMAZON,L6,Software Engineer,274.0,"Seattle, WA",13,2,Distributed Systems (Back-End),197.0,58.0,19.0,Male,11527
+22102,2020-02-09,AMAZON,L5,Software Engineer,220.0,"Seattle, WA",4,0,ML / AI,124.0,70.0,26.0,Male,11527
+22138,2020-02-09,AMAZON,SDE II,Software Engineer,216.0,"Seattle, WA",2,3,Full Stack,188.0,21.0,7.0,Male,11527
+22205,2020-02-10,AMAZON,L4,Software Engineer,193.0,"Seattle, WA",0,0,Web Development (Front-End),169.0,11.0,13.0,Male,11527
+22220,2020-02-10,AMAZON,L6,Software Engineer,279.0,"Seattle, WA",5,3,Full Stack,188.0,91.0,0.0,NotDisclosed,11527
+22497,2020-02-14,AMAZON,SDE II,Software Engineer,180.0,"Seattle, WA",1,2,Distributed Systems (Back-End),152.0,28.0,0.0,NotDisclosed,11527
+22663,2020-02-14,AMAZON,L5,Software Engineer,212.0,"Seattle, WA",4,2,Distributed Systems (Back-End),158.0,38.0,16.0,NotDisclosed,11527
+22760,2020-02-15,AMAZON,L4,Software Engineer,159.0,"Seattle, WA",0,0,Distributed Systems (Back-End),97.0,42.0,20.0,Male,11527
+22776,2020-02-15,AMAZON,SDE 2,Software Engineer,165.0,"Seattle, WA",8,5,API Development (Back-End),90.0,75.0,0.0,Male,11527
+22820,2020-02-15,AMAZON,SDE II,Software Engineer,215.0,"Seattle, WA",2,3,Distributed Systems (Back-End),155.0,57.0,3.0,Male,11527
+23109,2020-02-16,AMAZON,L4,Software Engineer,182.0,"Seattle, WA",1,0,Full Stack,151.0,6.0,25.0,Male,11527
+23113,2020-02-16,AMAZON,L5,Software Engineer,147.0,"Seattle, WA",6,2,Full Stack,100.0,31.0,16.0,Male,11527
+23119,2020-02-17,AMAZON,L5,Software Engineer,228.0,"Seattle, WA",6,3,Full Stack,166.0,47.0,15.0,Male,11527
+23121,2020-02-17,AMAZON,SDE II,Software Engineer,173.0,"Seattle, WA",0,0,DevOps,140.0,10.0,23.0,Female,11527
+23148,2020-02-17,AMAZON,L5,Software Engineer,187.0,"Seattle, WA",2,2,ML / AI,103.0,84.0,0.0,Male,11527
+23190,2020-02-17,AMAZON,SDE I,Software Engineer,148.0,"Seattle, WA",0,0,Full Stack,81.0,30.0,37.0,Male,11527
+23223,2020-02-18,AMAZON,L6,Software Engineer,209.0,"Seattle, WA",8,7,Distributed Systems (Back-End),127.0,82.0,0.0,Male,11527
+23266,2020-02-18,AMAZON,SDE II,Software Engineer,260.0,"Seattle, WA",4,0,Distributed Systems (Back-End),174.0,77.0,9.0,Male,11527
+23280,2020-02-19,AMAZON,SDE II,Software Engineer,244.0,"Seattle, WA",4,0,API Development (Back-End),187.0,57.0,0.0,Male,11527
+23316,2020-02-19,AMAZON,SDE I,Software Engineer,117.0,"Seattle, WA",1,0,API Development (Back-End),94.0,4.0,19.0,Male,11527
+23383,2020-02-20,AMAZON,SDE II,Software Engineer,175.0,"Seattle, WA",5,2,Full Stack,111.0,64.0,0.0,Female,11527
+23436,2020-02-20,AMAZON,SDE I,Software Engineer,202.0,"Seattle, WA",0,0,API Development (Back-End),177.0,10.0,15.0,Male,11527
+23438,2020-02-20,AMAZON,L4,Software Engineer,132.0,"Seattle, WA",0,0,IoT,106.0,26.0,0.0,NotDisclosed,11527
+23458,2020-02-21,AMAZON,SDE I,Software Engineer,111.0,"Seattle, WA",1,0,API Development (Back-End),92.0,19.0,0.0,Male,11527
+23613,2020-02-23,AMAZON,L5,Software Engineer,167.0,"Seattle, WA",9,4,Distributed Systems (Back-End),131.0,36.0,0.0,NotDisclosed,11527
+23659,2020-02-24,AMAZON,SDE I,Software Engineer,110.0,"Seattle, WA",1,0,none,97.0,13.0,0.0,Female,11527
+23668,2020-02-24,AMAZON,4,Software Engineer,150.0,"Seattle, WA",1,1,Full Stack,139.0,11.0,0.0,Male,11527
+23669,2020-02-24,AMAZON,L5,Software Engineer,282.0,"Seattle, WA",6,6,Distributed Systems (Back-End),187.0,95.0,0.0,NotDisclosed,11527
+23696,2020-02-24,AMAZON,SDE II,Software Engineer,249.0,"Seattle, WA",4,2,API Development (Back-End),207.0,42.0,0.0,Male,11527
+23725,2020-02-25,AMAZON,SDE II,Software Engineer,203.0,"Seattle, WA",14,4,Full Stack,171.0,32.0,0.0,NotDisclosed,11527
+23786,2020-02-25,AMAZON,Sde2,Software Engineer,205.0,"Seattle, WA",18,3,Distributed Systems (Back-End),150.0,55.0,0.0,Male,11527
+23886,2020-02-27,AMAZON,L5,Software Engineer,149.0,"Seattle, WA",4,3,Distributed Systems (Back-End),118.0,31.0,0.0,Male,11527
+23887,2020-02-27,AMAZON,L4,Software Engineer,115.0,"Seattle, WA",1,1,Full Stack,94.0,21.0,0.0,NotDisclosed,11527
+23974,2020-02-27,AMAZON,L5,Software Engineer,152.0,"Seattle, WA",2,1,Distributed Systems (Back-End),73.0,47.0,32.0,NotDisclosed,11527
+24131,2020-03-01,AMAZON,L5,Software Engineer,239.0,"Seattle, WA",7,4,Full Stack,147.0,51.0,41.0,Male,11527
+24287,2020-03-04,AMAZON,L5,Software Engineer,239.0,"Seattle, WA",5,0,API Development (Back-End),177.0,32.0,30.0,NotDisclosed,11527
+24304,2020-03-04,AMAZON,L5,Software Engineer,164.0,"Seattle, WA",4,3,Distributed Systems (Back-End),93.0,71.0,0.0,NotDisclosed,11527
+24325,2020-03-04,AMAZON,L4,Software Engineer,188.0,"Seattle, WA",2,1,API Development (Back-End),147.0,14.0,27.0,Male,11527
+24585,2020-03-08,AMAZON,L5,Software Engineer,195.0,"Seattle, WA",5,4,Full Stack,163.0,32.0,0.0,Male,11527
+24602,2020-03-08,AMAZON,SDE I,Software Engineer,146.0,"Seattle, WA",2,0,Full Stack,105.0,4.0,37.0,Male,11527
+24673,2020-03-09,AMAZON,L5,Software Engineer,174.0,"Seattle, WA",3,3,Distributed Systems (Back-End),80.0,94.0,0.0,Male,11527
+24700,2020-03-09,AMAZON,L4,Software Engineer,165.0,"Seattle, WA",0,1,iOS,135.0,25.0,5.0,NotDisclosed,11527
+24732,2020-03-10,AMAZON,L4,Software Engineer,191.0,"Seattle, WA",0,0,Mobile (iOS + Android),141.0,25.0,25.0,Male,11527
+24734,2020-03-10,AMAZON,L4,Software Engineer,162.0,"Seattle, WA",5,1,Full Stack,138.0,24.0,0.0,Male,11527
+24745,2020-03-10,AMAZON,SDE II,Software Engineer,242.0,"Seattle, WA",2,2,ML / AI,201.0,41.0,0.0,Female,11527
+24774,2020-03-10,AMAZON,L5,Software Engineer,161.0,"Seattle, WA",1,1,Full Stack,100.0,28.0,33.0,Male,11527
+24777,2020-03-10,AMAZON,L5,Software Engineer,208.0,"Seattle, WA",15,0,API Development (Back-End),125.0,56.0,27.0,NotDisclosed,11527
+25050,2020-03-16,AMAZON,SDE I,Software Engineer,113.0,"Seattle, WA",0,0,Distributed Systems (Back-End),72.0,19.0,22.0,Male,11527
+25051,2020-03-16,AMAZON,L5,Software Engineer,242.0,"Seattle, WA",25,2,Data,177.0,65.0,0.0,Male,11527
+25087,2020-03-17,AMAZON,L4,Software Engineer,232.0,"Seattle, WA",3,1,Distributed Systems (Back-End),160.0,72.0,0.0,Male,11527
+25093,2020-03-17,AMAZON,L4,Software Engineer,117.0,"Seattle, WA",1,1,Mobile (iOS + Android),81.0,16.0,20.0,Male,11527
+25104,2020-03-18,AMAZON,L5,Software Engineer,253.0,"Seattle, WA",2,1,API Development (Back-End),198.0,55.0,0.0,Male,11527
+25143,2020-03-18,AMAZON,L5,Software Engineer,206.0,"Seattle, WA",6,0,ML / AI,111.0,95.0,0.0,Male,11527
+25148,2020-03-18,AMAZON,L5,Software Engineer,227.0,"Seattle, WA",6,2,API Development (Back-End),186.0,41.0,0.0,Male,11527
+25155,2020-03-18,AMAZON,L5,Software Engineer,241.0,"Seattle, WA",6,5,API Development (Back-End),141.0,100.0,0.0,Male,11527
+25207,2020-03-19,AMAZON,L4,Software Engineer,137.0,"Seattle, WA",0,0,Full Stack,112.0,9.0,16.0,Male,11527
+25322,2020-03-22,AMAZON,SDE II,Software Engineer,252.0,"Seattle, WA",3,3,Distributed Systems (Back-End),177.0,75.0,0.0,Male,11527
+25324,2020-03-22,AMAZON,SDE I,Software Engineer,133.0,"Seattle, WA",1,0,Full Stack,122.0,11.0,0.0,Male,11527
+25405,2020-03-24,AMAZON,SDE II,Software Engineer,185.0,"Seattle, WA",3,0,Distributed Systems (Back-End),140.0,28.0,17.0,Male,11527
+25452,2020-03-25,AMAZON,L5,Software Engineer,267.0,"Seattle, WA",11,7,API Development (Back-End),192.0,75.0,0.0,Male,11527
+25559,2020-03-27,AMAZON,SDE I,Software Engineer,158.0,"Seattle, WA",1,0,Distributed Systems (Back-End),135.0,23.0,0.0,Male,11527
+25616,2020-03-28,AMAZON,L5,Software Engineer,195.0,"Seattle, WA",7,5,Distributed Systems (Back-End),132.0,63.0,0.0,Male,11527
+25619,2020-03-28,AMAZON,L5,Software Engineer,257.0,"Seattle, WA",3,2,API Development (Back-End),189.0,68.0,0.0,NotDisclosed,11527
+25712,2020-03-30,AMAZON,SDE II,Software Engineer,240.0,"Seattle, WA",4,4,ML / AI,167.0,73.0,0.0,Male,11527
+25721,2020-03-30,AMAZON,L5,Software Engineer,160.0,"Seattle, WA",4,5,Full Stack,74.0,86.0,0.0,Male,11527
+25765,2020-03-31,AMAZON,L4,Software Engineer,202.0,"Seattle, WA",2,0,Web Development (Front-End),161.0,4.0,37.0,Male,11527
+25799,2020-03-31,AMAZON,L5,Software Engineer,239.0,"Seattle, WA",3,3,Full Stack,164.0,75.0,0.0,Female,11527
+25957,2020-04-03,AMAZON,SDE I,Software Engineer,179.0,"Seattle, WA",1,1,Distributed Systems (Back-End),129.0,18.0,32.0,Male,11527
+26045,2020-04-05,AMAZON,L4,Software Engineer,120.0,"Seattle, WA",1,0,Security,89.0,14.0,17.0,Male,11527
+26115,2020-04-06,AMAZON,SDE II,Software Engineer,221.0,"Seattle, WA",3,3,Full Stack,156.0,65.0,0.0,Male,11527
+26136,2020-04-06,AMAZON,L4,Software Engineer,149.0,"Seattle, WA",2,1,API Development (Back-End),117.0,3.0,29.0,Male,11527
+26146,2020-04-07,AMAZON,L4,Software Engineer,189.0,"Seattle, WA",1,1,Distributed Systems (Back-End),135.0,54.0,0.0,Male,11527
+26176,2020-04-07,AMAZON,SDE II,Software Engineer,227.0,"Seattle, WA",8,2,Full Stack,154.0,73.0,0.0,Male,11527
+26177,2020-04-07,AMAZON,L6,Software Engineer,195.0,"Seattle, WA",5,8,Distributed Systems (Back-End),93.0,102.0,0.0,Male,11527
+26178,2020-04-07,AMAZON,L5,Software Engineer,255.0,"Seattle, WA",4,4,Full Stack,204.0,51.0,0.0,Male,11527
+26188,2020-04-07,AMAZON,L4,Software Engineer,150.0,"Seattle, WA",1,1,Full Stack,112.0,38.0,0.0,NotDisclosed,11527
+26190,2020-04-07,AMAZON,L5,Software Engineer,172.0,"Seattle, WA",5,4,API Development (Back-End),83.0,89.0,0.0,Male,11527
+26221,2020-04-08,AMAZON,L5,Software Engineer,234.0,"Seattle, WA",3,4,API Development (Back-End),178.0,56.0,0.0,Male,11527
+26222,2020-04-08,AMAZON,L5,Software Engineer,165.0,"Seattle, WA",6,6,Full Stack,103.0,62.0,0.0,Male,11527
+26244,2020-04-08,AMAZON,SDE II,Software Engineer,162.0,"Seattle, WA",4,3,Full Stack,127.0,35.0,0.0,Male,11527
+26248,2020-04-08,AMAZON,L4,Software Engineer,187.0,"Seattle, WA",1,1,Distributed Systems (Back-End),162.0,16.0,9.0,Male,11527
+26249,2020-04-08,AMAZON,L5,Software Engineer,246.0,"Seattle, WA",10,1,Distributed Systems (Back-End),166.0,80.0,0.0,Male,11527
+26267,2020-04-08,AMAZON,L5,Software Engineer,216.0,"Seattle, WA",7,1,API Development (Back-End),141.0,75.0,0.0,Male,11527
+26268,2020-04-08,AMAZON,L5,Software Engineer,174.0,"Seattle, WA",4,2,Full Stack,112.0,62.0,0.0,Male,11527
+26275,2020-04-09,AMAZON,L4,Software Engineer,169.0,"Seattle, WA",1,0,API Development (Back-End),132.0,26.0,11.0,Female,11527
+26285,2020-04-09,AMAZON,SDE I,Software Engineer,126.0,"Seattle, WA",1,1,Full Stack,119.0,7.0,0.0,Male,11527
+26337,2020-04-10,AMAZON,L5,Software Engineer,198.0,"Seattle, WA",4,4,API Development (Back-End),138.0,60.0,0.0,NotDisclosed,11527
+26355,2020-04-10,AMAZON,L5,Software Engineer,138.0,"Seattle, WA",1,3,Full Stack,105.0,11.0,22.0,NotDisclosed,11527
+26377,2020-04-10,AMAZON,L5,Software Engineer,166.0,"Seattle, WA",9,7,Distributed Systems (Back-End),123.0,43.0,0.0,NotDisclosed,11527
+26387,2020-04-10,AMAZON,L5,Software Engineer,175.0,"Seattle, WA",7,4,Full Stack,134.0,41.0,0.0,Male,11527
+26430,2020-04-11,AMAZON,L5,Software Engineer,174.0,"Seattle, WA",9,3,Distributed Systems (Back-End),103.0,71.0,0.0,Male,11527
+26454,2020-04-11,AMAZON,L5,Software Engineer,237.0,"Seattle, WA",5,4,Distributed Systems (Back-End),130.0,107.0,0.0,Male,11527
+26495,2020-04-12,AMAZON,L5,Software Engineer,169.0,"Seattle, WA",3,4,Distributed Systems (Back-End),80.0,89.0,0.0,NotDisclosed,11527
+26508,2020-04-13,AMAZON,L5,Software Engineer,111.0,"Seattle, WA",2,2,API Development (Back-End),88.0,17.0,6.0,Male,11527
+26510,2020-04-13,AMAZON,L5,Software Engineer,222.0,"Seattle, WA",7,2,Full Stack,123.0,99.0,0.0,Male,11527
+26513,2020-04-13,AMAZON,L4,Software Engineer,128.0,"Seattle, WA",0,0,API Development (Back-End),99.0,9.0,20.0,Male,11527
+26560,2020-04-13,AMAZON,L4,Software Engineer,200.0,"Seattle, WA",7,1,Full Stack,171.0,29.0,0.0,Male,11527
+26570,2020-04-13,AMAZON,L5,Software Engineer,154.0,"Seattle, WA",4,3,API Development (Back-End),76.0,78.0,0.0,NotDisclosed,11527
+26572,2020-04-14,AMAZON,L5,Software Engineer,220.0,"Seattle, WA",5,4,ML / AI,165.0,55.0,0.0,Male,11527
+26581,2020-04-14,AMAZON,L6,Software Engineer,276.0,"Seattle, WA",6,3,Web Development (Front-End),169.0,107.0,0.0,Male,11527
+26587,2020-04-14,AMAZON,L5,Software Engineer,253.0,"Seattle, WA",3,6,Distributed Systems (Back-End),180.0,73.0,0.0,Male,11527
+26600,2020-04-14,AMAZON,L5,Software Engineer,189.0,"Seattle, WA",4,2,API Development (Back-End),112.0,77.0,0.0,Male,11527
+26620,2020-04-14,AMAZON,L5,Software Engineer,241.0,"Seattle, WA",3,3,Distributed Systems (Back-End),175.0,66.0,0.0,Male,11527
+26644,2020-04-14,AMAZON,SDE II,Software Engineer,275.0,"Seattle, WA",4,3,API Development (Back-End),200.0,75.0,0.0,Male,11527
+26705,2020-04-15,AMAZON,L4,Software Engineer,165.0,"Seattle, WA",2,3,Distributed Systems (Back-End),148.0,17.0,0.0,Female,11527
+26707,2020-04-15,AMAZON,L5,Software Engineer,173.0,"Seattle, WA",4,3,Distributed Systems (Back-End),121.0,52.0,0.0,Male,11527
+26714,2020-04-15,AMAZON,L5,Software Engineer,211.0,"Seattle, WA",3,1,API Development (Back-End),163.0,48.0,0.0,Male,11527
+26718,2020-04-15,AMAZON,L5,Software Engineer,222.0,"Seattle, WA",1,2,Distributed Systems (Back-End),138.0,84.0,0.0,Male,11527
+26725,2020-04-15,AMAZON,L5,Software Engineer,220.0,"Seattle, WA",3,6,Distributed Systems (Back-End),133.0,87.0,0.0,Male,11527
+26788,2020-04-16,AMAZON,L6,Software Engineer,247.0,"Seattle, WA",11,8,Distributed Systems (Back-End),163.0,84.0,0.0,Male,11527
+26800,2020-04-16,AMAZON,L5,Software Engineer,141.0,"Seattle, WA",12,3,Full Stack,105.0,36.0,0.0,Male,11527
+26822,2020-04-17,AMAZON,L5,Software Engineer,224.0,"Seattle, WA",5,7,API Development (Back-End),171.0,53.0,0.0,Male,11527
+26835,2020-04-17,AMAZON,L5,Software Engineer,177.0,"Seattle, WA",4,4,Full Stack,135.0,27.0,15.0,NotDisclosed,11527
+26878,2020-04-17,AMAZON,L5,Software Engineer,225.0,"Seattle, WA",2,6,DevOps,154.0,71.0,0.0,Male,11527
+26879,2020-04-17,AMAZON,L5,Software Engineer,212.0,"Seattle, WA",8,2,Full Stack,162.0,50.0,0.0,Male,11527
+26933,2020-04-18,AMAZON,L4,Software Engineer,167.0,"Seattle, WA",0,0,Distributed Systems (Back-End),126.0,35.0,6.0,Male,11527
+26947,2020-04-19,AMAZON,L4,Software Engineer,162.0,"Seattle, WA",2,1,Networking,139.0,9.0,14.0,Female,11527
+26997,2020-04-20,AMAZON,L4,Software Engineer,112.0,"Seattle, WA",1,1,Distributed Systems (Back-End),84.0,16.0,12.0,Male,11527
+27043,2020-04-21,AMAZON,SDE II,Software Engineer,206.0,"Seattle, WA",3,4,Full Stack,191.0,15.0,0.0,Male,11527
+27055,2020-04-21,AMAZON,L5,Software Engineer,156.0,"Seattle, WA",8,4,iOS,105.0,51.0,0.0,Male,11527
+27065,2020-04-21,AMAZON,L6,Software Engineer,265.0,"Seattle, WA",6,9,Distributed Systems (Back-End),192.0,73.0,0.0,Male,11527
+27093,2020-04-21,AMAZON,L4,Software Engineer,164.0,"Seattle, WA",4,1,Distributed Systems (Back-End),131.0,12.0,21.0,Male,11527
+27104,2020-04-22,AMAZON,L5,Software Engineer,195.0,"Seattle, WA",6,1,Android,155.0,40.0,0.0,NotDisclosed,11527
+27128,2020-04-22,AMAZON,L5,Software Engineer,108.0,"Seattle, WA",5,5,Full Stack,75.0,33.0,0.0,Female,11527
+27132,2020-04-22,AMAZON,L4,Software Engineer,193.0,"Seattle, WA",1,0,Distributed Systems (Back-End),145.0,48.0,0.0,NotDisclosed,11527
+27172,2020-04-23,AMAZON,L5,Software Engineer,177.0,"Seattle, WA",2,0,API Development (Back-End),128.0,49.0,0.0,Male,11527
+27182,2020-04-23,AMAZON,L5,Software Engineer,151.0,"Seattle, WA",3,1,API Development (Back-End),96.0,14.0,41.0,Male,11527
+27300,2020-04-25,AMAZON,SDE II,Software Engineer,242.0,"Seattle, WA",6,5,API Development (Back-End),191.0,51.0,0.0,Male,11527
+27341,2020-04-26,AMAZON,L5,Software Engineer,219.0,"Seattle, WA",7,2,Full Stack,149.0,70.0,0.0,Male,11527
+27349,2020-04-26,AMAZON,L5,Software Engineer,183.0,"Seattle, WA",2,2,Distributed Systems (Back-End),87.0,96.0,0.0,Male,11527
+27372,2020-04-26,AMAZON,SDE I,Software Engineer,166.0,"Seattle, WA",2,0,Distributed Systems (Back-End),116.0,36.0,14.0,Male,11527
+27402,2020-04-27,AMAZON,SDE II,Software Engineer,256.0,"Seattle, WA",2,4,Full Stack,172.0,84.0,0.0,Male,11527
+27421,2020-04-27,AMAZON,L5,Software Engineer,203.0,"Seattle, WA",7,3,Distributed Systems (Back-End),141.0,62.0,0.0,NotDisclosed,11527
+27428,2020-04-27,AMAZON,L4,Software Engineer,169.0,"Seattle, WA",5,1,Android,143.0,4.0,22.0,Male,11527
+27469,2020-04-28,AMAZON,L4,Software Engineer,194.0,"Seattle, WA",0,0,API Development (Back-End),148.0,13.0,33.0,Male,11527
+27526,2020-04-29,AMAZON,L4,Software Engineer,143.0,"Seattle, WA",7,1,Full Stack,87.0,14.0,42.0,Male,11527
+27614,2020-04-30,AMAZON,L6,Software Engineer,257.0,"Seattle, WA",9,6,Full Stack,197.0,60.0,0.0,Male,11527
+27661,2020-05-01,AMAZON,L4,Software Engineer,216.0,"Seattle, WA",7,4,API Development (Back-End),125.0,91.0,0.0,NotDisclosed,11527
+27691,2020-05-02,AMAZON,SDE II,Software Engineer,135.0,"Seattle, WA",6,9,Distributed Systems (Back-End),90.0,45.0,0.0,Male,11527
+27730,2020-05-02,AMAZON,SDE I,Software Engineer,141.0,"Seattle, WA",1,1,ML / AI,97.0,22.0,22.0,NotDisclosed,11527
+27786,2020-05-03,AMAZON,L4,Software Engineer,164.0,"Seattle, WA",3,1,API Development (Back-End),119.0,20.0,25.0,Female,11527
+27801,2020-05-03,AMAZON,L5,Software Engineer,115.0,"Seattle, WA",5,3,API Development (Back-End),82.0,33.0,0.0,Male,11527
+27871,2020-05-04,AMAZON,SDE II,Software Engineer,210.0,"Seattle, WA",3,1,Distributed Systems (Back-End),149.0,61.0,0.0,Male,11527
+27875,2020-05-04,AMAZON,4,Software Engineer,173.0,"Seattle, WA",1,3,Full Stack,132.0,41.0,0.0,Male,11527
+27904,2020-05-05,AMAZON,L5,Software Engineer,228.0,"Seattle, WA",4,3,Distributed Systems (Back-End),155.0,73.0,0.0,Male,11527
+27956,2020-05-05,AMAZON,SDE II,Software Engineer,157.0,"Seattle, WA",6,0,API Development (Back-End),86.0,31.0,40.0,Male,11527
+27975,2020-05-05,AMAZON,L4,Software Engineer,230.0,"Seattle, WA",3,0,Distributed Systems (Back-End),178.0,36.0,16.0,Male,11527
+27976,2020-05-05,AMAZON,L4,Software Engineer,161.0,"Seattle, WA",1,0,API Development (Back-End),126.0,10.0,25.0,Male,11527
+28055,2020-05-06,AMAZON,L5,Software Engineer,257.0,"Seattle, WA",11,7,Distributed Systems (Back-End),188.0,69.0,0.0,Male,11527
+28279,2020-05-09,AMAZON,SDE II,Software Engineer,260.0,"Seattle, WA",4,0,Full Stack,179.0,56.0,25.0,Male,11527
+28308,2020-05-10,AMAZON,L5,Software Engineer,134.0,"Seattle, WA",21,4,Distributed Systems (Back-End),90.0,44.0,0.0,NotDisclosed,11527
+28345,2020-05-11,AMAZON,L4,Software Engineer,178.0,"Seattle, WA",3,0,Distributed Systems (Back-End),134.0,3.0,41.0,Male,11527
+28376,2020-05-11,AMAZON,L4,Software Engineer,152.0,"Seattle, WA",3,0,Distributed Systems (Back-End),113.0,17.0,22.0,Male,11527
+28392,2020-05-12,AMAZON,5,Software Engineer,221.0,"Seattle, WA",2,4,ML / AI,146.0,75.0,0.0,NotDisclosed,11527
+28521,2020-05-13,AMAZON,L4,Software Engineer,132.0,"Seattle, WA",5,1,Full Stack,107.0,12.0,13.0,Male,11527
+28543,2020-05-13,AMAZON,L5,Software Engineer,156.0,"Seattle, WA",4,4,Full Stack,102.0,54.0,0.0,Male,11527
+28675,2020-05-15,AMAZON,L5,Software Engineer,247.0,"Seattle, WA",12,3,Full Stack,166.0,81.0,0.0,Male,11527
+28744,2020-05-16,AMAZON,L5,Software Engineer,193.0,"Seattle, WA",4,3,Full Stack,134.0,59.0,0.0,Female,11527
+28759,2020-05-16,AMAZON,L4,Software Engineer,189.0,"Seattle, WA",2,2,Full Stack,137.0,23.0,29.0,NotDisclosed,11527
+28841,2020-05-17,AMAZON,SDE I,Software Engineer,194.0,"Seattle, WA",1,1,Distributed Systems (Back-End),151.0,12.0,31.0,Male,11527
+28845,2020-05-17,AMAZON,L4,Software Engineer,116.0,"Seattle, WA",3,1,Full Stack,91.0,18.0,7.0,Male,11527
+28850,2020-05-17,AMAZON,L5,Software Engineer,220.0,"Seattle, WA",8,4,Full Stack,197.0,23.0,0.0,Male,11527
+28904,2020-05-18,AMAZON,L5,Software Engineer,245.0,"Seattle, WA",4,2,Full Stack,171.0,74.0,0.0,Male,11527
+28917,2020-05-18,AMAZON,l5,Software Engineer,238.0,"Seattle, WA",3,3,Full Stack,136.0,102.0,0.0,Male,11527
+28925,2020-05-18,AMAZON,L4,Software Engineer,115.0,"Seattle, WA",0,0,Logistics,85.0,16.0,14.0,Male,11527
+28960,2020-05-19,AMAZON,SDE II,Software Engineer,130.0,"Seattle, WA",5,4,Full Stack,84.0,46.0,0.0,NotDisclosed,11527
+29025,2020-05-20,AMAZON,L5,Software Engineer,272.0,"Seattle, WA",6,0,Security,201.0,44.0,27.0,Male,11527
+29057,2020-05-20,AMAZON,L4,Software Engineer,187.0,"Seattle, WA",3,0,Web Development (Front-End),134.0,27.0,26.0,Female,11527
+29110,2020-05-21,AMAZON,SDE II,Software Engineer,242.0,"Seattle, WA",4,1,Full Stack,158.0,47.0,37.0,Male,11527
+29171,2020-05-22,AMAZON,New grad,Software Engineer,137.0,"Seattle, WA",1,0,Unknown,117.0,4.0,16.0,Male,11527
+29211,2020-05-22,AMAZON,SDE I,Software Engineer,183.0,"Seattle, WA",1,0,Full Stack,117.0,32.0,34.0,Male,11527
+29212,2020-05-22,AMAZON,L4,Software Engineer,156.0,"Seattle, WA",1,1,Distributed Systems (Back-End),116.0,40.0,0.0,NotDisclosed,11527
+29344,2020-05-24,AMAZON,L4,Software Engineer,218.0,"Seattle, WA",1,0,Distributed Systems (Back-End),180.0,8.0,30.0,NotDisclosed,11527
+29367,2020-05-24,AMAZON,L5,Software Engineer,260.0,"Seattle, WA",4,4,Distributed Systems (Back-End),201.0,59.0,0.0,NotDisclosed,11527
+29398,2020-05-25,AMAZON,L5,Software Engineer,277.0,"Seattle, WA",4,3,Full Stack,190.0,87.0,0.0,Male,11527
+29402,2020-05-25,AMAZON,L5,Software Engineer,182.0,"Seattle, WA",4,3,Distributed Systems (Back-End),101.0,81.0,0.0,NotDisclosed,11527
+29416,2020-05-25,AMAZON,L5,Software Engineer,278.0,"Seattle, WA",9,3,Distributed Systems (Back-End),203.0,75.0,0.0,Female,11527
+29466,2020-05-26,AMAZON,L4,Software Engineer,141.0,"Seattle, WA",1,1,Full Stack,102.0,5.0,34.0,Female,11527
+29555,2020-05-27,AMAZON,L4,Software Engineer,170.0,"Seattle, WA",1,0,Distributed Systems (Back-End),126.0,31.0,13.0,Male,11527
+29625,2020-05-28,AMAZON,L5,Software Engineer,203.0,"Seattle, WA",16,6,API Development (Back-End),106.0,97.0,0.0,Male,11527
+29695,2020-05-29,AMAZON,L5,Software Engineer,183.0,"Seattle, WA",2,2,Full Stack,153.0,30.0,0.0,Female,11527
+29755,2020-05-30,AMAZON,L4,Software Engineer,160.0,"Seattle, WA",4,4,Full Stack,112.0,48.0,0.0,Male,11527
+29784,2020-05-30,AMAZON,L5,Software Engineer,137.0,"Seattle, WA",7,2,Distributed Systems (Back-End),94.0,36.0,7.0,NotDisclosed,11527
+29898,2020-06-01,AMAZON,SDE I,Software Engineer,218.0,"Seattle, WA",0,0,Full Stack,177.0,27.0,14.0,Male,11527
+29996,2020-06-03,AMAZON,L5,Software Engineer,212.0,"Seattle, WA",16,1,Full Stack,126.0,53.0,33.0,Male,11527
+30056,2020-06-04,AMAZON,L4,Software Engineer,173.0,"Seattle, WA",1,0,Distributed Systems (Back-End),144.0,20.0,9.0,Male,11527
+30057,2020-06-04,AMAZON,L5,Software Engineer,175.0,"Seattle, WA",2,4,Distributed Systems (Back-End),123.0,52.0,0.0,NotDisclosed,11527
+30093,2020-06-04,AMAZON,SDE I,Software Engineer,129.0,"Seattle, WA",3,1,API Development (Back-End),74.0,49.0,6.0,Male,11527
+30109,2020-06-04,AMAZON,SDE II,Software Engineer,140.0,"Seattle, WA",12,4,Distributed Systems (Back-End),78.0,62.0,0.0,Male,11527
+30159,2020-06-05,AMAZON,L4,Software Engineer,218.0,"Seattle, WA",1,0,API Development (Back-End),175.0,27.0,16.0,Male,11527
+30331,2020-06-08,AMAZON,L5,Software Engineer,185.0,"Seattle, WA",15,10,Distributed Systems (Back-End),109.0,76.0,0.0,NotDisclosed,11527
+30352,2020-06-08,AMAZON,5,Software Engineer,155.0,"Seattle, WA",3,3,API Development (Back-End),101.0,54.0,0.0,Female,11527
+30405,2020-06-09,AMAZON,SDE I,Software Engineer,110.0,"Seattle, WA",0,0,Full Stack,78.0,9.0,23.0,Male,11527
+30448,2020-06-09,AMAZON,L5,Software Engineer,167.0,"Seattle, WA",4,3,IoT,80.0,87.0,0.0,Male,11527
+30454,2020-06-09,AMAZON,L5,Software Engineer,241.0,"Seattle, WA",6,3,Distributed Systems (Back-End),148.0,93.0,0.0,Male,11527
+30530,2020-06-10,AMAZON,SDE II,Software Engineer,127.0,"Seattle, WA",8,5,Distributed Systems (Back-End),74.0,53.0,0.0,Male,11527
+30632,2020-06-11,AMAZON,L5,Software Engineer,189.0,"Seattle, WA",2,0,Full Stack,108.0,81.0,0.0,Male,11527
+30686,2020-06-12,AMAZON,L4,Software Engineer,161.0,"Seattle, WA",3,0,Distributed Systems (Back-End),106.0,27.0,28.0,Female,11527
+30693,2020-06-12,AMAZON,L4,Software Engineer,127.0,"Seattle, WA",2,0,ML / AI,93.0,26.0,8.0,Male,11527
+30694,2020-06-12,AMAZON,L5,Software Engineer,217.0,"Seattle, WA",9,4,Distributed Systems (Back-End),106.0,111.0,0.0,Male,11527
+30717,2020-06-12,AMAZON,SDE I,Software Engineer,194.0,"Seattle, WA",1,1,Distributed Systems (Back-End),149.0,18.0,27.0,Male,11527
+30844,2020-06-15,AMAZON,L5,Software Engineer,202.0,"Seattle, WA",5,4,Distributed Systems (Back-End),94.0,108.0,0.0,Male,11527
+30866,2020-06-15,AMAZON,L5,Software Engineer,272.0,"Seattle, WA",6,2,Distributed Systems (Back-End),191.0,81.0,0.0,Female,11527
+30904,2020-06-16,AMAZON,L5,Software Engineer,260.0,"Seattle, WA",6,1,Full Stack,177.0,64.0,19.0,NotDisclosed,11527
+31000,2020-06-17,AMAZON,SDE II,Software Engineer,223.0,"Seattle, WA",9,3,Distributed Systems (Back-End),139.0,75.0,9.0,Male,11527
+31038,2020-06-17,AMAZON,SDE I,Software Engineer,168.0,"Seattle, WA",0,0,Web Development (Front-End),137.0,6.0,25.0,Female,11527
+31144,2020-06-19,AMAZON,L5,Software Engineer,233.0,"Seattle, WA",2,1,API Development (Back-End),206.0,27.0,0.0,Male,11527
+31145,2020-06-19,AMAZON,L4,Software Engineer,199.0,"Seattle, WA",3,1,Full Stack,172.0,21.0,6.0,NotDisclosed,11527
+31152,2020-06-19,AMAZON,L4,Software Engineer,231.0,"Seattle, WA",4,3,Android,188.0,43.0,0.0,NotDisclosed,11527
+31241,2020-06-21,AMAZON,L4,Software Engineer,168.0,"Seattle, WA",2,0,Embedded SDK,135.0,33.0,0.0,NotDisclosed,11527
+31272,2020-06-21,AMAZON,L5,Software Engineer,201.0,"Seattle, WA",6,3,Distributed Systems (Back-End),115.0,86.0,0.0,Male,11527
+31318,2020-06-22,AMAZON,SDE I,Software Engineer,172.0,"Seattle, WA",1,0,Full Stack,114.0,20.0,38.0,Male,11527
+31341,2020-06-22,AMAZON,SDE II,Software Engineer,221.0,"Seattle, WA",4,2,API Development (Back-End),160.0,61.0,0.0,Male,11527
+31404,2020-06-23,AMAZON,L5,Software Engineer,209.0,"Seattle, WA",3,4,API Development (Back-End),148.0,61.0,0.0,Male,11527
+31410,2020-06-23,AMAZON,L5,Software Engineer,259.0,"Seattle, WA",5,1,Full Stack,185.0,74.0,0.0,Male,11527
+31477,2020-06-24,AMAZON,L5,Software Engineer,289.0,"Seattle, WA",3,4,Android,202.0,87.0,0.0,Male,11527
+31489,2020-06-24,AMAZON,L6,Software Engineer,251.0,"Seattle, WA",3,4,Distributed Systems (Back-End),188.0,63.0,0.0,Male,11527
+31570,2020-06-25,AMAZON,SDE I,Software Engineer,105.0,"Seattle, WA",1,1,Full Stack,78.0,27.0,0.0,Male,11527
+31663,2020-06-26,AMAZON,3,Software Engineer,226.0,"Seattle, WA",3,1,Cryptography ,151.0,65.0,10.0,Male,11527
+31743,2020-06-28,AMAZON,L5,Software Engineer,217.0,"Seattle, WA",3,5,Web Development (Front-End),156.0,61.0,0.0,Male,11527
+31755,2020-06-28,AMAZON,SDE II,Software Engineer,187.0,"Seattle, WA",3,2,Distributed Systems (Back-End),122.0,65.0,0.0,Male,11527
+31813,2020-06-29,AMAZON,L4,Software Engineer,158.0,"Seattle, WA",3,1,Distributed Systems (Back-End),119.0,26.0,13.0,NotDisclosed,11527
+31960,2020-07-01,AMAZON,L4,Software Engineer,167.0,"Seattle, WA",2,0,Full Stack,113.0,49.0,5.0,Male,11527
+31969,2020-07-01,AMAZON,SDE I,Software Engineer,184.0,"Seattle, WA",1,1,Full Stack,131.0,33.0,20.0,Female,11527
+32102,2020-07-02,AMAZON,L4,Software Engineer,194.0,"Seattle, WA",3,0,Distributed Systems (Back-End),130.0,59.0,5.0,Male,11527
+32252,2020-07-04,AMAZON,L5,Software Engineer,245.0,"Seattle, WA",4,1,Site Reliability (SRE),179.0,66.0,0.0,Male,11527
+32275,2020-07-04,AMAZON,SDE I,Software Engineer,205.0,"Seattle, WA",0,0,Distributed Systems (Back-End),168.0,23.0,14.0,NotDisclosed,11527
+32286,2020-07-04,AMAZON,L4,Software Engineer,192.0,"Seattle, WA",1,0,Distributed Systems (Back-End),150.0,7.0,35.0,NotDisclosed,11527
+32419,2020-07-06,AMAZON,L5,Software Engineer,210.0,"Seattle, WA",2,1,Web Development (Front-End),155.0,38.0,17.0,Male,11527
+32461,2020-07-06,AMAZON,L5,Software Engineer,176.0,"Seattle, WA",8,4,API Development (Back-End),99.0,77.0,0.0,Male,11527
+32600,2020-07-07,AMAZON,L5,Software Engineer,169.0,"Seattle, WA",4,5,Distributed Systems (Back-End),96.0,73.0,0.0,Male,11527
+32671,2020-07-08,AMAZON,L4,Software Engineer,174.0,"Seattle, WA",1,1,Distributed Systems (Back-End),140.0,3.0,31.0,Male,11527
+32711,2020-07-09,AMAZON,L6,Software Engineer,246.0,"Seattle, WA",3,6,iOS,134.0,112.0,0.0,NotDisclosed,11527
+32881,2020-07-11,AMAZON,L4,Software Engineer,207.0,"Seattle, WA",3,3,Distributed Systems (Back-End),140.0,67.0,0.0,NotDisclosed,11527
+32942,2020-07-11,AMAZON,L5,Software Engineer,232.0,"Seattle, WA",7,6,Full Stack,168.0,64.0,0.0,Male,11527
+32980,2020-07-12,AMAZON,L5,Software Engineer,258.0,"Seattle, WA",3,6,Distributed Systems (Back-End),168.0,90.0,0.0,Male,11527
+33074,2020-07-13,AMAZON,L5,Software Engineer,158.0,"Seattle, WA",4,4,API Development (Back-End),80.0,78.0,0.0,Male,11527
+33090,2020-07-13,AMAZON,IC6,Software Engineer,193.0,"Seattle, WA",10,7,ML / AI,138.0,55.0,0.0,Male,11527
+33121,2020-07-14,AMAZON,L4,Software Engineer,238.0,"Seattle, WA",1,1,Distributed Systems (Back-End),178.0,26.0,34.0,NotDisclosed,11527
+33168,2020-07-14,AMAZON,L4,Software Engineer,130.0,"Seattle, WA",0,0,Web Development (Front-End),105.0,4.0,21.0,Male,11527
+33190,2020-07-15,AMAZON,L5,Software Engineer,220.0,"Seattle, WA",1,0,Full Stack,116.0,70.0,34.0,NotDisclosed,11527
+33196,2020-07-15,AMAZON,L5,Software Engineer,222.0,"Seattle, WA",11,1,Full Stack,192.0,25.0,5.0,Male,11527
+33247,2020-07-15,AMAZON,L5,Software Engineer,238.0,"Seattle, WA",6,0,API Development (Back-End),146.0,56.0,36.0,NotDisclosed,11527
+33366,2020-07-17,AMAZON,L5,Software Engineer,173.0,"Seattle, WA",9,0,API Development (Back-End),76.0,97.0,0.0,Male,11527
+33421,2020-07-17,AMAZON,L5,Software Engineer,197.0,"Seattle, WA",3,0,Full Stack,137.0,40.0,20.0,Male,11527
+33477,2020-07-18,AMAZON,L4,Software Engineer,132.0,"Seattle, WA",6,1,API Development (Back-End),101.0,31.0,0.0,Male,11527
+33482,2020-07-18,AMAZON,L4,Software Engineer,125.0,"Seattle, WA",0,0,Distributed Systems (Back-End),96.0,12.0,17.0,NotDisclosed,11527
+33490,2020-07-18,AMAZON,L5,Software Engineer,202.0,"Seattle, WA",4,2,ML / AI,131.0,71.0,0.0,Male,11527
+33693,2020-07-20,AMAZON,L5,Software Engineer,140.0,"Seattle, WA",2,0,Full Stack,90.0,11.0,39.0,Male,11527
+33834,2020-07-21,AMAZON,L4,Software Engineer,152.0,"Seattle, WA",1,1,Full Stack,120.0,20.0,12.0,NotDisclosed,11527
+33839,2020-07-21,AMAZON,L4,Software Engineer,192.0,"Seattle, WA",6,0,API Development (Back-End),109.0,56.0,27.0,NotDisclosed,11527
+33951,2020-07-22,AMAZON,L5,Software Engineer,223.0,"Seattle, WA",7,3,Distributed Systems (Back-End),153.0,70.0,0.0,Male,11527
+33956,2020-07-22,AMAZON,L5,Software Engineer,192.0,"Seattle, WA",6,3,API Development (Back-End),157.0,35.0,0.0,Male,11527
+34056,2020-07-23,AMAZON,L5,Software Engineer,224.0,"Seattle, WA",2,2,Security,159.0,65.0,0.0,NotDisclosed,11527
+34087,2020-07-24,AMAZON,SDE I,Software Engineer,157.0,"Seattle, WA",2,0,Full Stack,110.0,35.0,12.0,Male,11527
+34182,2020-07-25,AMAZON,L5,Software Engineer,182.0,"Seattle, WA",3,0,Full Stack,117.0,25.0,40.0,NotDisclosed,11527
+34380,2020-07-27,AMAZON,L4,Software Engineer,211.0,"Seattle, WA",7,0,ML / AI,178.0,27.0,6.0,Male,11527
+34496,2020-07-28,AMAZON,L5,Software Engineer,232.0,"Seattle, WA",2,4,Distributed Systems (Back-End),168.0,64.0,0.0,Male,11527
+34556,2020-07-28,AMAZON,L4,Software Engineer,231.0,"Seattle, WA",1,0,API Development (Back-End),185.0,46.0,0.0,Male,11527
+34706,2020-07-30,AMAZON,L5,Software Engineer,229.0,"Seattle, WA",4,2,API Development (Back-End),163.0,66.0,0.0,Male,11527
+34736,2020-07-30,AMAZON,L4,Software Engineer,228.0,"Seattle, WA",1,0,Distributed Systems (Back-End),179.0,7.0,42.0,Male,11527
+34818,2020-07-30,AMAZON,L5,Software Engineer,176.0,"Seattle, WA",8,0,Full Stack,91.0,58.0,27.0,Male,11527
+35036,2020-08-01,AMAZON,L5,Software Engineer,224.0,"Seattle, WA",10,4,API Development (Back-End),169.0,55.0,0.0,Female,11527
+35052,2020-08-02,AMAZON,L5,Software Engineer,187.0,"Seattle, WA",4,1,Networking,168.0,6.0,13.0,NotDisclosed,11527
+35069,2020-08-02,AMAZON,L5,Software Engineer,214.0,"Seattle, WA",4,5,Distributed Systems (Back-End),162.0,52.0,0.0,Male,11527
+35166,2020-08-03,AMAZON,L3,Software Engineer,170.0,"Seattle, WA",2,0,Full Stack,124.0,33.0,13.0,NotDisclosed,11527
+35212,2020-08-03,AMAZON,L5,Software Engineer,146.0,"Seattle, WA",3,2,Distributed Systems (Back-End),92.0,54.0,0.0,Male,11527
+35216,2020-08-03,AMAZON,L5,Software Engineer,146.0,"Seattle, WA",4,2,Distributed Systems (Back-End),96.0,50.0,0.0,Male,11527
+35243,2020-08-04,AMAZON,L5,Software Engineer,228.0,"Seattle, WA",3,7,Mobile (iOS + Android),171.0,57.0,0.0,Male,11527
+35405,2020-08-05,AMAZON,SDE I,Software Engineer,217.0,"Seattle, WA",1,0,Full Stack,171.0,3.0,43.0,Male,11527
+35527,2020-08-06,AMAZON,L5,Software Engineer,247.0,"Seattle, WA",12,2,Distributed Systems (Back-End),195.0,52.0,0.0,Male,11527
+35554,2020-08-06,AMAZON,L4,Software Engineer,145.0,"Seattle, WA",1,0,Data,113.0,21.0,11.0,Male,11527
+35637,2020-08-07,AMAZON,L4,Software Engineer,115.0,"Seattle, WA",3,0,Distributed Systems (Back-End),74.0,17.0,24.0,NotDisclosed,11527
+35710,2020-08-07,AMAZON,SDE I,Software Engineer,144.0,"Seattle, WA",1,0,Full Stack,102.0,25.0,17.0,NotDisclosed,11527
+35763,2020-08-08,AMAZON,L4,Software Engineer,158.0,"Seattle, WA",2,2,API Development (Back-End),101.0,24.0,33.0,NotDisclosed,11527
+35790,2020-08-08,AMAZON,SDE II,Software Engineer,230.0,"Seattle, WA",4,1,Android,146.0,84.0,0.0,Male,11527
+35854,2020-08-09,AMAZON,L5,Software Engineer,202.0,"Seattle, WA",2,0,Distributed Systems (Back-End),123.0,62.0,17.0,NotDisclosed,11527
+35964,2020-08-10,AMAZON,L5,Software Engineer,213.0,"Seattle, WA",7,5,API Development (Back-End),130.0,83.0,0.0,NotDisclosed,11527
+36022,2020-08-10,AMAZON,L5,Software Engineer,256.0,"Seattle, WA",4,6,Distributed Systems (Back-End),197.0,59.0,0.0,NotDisclosed,11527
+36073,2020-08-11,AMAZON,L4,Software Engineer,113.0,"Seattle, WA",1,1,Full Stack,81.0,11.0,21.0,NotDisclosed,11527
+36082,2020-08-11,AMAZON,L5,Software Engineer,121.0,"Seattle, WA",5,4,Distributed Systems (Back-End),89.0,32.0,0.0,NotDisclosed,11527
+36169,2020-08-12,AMAZON,L6,Software Engineer,157.0,"Seattle, WA",21,3,Full Stack,84.0,73.0,0.0,NotDisclosed,11527
+36200,2020-08-12,AMAZON,L5,Software Engineer,263.0,"Seattle, WA",2,3,Distributed Systems (Back-End),204.0,54.0,5.0,NotDisclosed,11527
+36222,2020-08-12,AMAZON,L4,Software Engineer,101.0,"Seattle, WA",1,1,ML / AI,74.0,4.0,23.0,Male,11527
+36227,2020-08-12,AMAZON,L5,Software Engineer,114.0,"Seattle, WA",8,2,Testing (SDET),72.0,42.0,0.0,NotDisclosed,11527
+36265,2020-08-12,AMAZON,L5,Software Engineer,223.0,"Seattle, WA",2,6,API Development (Back-End),121.0,102.0,0.0,NotDisclosed,11527
+36522,2020-08-14,AMAZON,L5,Software Engineer,199.0,"Seattle, WA",9,1,Control Systems,126.0,73.0,0.0,Male,11527
+36525,2020-08-14,AMAZON,L5,Software Engineer,176.0,"Seattle, WA",3,2,Distributed Systems (Back-End),142.0,34.0,0.0,NotDisclosed,11527
+36529,2020-08-14,AMAZON,L4,Software Engineer,147.0,"Seattle, WA",5,1,API Development (Back-End),81.0,36.0,30.0,NotDisclosed,11527
+36646,2020-08-15,AMAZON,L4,Software Engineer,213.0,"Seattle, WA",0,0,Full Stack,158.0,31.0,24.0,Male,11527
+36667,2020-08-15,AMAZON,L5,Software Engineer,189.0,"Seattle, WA",6,4,API Development (Back-End),109.0,80.0,0.0,Male,11527
+36699,2020-08-16,AMAZON,L5,Software Engineer,156.0,"Seattle, WA",9,4,API Development (Back-End),114.0,36.0,6.0,Male,11527
+36812,2020-08-17,AMAZON,L4,Software Engineer,165.0,"Seattle, WA",1,1,Distributed Systems (Back-End),136.0,5.0,24.0,NotDisclosed,11527
+36932,2020-08-18,AMAZON,L6,Software Engineer,265.0,"Seattle, WA",11,10,Distributed Systems (Back-End),197.0,68.0,0.0,NotDisclosed,11527
+36938,2020-08-18,AMAZON,L4,Software Engineer,182.0,"Seattle, WA",2,1,ML / AI,144.0,11.0,27.0,Male,11527
+36995,2020-08-18,AMAZON,L5,Software Engineer,248.0,"Seattle, WA",3,3,Distributed Systems (Back-End),201.0,47.0,0.0,NotDisclosed,11527
+37014,2020-08-18,AMAZON,SDE III,Software Engineer,235.0,"Seattle, WA",11,3,Distributed Systems (Back-End),125.0,110.0,0.0,NotDisclosed,11527
+37022,2020-08-18,AMAZON,L5,Software Engineer,170.0,"Seattle, WA",4,4,Distributed Systems (Back-End),111.0,59.0,0.0,Male,11527
+37050,2020-08-18,AMAZON,L5,Software Engineer,220.0,"Seattle, WA",3,2,Full Stack,161.0,59.0,0.0,Female,11527
+37240,2020-08-19,AMAZON,SDE I,Software Engineer,137.0,"Seattle, WA",9,6,Full Stack,117.0,11.0,9.0,NotDisclosed,11527
+37293,2020-08-20,AMAZON,L5,Software Engineer,171.0,"Seattle, WA",14,4,API Development (Back-End),99.0,72.0,0.0,Male,11527
+37318,2020-08-20,AMAZON,L5,Software Engineer,194.0,"Seattle, WA",15,5,Full Stack,148.0,46.0,0.0,Male,11527
+37319,2020-08-20,AMAZON,L5,Software Engineer,259.0,"Seattle, WA",8,4,Distributed Systems (Back-End),182.0,77.0,0.0,Male,11527
+37393,2020-08-20,AMAZON,L5,Software Engineer,213.0,"Seattle, WA",16,1,Web Development (Front-End),180.0,33.0,0.0,Male,11527
+37435,2020-08-21,AMAZON,SDE I,Software Engineer,210.0,"Seattle, WA",8,0,ML / AI,169.0,26.0,15.0,NotDisclosed,11527
+37526,2020-08-21,AMAZON,L4,Software Engineer,161.0,"Seattle, WA",0,0,API Development (Back-End),116.0,31.0,14.0,NotDisclosed,11527
+37554,2020-08-21,AMAZON,SDE II,Software Engineer,244.0,"Seattle, WA",3,0,Distributed Systems (Back-End),149.0,60.0,35.0,NotDisclosed,11527
+37716,2020-08-23,AMAZON,L5,Software Engineer,196.0,"Seattle, WA",6,3,Full Stack,120.0,76.0,0.0,NotDisclosed,11527
+37805,2020-08-24,AMAZON,L4,Software Engineer,104.0,"Seattle, WA",4,3,Android,73.0,31.0,0.0,Male,11527
+37813,2020-08-24,AMAZON,L5,Software Engineer,211.0,"Seattle, WA",7,1,Data,167.0,44.0,0.0,NotDisclosed,11527
+37834,2020-08-24,AMAZON,L3,Software Engineer,171.0,"Seattle, WA",6,0,Mobile (iOS + Android),140.0,3.0,28.0,Male,11527
+37873,2020-08-24,AMAZON,L5,Software Engineer,223.0,"Seattle, WA",9,3,Distributed Systems (Back-End),139.0,84.0,0.0,NotDisclosed,11527
+37887,2020-08-24,AMAZON,L4,Software Engineer,194.0,"Seattle, WA",0,0,Full Stack,152.0,11.0,31.0,NotDisclosed,11527
+37892,2020-08-24,AMAZON,L4,Software Engineer,204.0,"Seattle, WA",2,1,Distributed Systems (Back-End),165.0,27.0,12.0,Male,11527
+38015,2020-08-25,AMAZON,L6,Software Engineer,195.0,"Seattle, WA",8,5,Distributed Systems (Back-End),138.0,57.0,0.0,NotDisclosed,11527
+38116,2020-08-26,AMAZON,L4,Software Engineer,115.0,"Seattle, WA",3,0,Full Stack,76.0,6.0,33.0,NotDisclosed,11527
+38198,2020-08-26,AMAZON,SDE I,Software Engineer,156.0,"Seattle, WA",0,0,Full Stack,118.0,8.0,30.0,Male,11527
+38350,2020-08-27,AMAZON,L4,Software Engineer,162.0,"Seattle, WA",1,1,API Development (Back-End),129.0,19.0,14.0,NotDisclosed,11527
+38393,2020-08-27,AMAZON,L4,Software Engineer,185.0,"Seattle, WA",0,0,ML / AI,146.0,5.0,34.0,Male,11527
+38483,2020-08-28,AMAZON,L4,Software Engineer,176.0,"Seattle, WA",1,0,ML / AI,104.0,49.0,23.0,Male,11527
+38587,2020-08-28,AMAZON,L4,Software Engineer,128.0,"Seattle, WA",0,0,API Development (Back-End),103.0,5.0,20.0,NotDisclosed,11527
+38591,2020-08-28,AMAZON,L5,Software Engineer,144.0,"Seattle, WA",7,5,Full Stack,93.0,51.0,0.0,Male,11527
+38614,2020-08-29,AMAZON,SDE II,Software Engineer,167.0,"Seattle, WA",0,0,Full Stack,138.0,12.0,17.0,NotDisclosed,11527
+38665,2020-08-29,AMAZON,L5,Software Engineer,209.0,"Seattle, WA",4,5,Distributed Systems (Back-End),116.0,93.0,0.0,Male,11527
+38672,2020-08-29,AMAZON,L5,Software Engineer,175.0,"Seattle, WA",10,4,API Development (Back-End),150.0,25.0,0.0,Male,11527
+38698,2020-08-29,AMAZON,L5,Software Engineer,183.0,"Seattle, WA",7,3,Distributed Systems (Back-End),116.0,50.0,17.0,NotDisclosed,11527
+38788,2020-08-30,AMAZON,L5,Software Engineer,225.0,"Seattle, WA",5,1,Full Stack,146.0,79.0,0.0,Male,11527
+38820,2020-08-30,AMAZON,L4,Software Engineer,154.0,"Seattle, WA",0,0,Full Stack,116.0,7.0,31.0,NotDisclosed,11527
+38825,2020-08-30,AMAZON,L5,Software Engineer,236.0,"Seattle, WA",3,3,ML / AI,141.0,95.0,0.0,NotDisclosed,11527
+38828,2020-08-30,AMAZON,L5,Software Engineer,244.0,"Seattle, WA",8,4,Testing (SDET),174.0,70.0,0.0,NotDisclosed,11527
+38841,2020-08-30,AMAZON,L5,Software Engineer,132.0,"Seattle, WA",5,2,API Development (Back-End),111.0,18.0,3.0,Male,11527
+38850,2020-08-31,AMAZON,L4,Software Engineer,193.0,"Seattle, WA",0,0,Full Stack,167.0,4.0,22.0,Male,11527
+39211,2020-09-02,AMAZON,L5,Software Engineer,161.0,"Seattle, WA",3,4,ML / AI,90.0,71.0,0.0,NotDisclosed,11527
+39285,2020-09-02,AMAZON,SDE II,Software Engineer,127.0,"Seattle, WA",4,4,Distributed Systems (Back-End),95.0,32.0,0.0,NotDisclosed,11527
+39292,2020-09-02,AMAZON,L4,Software Engineer,187.0,"Seattle, WA",2,0,API Development (Back-End),164.0,5.0,18.0,NotDisclosed,11527
+39346,2020-09-02,AMAZON,L4,Software Engineer,168.0,"Seattle, WA",6,3,Distributed Systems (Back-End),114.0,54.0,0.0,Female,11527
+39384,2020-09-02,AMAZON,SDE II,Software Engineer,228.0,"Seattle, WA",3,4,Full Stack,158.0,70.0,0.0,NotDisclosed,11527
+39462,2020-09-03,AMAZON,SDE I,Software Engineer,207.0,"Seattle, WA",1,0,Full Stack,143.0,27.0,37.0,Male,11527
+39658,2020-09-04,AMAZON,L5,Software Engineer,138.0,"Seattle, WA",8,6,Distributed Systems (Back-End),73.0,65.0,0.0,Male,11527
+39840,2020-09-05,AMAZON,L4,Software Engineer,210.0,"Seattle, WA",3,4,API Development (Back-End),156.0,54.0,0.0,NotDisclosed,11527
+40136,2020-09-07,AMAZON,L4,Software Engineer,137.0,"Seattle, WA",3,1,Full Stack,107.0,21.0,9.0,Male,11527
+40141,2020-09-07,AMAZON,SDE II,Software Engineer,250.0,"Seattle, WA",14,0,Distributed Systems (Back-End),186.0,64.0,0.0,Male,11527
+40168,2020-09-07,AMAZON,L4,Software Engineer,167.0,"Seattle, WA",1,0,Full Stack,122.0,26.0,19.0,Male,11527
+40316,2020-09-08,AMAZON,L6,Software Engineer,287.0,"Seattle, WA",8,5,Distributed Systems (Back-End),194.0,93.0,0.0,NotDisclosed,11527
+40321,2020-09-08,AMAZON,L6,Software Engineer,142.0,"Seattle, WA",14,2,Web Development (Front-End),110.0,32.0,0.0,Male,11527
+40371,2020-09-09,AMAZON,L3,Software Engineer,189.0,"Seattle, WA",2,1,Distributed Systems (Back-End),152.0,37.0,0.0,NotDisclosed,11527
+40384,2020-09-09,AMAZON,L1 ,Software Engineer,208.0,"Seattle, WA",0,0,Networking,111.0,64.0,33.0,Male,11527
+40592,2020-09-10,AMAZON,L4,Software Engineer,165.0,"Seattle, WA",2,0,Full Stack,111.0,25.0,29.0,Male,11527
+40810,2020-09-12,AMAZON,L4,Software Engineer,122.0,"Seattle, WA",2,1,API Development (Back-End),103.0,19.0,0.0,Male,11527
+40827,2020-09-12,AMAZON,L5,Software Engineer,157.0,"Seattle, WA",4,1,Distributed Systems (Back-End),101.0,36.0,20.0,NotDisclosed,11527
+40926,2020-09-13,AMAZON,L4,Software Engineer,107.0,"Seattle, WA",0,0,Full Stack,75.0,7.0,25.0,Male,11527
+41132,2020-09-14,AMAZON,L5,Software Engineer,231.0,"Seattle, WA",3,3,Full Stack,184.0,47.0,0.0,Male,11527
+41222,2020-09-15,AMAZON,L5,Software Engineer,176.0,"Seattle, WA",2,5,Distributed Systems (Back-End),133.0,41.0,2.0,Male,11527
+41233,2020-09-15,AMAZON,L4,Software Engineer,178.0,"Seattle, WA",6,1,Distributed Systems (Back-End),148.0,3.0,27.0,Male,11527
+41252,2020-09-15,AMAZON,L4,Software Engineer,149.0,"Seattle, WA",1,3,Distributed Systems (Back-End),99.0,12.0,38.0,NotDisclosed,11527
+41398,2020-09-16,AMAZON,L5,Software Engineer,178.0,"Seattle, WA",6,4,Distributed Systems (Back-End),157.0,21.0,0.0,Male,11527
+41571,2020-09-17,AMAZON,L4,Software Engineer,205.0,"Seattle, WA",2,3,API Development (Back-End),158.0,47.0,0.0,Male,11527
+41620,2020-09-17,AMAZON,L4,Software Engineer,135.0,"Seattle, WA",2,0,Distributed Systems (Back-End),90.0,12.0,33.0,NotDisclosed,11527
+41777,2020-09-19,AMAZON,L6,Software Engineer,210.0,"Seattle, WA",15,2,Full Stack,139.0,71.0,0.0,NotDisclosed,11527
+41789,2020-09-19,AMAZON,L4,Software Engineer,127.0,"Seattle, WA",0,0,Distributed Systems (Back-End),119.0,8.0,0.0,Male,11527
+41864,2020-09-20,AMAZON,L4,Software Engineer,163.0,"Seattle, WA",1,1,Distributed Systems (Back-End),145.0,4.0,14.0,NotDisclosed,11527
+41936,2020-09-21,AMAZON,L4,Software Engineer,214.0,"Seattle, WA",1,1,Distributed Systems (Back-End),172.0,3.0,39.0,Male,11527
+42016,2020-09-21,AMAZON,L5,Software Engineer,290.0,"Seattle, WA",4,4,ML / AI,206.0,84.0,0.0,Male,11527
+42040,2020-09-21,AMAZON,L4,Software Engineer,188.0,"Seattle, WA",0,0,API Development (Back-End),137.0,19.0,32.0,Female,11527
+42147,2020-09-22,AMAZON,SDE I,Software Engineer,123.0,"Seattle, WA",1,0,Full Stack,92.0,11.0,20.0,NotDisclosed,11527
+42264,2020-09-22,AMAZON,L4,Software Engineer,123.0,"Seattle, WA",0,0,Full Stack,89.0,15.0,19.0,NotDisclosed,11527
+42269,2020-09-22,AMAZON,L4,Software Engineer,159.0,"Seattle, WA",0,0,Security,89.0,28.0,42.0,Male,11527
+42278,2020-09-22,AMAZON,L5,Software Engineer,197.0,"Seattle, WA",9,6,API Development (Back-End),106.0,91.0,0.0,NotDisclosed,11527
+42280,2020-09-22,AMAZON,L4,Software Engineer,216.0,"Seattle, WA",4,1,Full Stack,175.0,15.0,26.0,NotDisclosed,11527
+42407,2020-09-23,AMAZON,L4,Software Engineer,208.0,"Seattle, WA",3,0,Full Stack,155.0,34.0,19.0,Male,11527
+42410,2020-09-23,AMAZON,L3,Software Engineer,236.0,"Seattle, WA",1,0,Full Stack,200.0,19.0,17.0,Male,11527
+42775,2020-09-25,AMAZON,L5,Software Engineer,145.0,"Seattle, WA",10,7,Distributed Systems (Back-End),89.0,56.0,0.0,NotDisclosed,11527
+42851,2020-09-26,AMAZON,L3,Software Engineer,223.0,"Seattle, WA",1,0,API Development (Back-End),184.0,5.0,34.0,Male,11527
+42939,2020-09-27,AMAZON,L6,Software Engineer,316.0,"Seattle, WA",5,4,Full Stack,206.0,110.0,0.0,NotDisclosed,11527
+42959,2020-09-27,AMAZON,L5,Software Engineer,188.0,"Seattle, WA",6,7,Full Stack,102.0,86.0,0.0,NotDisclosed,11527
+43002,2020-09-28,AMAZON,Sde 2,Software Engineer,253.0,"Seattle, WA",2,3,API Development (Back-End),166.0,87.0,0.0,NotDisclosed,11527
+43018,2020-09-28,AMAZON,L5,Software Engineer,247.0,"Seattle, WA",6,3,Distributed Systems (Back-End),187.0,60.0,0.0,Male,11527
+43067,2020-09-28,AMAZON,L5,Software Engineer,188.0,"Seattle, WA",3,3,Distributed Systems (Back-End),145.0,43.0,0.0,Male,11527
+43172,2020-09-29,AMAZON,L5,Software Engineer,254.0,"Seattle, WA",4,0,Full Stack,170.0,50.0,34.0,Male,11527
+43212,2020-09-29,AMAZON,L4,Software Engineer,223.0,"Seattle, WA",2,0,Distributed Systems (Back-End),179.0,10.0,34.0,NotDisclosed,11527
+43221,2020-09-29,AMAZON,L5,Software Engineer,192.0,"Seattle, WA",1,3,Full Stack,143.0,49.0,0.0,NotDisclosed,11527
+43230,2020-09-29,AMAZON,L4,Software Engineer,143.0,"Seattle, WA",4,1,Web Development (Front-End),80.0,63.0,0.0,Female,11527
+43326,2020-09-30,AMAZON,L4,Software Engineer,155.0,"Seattle, WA",0,0,Data,126.0,17.0,12.0,NotDisclosed,11527
+43420,2020-09-30,AMAZON,L4,Software Engineer,190.0,"Seattle, WA",5,0,Distributed Systems (Back-End),156.0,16.0,18.0,Male,11527
+43515,2020-10-01,AMAZON,L5,Software Engineer,174.0,"Seattle, WA",7,5,Full Stack,128.0,46.0,0.0,Female,11527
+43535,2020-10-01,AMAZON,L5,Software Engineer,242.0,"Seattle, WA",4,2,Distributed Systems (Back-End),167.0,73.0,2.0,Female,11527
+43590,2020-10-01,AMAZON,L5,Software Engineer,189.0,"Seattle, WA",1,2,Full Stack,138.0,51.0,0.0,NotDisclosed,11527
+43604,2020-10-01,AMAZON,L4,Software Engineer,138.0,"Seattle, WA",1,0,Security,70.0,41.0,27.0,Male,11527
+43724,2020-10-02,AMAZON,L5,Software Engineer,201.0,"Seattle, WA",2,4,API Development (Back-End),143.0,58.0,0.0,Male,11527
+43788,2020-10-03,AMAZON,L4,Software Engineer,134.0,"Seattle, WA",1,0,ML / AI,106.0,15.0,13.0,Male,11527
+43892,2020-10-04,AMAZON,L4,Software Engineer,155.0,"Seattle, WA",2,3,Distributed Systems (Back-End),124.0,31.0,0.0,NotDisclosed,11527
+43899,2020-10-04,AMAZON,L5,Software Engineer,247.0,"Seattle, WA",7,2,Production,149.0,98.0,0.0,Male,11527
+43908,2020-10-05,AMAZON,L5,Software Engineer,211.0,"Seattle, WA",3,3,Full Stack,142.0,69.0,0.0,Male,11527
+44026,2020-10-05,AMAZON,L4,Software Engineer,170.0,"Seattle, WA",0,0,Full Stack,145.0,4.0,21.0,Male,11527
+44028,2020-10-05,AMAZON,L4,Software Engineer,166.0,"Seattle, WA",7,1,Full Stack,151.0,5.0,10.0,NotDisclosed,11527
+44044,2020-10-06,AMAZON,L5,Software Engineer,264.0,"Seattle, WA",12,6,Distributed Systems (Back-End),207.0,57.0,0.0,NotDisclosed,11527
+44304,2020-10-07,AMAZON,L5,Software Engineer,241.0,"Seattle, WA",2,1,Web Development (Front-End),194.0,47.0,0.0,Male,11527
+44414,2020-10-08,AMAZON,L4,Software Engineer,175.0,"Seattle, WA",2,0,Full Stack,153.0,12.0,10.0,Male,11527
+44460,2020-10-08,AMAZON,L4,Software Engineer,123.0,"Seattle, WA",6,0,Networking,98.0,15.0,10.0,Female,11527
+44517,2020-10-09,AMAZON,L4,Software Engineer,234.0,"Seattle, WA",7,0,Web Development (Front-End),197.0,3.0,34.0,NotDisclosed,11527
+44530,2020-10-09,AMAZON,L4,Software Engineer,143.0,"Seattle, WA",1,1,Networking,100.0,17.0,26.0,NotDisclosed,11527
+44537,2020-10-09,AMAZON,SDE I,Software Engineer,212.0,"Seattle, WA",1,0,API Development (Back-End),157.0,33.0,22.0,Male,11527
+44561,2020-10-09,AMAZON,L4,Software Engineer,147.0,"Seattle, WA",5,3,DevOps,130.0,17.0,0.0,Male,11527
+44612,2020-10-09,AMAZON,L5,Software Engineer,199.0,"Seattle, WA",4,3,Distributed Systems (Back-End),116.0,83.0,0.0,Male,11527
+44793,2020-10-12,AMAZON,L5,Software Engineer,166.0,"Seattle, WA",9,10,Distributed Systems (Back-End),133.0,33.0,0.0,Male,11527
+44848,2020-10-12,AMAZON,L5,Software Engineer,160.0,"Seattle, WA",6,3,ML / AI,128.0,24.0,8.0,Male,11527
+44921,2020-10-12,AMAZON,L4,Software Engineer,212.0,"Seattle, WA",0,0,Full Stack,170.0,32.0,10.0,NotDisclosed,11527
+44925,2020-10-12,AMAZON,L4,Software Engineer,204.0,"Seattle, WA",1,0,API Development (Back-End),139.0,62.0,3.0,Male,11527
+45090,2020-10-14,AMAZON,L5,Software Engineer,198.0,"Seattle, WA",10,1,Distributed Systems (Back-End),153.0,45.0,0.0,Male,11527
+45184,2020-10-14,AMAZON,L4,Software Engineer,161.0,"Seattle, WA",0,0,Production,105.0,27.0,29.0,NotDisclosed,11527
+45190,2020-10-14,AMAZON,L5,Software Engineer,203.0,"Seattle, WA",4,4,Distributed Systems (Back-End),148.0,55.0,0.0,Male,11527
+45220,2020-10-14,AMAZON,L5,Software Engineer,118.0,"Seattle, WA",4,4,Full Stack,78.0,40.0,0.0,NotDisclosed,11527
+45335,2020-10-15,AMAZON,L4,Software Engineer,108.0,"Seattle, WA",0,0,Not Determined,75.0,33.0,0.0,NotDisclosed,11527
+45383,2020-10-16,AMAZON,L4,Software Engineer,198.0,"Seattle, WA",0,0,AWS,149.0,27.0,22.0,NotDisclosed,11527
+45432,2020-10-16,AMAZON,L4,Software Engineer,218.0,"Seattle, WA",1,1,Distributed Systems (Back-End),174.0,28.0,16.0,NotDisclosed,11527
+45643,2020-10-18,AMAZON,L5,Software Engineer,227.0,"Seattle, WA",5,3,Distributed Systems (Back-End),187.0,40.0,0.0,Male,11527
+45649,2020-10-18,AMAZON,L4,Software Engineer,201.0,"Seattle, WA",3,1,API Development (Back-End),147.0,41.0,13.0,NotDisclosed,11527
+45659,2020-10-18,AMAZON,L4,Software Engineer,210.0,"Seattle, WA",0,0,API Development (Back-End),175.0,19.0,16.0,Male,11527
+45690,2020-10-19,AMAZON,SDE I,Software Engineer,102.0,"Seattle, WA",0,0,Full Stack,71.0,6.0,25.0,Male,11527
+45822,2020-10-19,AMAZON,SDE II,Software Engineer,141.0,"Seattle, WA",14,8,Distributed Systems (Back-End),97.0,44.0,0.0,Male,11527
+45837,2020-10-19,AMAZON,L5,Software Engineer,185.0,"Seattle, WA",8,6,Distributed Systems (Back-End),154.0,29.0,2.0,Male,11527
+45890,2020-10-20,AMAZON,L4,Software Engineer,194.0,"Seattle, WA",0,0,Full Stack,151.0,11.0,32.0,Male,11527
+45896,2020-10-20,AMAZON,L4,Software Engineer,179.0,"Seattle, WA",1,1,Distributed Systems (Back-End),149.0,30.0,0.0,Male,11527
+45912,2020-10-20,AMAZON,L4,Software Engineer,212.0,"Seattle, WA",3,1,API Development (Back-End),166.0,17.0,29.0,Female,11527
+45917,2020-10-20,AMAZON,L5,Software Engineer,198.0,"Seattle, WA",5,1,Distributed Systems (Back-End),143.0,55.0,0.0,Female,11527
+45919,2020-10-20,AMAZON,SDE I,Software Engineer,153.0,"Seattle, WA",4,0,Full Stack,100.0,31.0,22.0,Male,11527
+45921,2020-10-20,AMAZON,5,Software Engineer,218.0,"Seattle, WA",7,6,API Development (Back-End),168.0,50.0,0.0,NotDisclosed,11527
+45935,2020-10-20,AMAZON,SDE I,Software Engineer,161.0,"Seattle, WA",0,0,New Grad,117.0,27.0,17.0,NotDisclosed,11527
+45942,2020-10-20,AMAZON,L4,Software Engineer,208.0,"Seattle, WA",2,0,API Development (Back-End),153.0,18.0,37.0,Male,11527
+46244,2020-10-23,AMAZON,L4,Software Engineer,168.0,"Seattle, WA",1,0,Distributed Systems (Back-End),117.0,29.0,22.0,Male,11527
+46278,2020-10-23,AMAZON,L4,Software Engineer,202.0,"Seattle, WA",2,0,Full Stack,181.0,9.0,12.0,Female,11527
+46310,2020-10-23,AMAZON,L5,Software Engineer,207.0,"Seattle, WA",8,4,Full Stack,103.0,104.0,0.0,Female,11527
+46469,2020-10-25,AMAZON,L4,Software Engineer,141.0,"Seattle, WA",0,0,Full Stack,120.0,10.0,11.0,Male,11527
+46487,2020-10-25,AMAZON,L6,Software Engineer,210.0,"Seattle, WA",7,6,Distributed Systems (Back-End),158.0,52.0,0.0,NotDisclosed,11527
+46500,2020-10-25,AMAZON,L5,Software Engineer,155.0,"Seattle, WA",5,1,API Development (Back-End),87.0,68.0,0.0,Male,11527
+46629,2020-10-26,AMAZON,L5,Software Engineer,217.0,"Seattle, WA",6,3,Distributed Systems (Back-End),177.0,40.0,0.0,Male,11527
+46673,2020-10-27,AMAZON,L4,Software Engineer,169.0,"Seattle, WA",1,0,Full Stack,145.0,5.0,19.0,Male,11527
+46685,2020-10-27,AMAZON,L5,Software Engineer,163.0,"Seattle, WA",7,3,ML / AI,101.0,37.0,25.0,Female,11527
+46762,2020-10-27,AMAZON,L5,Software Engineer,175.0,"Seattle, WA",5,5,Distributed Systems (Back-End),100.0,75.0,0.0,Male,11527
+46843,2020-10-28,AMAZON,L5,Software Engineer,279.0,"Seattle, WA",4,1,Distributed Systems (Back-End),207.0,72.0,0.0,NotDisclosed,11527
+46891,2020-10-28,AMAZON,SDE II,Software Engineer,231.0,"Seattle, WA",4,4,Production,178.0,53.0,0.0,Male,11527
+46901,2020-10-28,AMAZON,L4,Software Engineer,193.0,"Seattle, WA",2,1,Full Stack,142.0,41.0,10.0,Male,11527
+46916,2020-10-28,AMAZON,SDE I,Software Engineer,95.0,"Seattle, WA",0,0,Full Stack,76.0,19.0,0.0,Male,11527
+47105,2020-10-30,AMAZON,L5,Software Engineer,234.0,"Seattle, WA",5,2,API Development (Back-End),191.0,39.0,4.0,Female,11527
+47167,2020-10-30,AMAZON,L5,Software Engineer,137.0,"Seattle, WA",2,4,ML / AI,89.0,48.0,0.0,NotDisclosed,11527
+47179,2020-10-30,AMAZON,L6,Software Engineer,287.0,"Seattle, WA",24,3,Distributed Systems (Back-End),204.0,83.0,0.0,Male,11527
+47215,2020-10-31,AMAZON,L4,Software Engineer,191.0,"Seattle, WA",0,0,API Development (Back-End),132.0,32.0,27.0,Male,11527
+47230,2020-10-31,AMAZON,L4,Software Engineer,114.0,"Seattle, WA",1,1,API Development (Back-End),78.0,27.0,9.0,Male,11527
+47262,2020-10-31,AMAZON,L4,Software Engineer,129.0,"Seattle, WA",0,0,Distributed Systems (Back-End),80.0,29.0,20.0,Female,11527
+47497,2020-11-03,AMAZON,L5,Software Engineer,203.0,"Seattle, WA",11,1,Distributed Systems (Back-End),130.0,73.0,0.0,Male,11527
+47663,2020-11-04,AMAZON,SDE I,Software Engineer,118.0,"Seattle, WA",0,0,API Development (Back-End),92.0,26.0,0.0,Female,11527
+47789,2020-11-06,AMAZON,L4,Software Engineer,114.0,"Seattle, WA",2,2,API Development (Back-End),83.0,20.0,11.0,NotDisclosed,11527
+47831,2020-11-06,AMAZON,SDE I,Software Engineer,218.0,"Seattle, WA",1,0,Distributed Systems (Back-End),162.0,37.0,19.0,NotDisclosed,11527
+47969,2020-11-08,AMAZON,SDE I,Software Engineer,201.0,"Seattle, WA",0,0,API Development (Back-End),158.0,29.0,14.0,Male,11527
+48034,2020-11-09,AMAZON,L4,Software Engineer,126.0,"Seattle, WA",0,0,API Development (Back-End),78.0,31.0,17.0,NotDisclosed,11527
+48157,2020-11-10,AMAZON,L4,Software Engineer,165.0,"Seattle, WA",0,0,API Development (Back-End),136.0,16.0,13.0,NotDisclosed,11527
+48273,2020-11-12,AMAZON,l5,Software Engineer,209.0,"Seattle, WA",4,1,ML / AI,163.0,37.0,9.0,NotDisclosed,11527
+48300,2020-11-12,AMAZON,L4,Software Engineer,216.0,"Seattle, WA",4,1,Distributed Systems (Back-End),184.0,6.0,26.0,Male,11527
+48318,2020-11-12,AMAZON,L4,Software Engineer,188.0,"Seattle, WA",4,0,Distributed Systems (Back-End),160.0,10.0,18.0,Male,11527
+48340,2020-11-12,AMAZON,L4,Software Engineer,160.0,"Seattle, WA",2,1,Distributed Systems (Back-End),112.0,24.0,24.0,Male,11527
+48365,2020-11-12,AMAZON,L5,Software Engineer,230.0,"Seattle, WA",2,3,Full Stack,157.0,73.0,0.0,NotDisclosed,11527
+48383,2020-11-12,AMAZON,SDE II,Software Engineer,137.0,"Seattle, WA",19,0,Networking,110.0,27.0,0.0,NotDisclosed,11527
+48423,2020-11-13,AMAZON,L5,Software Engineer,170.0,"Seattle, WA",2,3,Full Stack,121.0,49.0,0.0,NotDisclosed,11527
+48449,2020-11-13,AMAZON,L5,Software Engineer,164.0,"Seattle, WA",3,8,Distributed Systems (Back-End),89.0,68.0,7.0,Male,11527
+48545,2020-11-15,AMAZON,L5,Software Engineer,206.0,"Seattle, WA",9,2,Distributed Systems (Back-End),140.0,53.0,13.0,Male,11527
+48677,2020-11-16,AMAZON,L4,Software Engineer,189.0,"Seattle, WA",1,1,Distributed Systems (Back-End),155.0,14.0,20.0,Male,11527
+48760,2020-11-17,AMAZON,L5,Software Engineer,191.0,"Seattle, WA",2,3,Full Stack,150.0,35.0,6.0,Male,11527
+48818,2020-11-17,AMAZON,5,Software Engineer,251.0,"Seattle, WA",6,8,ML / AI,194.0,57.0,0.0,NotDisclosed,11527
+48850,2020-11-18,AMAZON,L5,Software Engineer,277.0,"Seattle, WA",2,4,API Development (Back-End),185.0,92.0,0.0,NotDisclosed,11527
+48867,2020-11-18,AMAZON,L4,Software Engineer,221.0,"Seattle, WA",7,0,Data,198.0,9.0,14.0,Male,11527
+48982,2020-11-19,AMAZON,L5,Software Engineer,200.0,"Seattle, WA",3,1,Full Stack,135.0,63.0,2.0,NotDisclosed,11527
+49104,2020-11-20,AMAZON,L4,Software Engineer,104.0,"Seattle, WA",4,4,Distributed Systems (Back-End),80.0,12.0,12.0,Male,11527
+49162,2020-11-20,AMAZON,L5,Software Engineer,204.0,"Seattle, WA",3,4,Distributed Systems (Back-End),143.0,61.0,0.0,Male,11527
+49169,2020-11-21,AMAZON,L5,Software Engineer,246.0,"Seattle, WA",3,2,Web Development (Front-End),171.0,75.0,0.0,Male,11527
+49193,2020-11-21,AMAZON,L5,Software Engineer,180.0,"Seattle, WA",4,4,Distributed Systems (Back-End),120.0,60.0,0.0,Male,11527
+49215,2020-11-21,AMAZON,L5,Software Engineer,191.0,"Seattle, WA",3,1,API Development (Back-End),159.0,16.0,16.0,NotDisclosed,11527
+49241,2020-11-22,AMAZON,L4,Software Engineer,197.0,"Seattle, WA",5,1,Mobile (iOS + Android),177.0,20.0,0.0,Male,11527
+49310,2020-11-22,AMAZON,L5,Software Engineer,224.0,"Seattle, WA",7,6,Site Reliability (SRE),173.0,42.0,9.0,NotDisclosed,11527
+49337,2020-11-23,AMAZON,L4,Software Engineer,183.0,"Seattle, WA",1,1,Distributed Systems (Back-End),118.0,45.0,20.0,Male,11527
+49360,2020-11-23,AMAZON,l2,Software Engineer,211.0,"Seattle, WA",6,3,Full Stack,108.0,103.0,0.0,Male,11527
+49407,2020-11-23,AMAZON,L4,Software Engineer,215.0,"Seattle, WA",3,0,Android,165.0,33.0,17.0,Male,11527
+49413,2020-11-23,AMAZON,SDE II,Software Engineer,114.0,"Seattle, WA",1,1,Full Stack,72.0,32.0,10.0,NotDisclosed,11527
+49449,2020-11-24,AMAZON,L3,Software Engineer,193.0,"Seattle, WA",6,2,ML / AI,135.0,37.0,21.0,Female,11527
+49632,2020-11-26,AMAZON,L5,Software Engineer,250.0,"Seattle, WA",3,3,Web Development (Front-End),206.0,44.0,0.0,Male,11527
+49670,2020-11-26,AMAZON,L5,Software Engineer,211.0,"Seattle, WA",2,5,Full Stack,165.0,31.0,15.0,Female,11527
+49677,2020-11-26,AMAZON,SDE II,Software Engineer,261.0,"Seattle, WA",2,4,API Development (Back-End),208.0,53.0,0.0,Female,11527
+49688,2020-11-26,AMAZON,L4,Software Engineer,209.0,"Seattle, WA",0,0,ML / AI,119.0,55.0,35.0,Male,11527
+49780,2020-11-28,AMAZON,SDE II,Software Engineer,255.0,"Seattle, WA",4,1,Distributed Systems (Back-End),197.0,58.0,0.0,Male,11527
+49859,2020-11-29,AMAZON,L5,Software Engineer,233.0,"Seattle, WA",2,3,Distributed Systems (Back-End),194.0,39.0,0.0,NotDisclosed,11527
+49863,2020-11-29,AMAZON,L4,Software Engineer,153.0,"Seattle, WA",0,0,API Development (Back-End),122.0,25.0,6.0,NotDisclosed,11527
+49869,2020-11-30,AMAZON,SDE I,Software Engineer,180.0,"Seattle, WA",3,1,API Development (Back-End),158.0,22.0,0.0,NotDisclosed,11527
+49872,2020-11-30,AMAZON,SDE I,Software Engineer,161.0,"Seattle, WA",3,1,DevOps,124.0,37.0,0.0,Female,11527
+49893,2020-11-30,AMAZON,L5,Software Engineer,265.0,"Seattle, WA",5,1,Full Stack,156.0,109.0,0.0,Male,11527
+49994,2020-12-01,AMAZON,L4,Software Engineer,231.0,"Seattle, WA",4,3,Distributed Systems (Back-End),143.0,88.0,0.0,Male,11527
+50038,2020-12-01,AMAZON,L4,Software Engineer,163.0,"Seattle, WA",3,0,DevOps,128.0,23.0,12.0,Male,11527
+50044,2020-12-01,AMAZON,L4,Software Engineer,122.0,"Seattle, WA",3,0,ML / AI,83.0,24.0,15.0,Male,11527
+50065,2020-12-02,AMAZON,L5,Software Engineer,276.0,"Seattle, WA",5,6,API Development (Back-End),180.0,96.0,0.0,Male,11527
+50222,2020-12-03,AMAZON,SDE II,Software Engineer,205.0,"Seattle, WA",6,7,Distributed Systems (Back-End),108.0,97.0,0.0,Male,11527
+50268,2020-12-03,AMAZON,L4,Software Engineer,145.0,"Seattle, WA",3,0,API Development (Back-End),116.0,5.0,24.0,NotDisclosed,11527
+50331,2020-12-04,AMAZON,SDE I,Software Engineer,205.0,"Seattle, WA",0,0,API Development (Back-End),167.0,14.0,24.0,Male,11527
+50410,2020-12-05,AMAZON,L5,Software Engineer,150.0,"Seattle, WA",7,0,Full Stack,76.0,41.0,33.0,Male,11527
+50450,2020-12-06,AMAZON,SDE II,Software Engineer,166.0,"Seattle, WA",1,1,Data,128.0,17.0,21.0,NotDisclosed,11527
+50572,2020-12-07,AMAZON,L5,Software Engineer,126.0,"Seattle, WA",2,5,API Development (Back-End),84.0,42.0,0.0,NotDisclosed,11527
+50577,2020-12-08,AMAZON,L5,Software Engineer,265.0,"Seattle, WA",4,4,Distributed Systems (Back-End),191.0,74.0,0.0,Male,11527
+50647,2020-12-08,AMAZON,L5,Software Engineer,191.0,"Seattle, WA",13,9,Testing (SDET),169.0,22.0,0.0,Female,11527
+50766,2020-12-09,AMAZON,L4,Software Engineer,176.0,"Seattle, WA",0,0,API Development (Back-End),127.0,37.0,12.0,Male,11527
+50777,2020-12-09,AMAZON,L5,Software Engineer,254.0,"Seattle, WA",5,2,Distributed Systems (Back-End),157.0,97.0,0.0,Male,11527
+50860,2020-12-10,AMAZON,L3,Software Engineer,142.0,"Seattle, WA",2,0,iOS,74.0,36.0,32.0,NotDisclosed,11527
+50942,2020-12-10,AMAZON,L4,Software Engineer,127.0,"Seattle, WA",0,0,API Development (Back-End),75.0,27.0,25.0,NotDisclosed,11527
+51005,2020-12-11,AMAZON,SDE Newgrad,Software Engineer,159.0,"Seattle, WA",0,0,Networking,114.0,16.0,29.0,Female,11527
+51012,2020-12-11,AMAZON,L5,Software Engineer,164.0,"Seattle, WA",7,3,Distributed Systems (Back-End),131.0,33.0,0.0,NotDisclosed,11527
+51067,2020-12-12,AMAZON,L4,Software Engineer,216.0,"Seattle, WA",2,0,API Development (Back-End),189.0,13.0,14.0,NotDisclosed,11527
+51070,2020-12-12,AMAZON,L6,Software Engineer,244.0,"Seattle, WA",7,10,Data,142.0,102.0,0.0,Male,11527
+51240,2020-12-14,AMAZON,L4,Software Engineer,213.0,"Seattle, WA",9,0,Mobile (iOS + Android),163.0,38.0,12.0,Male,11527
+51245,2020-12-14,AMAZON,L5,Software Engineer,309.0,"Seattle, WA",10,3,Full Stack,182.0,103.0,24.0,Male,11527
+51365,2020-12-15,AMAZON,L4,Software Engineer,149.0,"Seattle, WA",2,0,API Development (Back-End),112.0,25.0,12.0,Male,11527
+51392,2020-12-15,AMAZON,L6,Software Engineer,247.0,"Seattle, WA",11,10,ML / AI,140.0,107.0,0.0,NotDisclosed,11527
+51467,2020-12-16,AMAZON,L4,Software Engineer,122.0,"Seattle, WA",4,0,Distributed Systems (Back-End),89.0,21.0,12.0,Male,11527
+51727,2020-12-18,AMAZON,L5,Software Engineer,182.0,"Seattle, WA",1,2,API Development (Back-End),154.0,21.0,7.0,NotDisclosed,11527
+51735,2020-12-18,AMAZON,L5,Software Engineer,154.0,"Seattle, WA",7,0,Data,102.0,39.0,13.0,Male,11527
+51767,2020-12-18,AMAZON,L4,Software Engineer,157.0,"Seattle, WA",0,0,Full Stack,112.0,27.0,18.0,Male,11527
+51855,2020-12-19,AMAZON,L5,Software Engineer,188.0,"Seattle, WA",2,0,Distributed Systems (Back-End),82.0,70.0,36.0,Male,11527
+51948,2020-12-21,AMAZON,L5,Software Engineer,274.0,"Seattle, WA",9,0,Data,195.0,37.0,42.0,Male,11527
+51952,2020-12-21,AMAZON,L5,Software Engineer,221.0,"Seattle, WA",4,3,Distributed Systems (Back-End),159.0,62.0,0.0,Male,11527
+51953,2020-12-21,AMAZON,L5,Software Engineer,116.0,"Seattle, WA",1,1,API Development (Back-End),106.0,10.0,0.0,NotDisclosed,11527
+52105,2020-12-22,AMAZON,SDE I,Software Engineer,194.0,"Seattle, WA",0,0,API Development (Back-End),167.0,11.0,16.0,Male,11527
+52144,2020-12-22,AMAZON,L4,Software Engineer,181.0,"Seattle, WA",2,1,API Development (Back-End),135.0,36.0,10.0,Male,11527
+52185,2020-12-22,AMAZON,L4,Software Engineer,164.0,"Seattle, WA",3,0,Distributed Systems (Back-End),124.0,16.0,24.0,Male,11527
+52216,2020-12-23,AMAZON,L5,Software Engineer,228.0,"Seattle, WA",11,0,Full Stack,179.0,24.0,25.0,Male,11527
+52321,2020-12-24,AMAZON,L5,Software Engineer,186.0,"Seattle, WA",3,2,Systems,144.0,30.0,12.0,NotDisclosed,11527
+52345,2020-12-24,AMAZON,L4,Software Engineer,192.0,"Seattle, WA",2,1,Web Development (Front-End),125.0,48.0,19.0,Female,11527
+52354,2020-12-25,AMAZON,L5,Software Engineer,196.0,"Seattle, WA",2,3,Distributed Systems (Back-End),158.0,24.0,14.0,Male,11527
+52374,2020-12-25,AMAZON,L5,Software Engineer,173.0,"Seattle, WA",15,1,API Development (Back-End),83.0,57.0,33.0,Male,11527
+52487,2020-12-27,AMAZON,L4,Software Engineer,101.0,"Seattle, WA",0,0,Full Stack,78.0,11.0,12.0,Male,11527
+52536,2020-12-28,AMAZON,L6,Software Engineer,253.0,"Seattle, WA",24,6,DevOps,158.0,78.0,17.0,Male,11527
+52630,2020-12-29,AMAZON,L6,Software Engineer,172.0,"Seattle, WA",9,2,Full Stack,142.0,14.0,16.0,Male,11527
+52686,2020-12-30,AMAZON,L4,Software Engineer,140.0,"Seattle, WA",3,1,Distributed Systems (Back-End),93.0,26.0,21.0,Male,11527
+52722,2020-12-30,AMAZON,L4,Software Engineer,148.0,"Seattle, WA",3,0,Full Stack,112.0,24.0,12.0,Male,11527
+52763,2020-12-31,AMAZON,L5,Software Engineer,200.0,"Seattle, WA",14,0,Data,109.0,91.0,0.0,NotDisclosed,11527
+52792,2020-12-31,AMAZON,L5,Software Engineer,295.0,"Seattle, WA",5,7,Production,183.0,112.0,0.0,Female,11527
+52849,2021-01-01,AMAZON,L4,Software Engineer,206.0,"Seattle, WA",1,1,Distributed Systems (Back-End),173.0,28.0,5.0,NotDisclosed,11527
+52896,2021-01-02,AMAZON,L4,Software Engineer,166.0,"Seattle, WA",3,0,Full Stack,112.0,20.0,34.0,Male,11527
+53178,2021-01-05,AMAZON,L5,Software Engineer,187.0,"Seattle, WA",5,0,Web Development (Front-End),89.0,62.0,36.0,Male,11527
+53344,2021-01-06,AMAZON,L5,Software Engineer,117.0,"Seattle, WA",4,3,API Development (Back-End),76.0,41.0,0.0,Male,11527
+53484,2021-01-08,AMAZON,L5,Software Engineer,273.0,"Seattle, WA",5,5,Distributed Systems (Back-End),207.0,66.0,0.0,Male,11527
+53493,2021-01-08,AMAZON,SDE II,Software Engineer,219.0,"Seattle, WA",3,0,API Development (Back-End),180.0,39.0,0.0,Male,11527
+53535,2021-01-08,AMAZON,L5,Software Engineer,232.0,"Seattle, WA",4,4,Web Development (Front-End),115.0,105.0,12.0,Male,11527
+53682,2021-01-10,AMAZON,L4,Software Engineer,208.0,"Seattle, WA",0,0,AWS,129.0,43.0,36.0,Male,11527
+53687,2021-01-10,AMAZON,L4,Software Engineer,99.0,"Seattle, WA",1,1,iOS,70.0,16.0,13.0,Male,11527
+53736,2021-01-11,AMAZON,L5,Software Engineer,198.0,"Seattle, WA",5,4,API Development (Back-End),144.0,54.0,0.0,NotDisclosed,11527
+53743,2021-01-11,AMAZON,L4,Software Engineer,219.0,"Seattle, WA",4,4,Android,172.0,47.0,0.0,Male,11527
+53792,2021-01-11,AMAZON,L4,Software Engineer,138.0,"Seattle, WA",1,1,Full Stack,113.0,13.0,12.0,Male,11527
+53808,2021-01-11,AMAZON,L4,Software Engineer,207.0,"Seattle, WA",1,1,Web Development (Front-End),181.0,17.0,9.0,Female,11527
+53908,2021-01-12,AMAZON,SDEI,Software Engineer,121.0,"Seattle, WA",0,0,Full Stack,95.0,13.0,13.0,Female,11527
+53932,2021-01-12,AMAZON,SDE I,Software Engineer,119.0,"Seattle, WA",1,0,New Grad,84.0,17.0,18.0,Female,11527
+53943,2021-01-12,AMAZON,L4,Software Engineer,120.0,"Seattle, WA",6,1,Full Stack,82.0,16.0,22.0,Male,11527
+54023,2021-01-13,AMAZON,L5,Software Engineer,161.0,"Seattle, WA",4,10,Full Stack,128.0,33.0,0.0,Male,11527
+54162,2021-01-14,AMAZON,L5,Software Engineer,284.0,"Seattle, WA",2,0,API Development (Back-End),193.0,53.0,38.0,Female,11527
+54187,2021-01-14,AMAZON,L5,Software Engineer,173.0,"Seattle, WA",6,3,Full Stack,139.0,34.0,0.0,Male,11527
+54229,2021-01-15,AMAZON,L4,Software Engineer,186.0,"Seattle, WA",1,1,Networking,147.0,27.0,12.0,Male,11527
+54263,2021-01-15,AMAZON,L5,Software Engineer,195.0,"Seattle, WA",2,2,ML / AI,137.0,58.0,0.0,Male,11527
+54331,2021-01-16,AMAZON,L5,Software Engineer,166.0,"Seattle, WA",2,0,Full Stack,79.0,44.0,43.0,Male,11527
+54356,2021-01-16,AMAZON,L5,Software Engineer,156.0,"Seattle, WA",4,4,API Development (Back-End),101.0,55.0,0.0,NotDisclosed,11527
+54371,2021-01-16,AMAZON,L4,Software Engineer,222.0,"Seattle, WA",0,0,Distributed Systems (Back-End),193.0,20.0,9.0,Male,11527
+54418,2021-01-17,AMAZON,L5,Software Engineer,216.0,"Seattle, WA",1,1,iOS,174.0,14.0,28.0,Male,11527
+54458,2021-01-17,AMAZON,L5,Software Engineer,186.0,"Seattle, WA",2,3,Full Stack,134.0,36.0,16.0,Male,11527
+54539,2021-01-18,AMAZON,SDE II,Software Engineer,264.0,"Seattle, WA",5,2,Distributed Systems (Back-End),202.0,62.0,0.0,Male,11527
+54584,2021-01-19,AMAZON,SDE I,Software Engineer,172.0,"Seattle, WA",0,0,Full Stack,145.0,13.0,14.0,Male,11527
+54757,2021-01-20,AMAZON,L5,Software Engineer,242.0,"Seattle, WA",3,3,API Development (Back-End),166.0,76.0,0.0,Male,11527
+54881,2021-01-21,AMAZON,L5,Software Engineer,112.0,"Seattle, WA",7,7,Android,80.0,29.0,3.0,Male,11527
+54910,2021-01-21,AMAZON,L5,Software Engineer,143.0,"Seattle, WA",2,3,Android,98.0,25.0,20.0,Female,11527
+54937,2021-01-21,AMAZON,L4,Software Engineer,155.0,"Seattle, WA",1,1,Full Stack,122.0,17.0,16.0,NotDisclosed,11527
+54992,2021-01-22,AMAZON,L5,Software Engineer,223.0,"Seattle, WA",2,4,Full Stack,152.0,71.0,0.0,NotDisclosed,11527
+55093,2021-01-22,AMAZON,SDE II,Software Engineer,218.0,"Seattle, WA",2,0,Full Stack,152.0,46.0,20.0,Male,11527
+55138,2021-01-23,AMAZON,L4,Software Engineer,132.0,"Seattle, WA",2,0,API Development (Back-End),100.0,16.0,16.0,Male,11527
+55189,2021-01-23,AMAZON,SDE I,Software Engineer,172.0,"Seattle, WA",7,0,Full Stack,136.0,19.0,17.0,Male,11527
+55239,2021-01-24,AMAZON,L4,Software Engineer,236.0,"Seattle, WA",9,2,Distributed Systems (Back-End),189.0,27.0,20.0,NotDisclosed,11527
+55242,2021-01-24,AMAZON,L4,Software Engineer,146.0,"Seattle, WA",1,1,Full Stack,137.0,9.0,0.0,Male,11527
+55348,2021-01-25,AMAZON,L4,Software Engineer,178.0,"Seattle, WA",1,0,Full Stack,147.0,12.0,19.0,Male,11527
+55367,2021-01-25,AMAZON,L4,Software Engineer,131.0,"Seattle, WA",1,1,API Development (Back-End),114.0,17.0,0.0,NotDisclosed,11527
+55592,2021-01-27,AMAZON,L6,Software Engineer,202.0,"Seattle, WA",19,2,Web Development (Front-End),114.0,88.0,0.0,NotDisclosed,11527
+55629,2021-01-27,AMAZON,L4,Software Engineer,189.0,"Seattle, WA",4,3,Security,160.0,29.0,0.0,Male,11527
+55650,2021-01-27,AMAZON,L4,Software Engineer,150.0,"Seattle, WA",0,0,Full Stack,113.0,20.0,17.0,Male,11527
+55724,2021-01-28,AMAZON,L4,Software Engineer,154.0,"Seattle, WA",4,3,Distributed Systems (Back-End),125.0,4.0,25.0,Male,11527
+55729,2021-01-28,AMAZON,L5,Software Engineer,206.0,"Seattle, WA",1,3,Distributed Systems (Back-End),151.0,55.0,0.0,Male,11527
+55807,2021-01-28,AMAZON,L4,Software Engineer,137.0,"Seattle, WA",1,1,Full Stack,101.0,14.0,22.0,Male,11527
+55821,2021-01-28,AMAZON,L5,Software Engineer,242.0,"Seattle, WA",4,2,Distributed Systems (Back-End),199.0,42.0,1.0,Male,11527
+55864,2021-01-29,AMAZON,L5,Software Engineer,269.0,"Seattle, WA",7,2,API Development (Back-End),160.0,109.0,0.0,NotDisclosed,11527
+55893,2021-01-29,AMAZON,L4,Software Engineer,265.0,"Seattle, WA",4,2,Distributed Systems (Back-End),203.0,62.0,0.0,Female,11527
+55916,2021-01-29,AMAZON,L5,Software Engineer,204.0,"Seattle, WA",11,3,iOS,173.0,31.0,0.0,Male,11527
+56053,2021-01-31,AMAZON,SDE II,Software Engineer,224.0,"Seattle, WA",6,1,iOS,189.0,6.0,29.0,Male,11527
+56101,2021-01-31,AMAZON,L5,Software Engineer,176.0,"Seattle, WA",2,2,API Development (Back-End),128.0,40.0,8.0,Female,11527
+56396,2021-02-03,AMAZON,SDE I,Software Engineer,213.0,"Seattle, WA",3,0,Distributed Systems (Back-End),158.0,29.0,26.0,Other,11527
+56505,2021-02-03,AMAZON,L5,Software Engineer,134.0,"Seattle, WA",4,3,Full Stack,104.0,30.0,0.0,NotDisclosed,11527
+56551,2021-02-04,AMAZON,L4,Software Engineer,150.0,"Seattle, WA",3,1,API Development (Back-End),98.0,44.0,8.0,NotDisclosed,11527
+56682,2021-02-05,AMAZON,L5,Software Engineer,242.0,"Seattle, WA",12,2,Full Stack,128.0,80.0,34.0,Male,11527
+56845,2021-02-07,AMAZON,SDE I,Software Engineer,141.0,"Seattle, WA",0,0,Full Stack,112.0,12.0,17.0,Female,11527
+56897,2021-02-07,AMAZON,SDE I,Software Engineer,189.0,"Seattle, WA",0,0,Full Stack,152.0,20.0,17.0,Male,11527
+56943,2021-02-08,AMAZON,L5,Software Engineer,170.0,"Seattle, WA",8,0,Distributed Systems (Back-End),115.0,29.0,26.0,NotDisclosed,11527
+56949,2021-02-08,AMAZON,L5,Software Engineer,226.0,"Seattle, WA",3,0,Distributed Systems (Back-End),158.0,32.0,36.0,NotDisclosed,11527
+56961,2021-02-08,AMAZON,L5,Software Engineer,257.0,"Seattle, WA",3,2,Distributed Systems (Back-End),180.0,77.0,0.0,NotDisclosed,11527
+57058,2021-02-09,AMAZON,L4,Software Engineer,114.0,"Seattle, WA",3,2,Production,81.0,23.0,10.0,NotDisclosed,11527
+57135,2021-02-10,AMAZON,L4,Software Engineer,148.0,"Seattle, WA",7,2,Web Development (Front-End),115.0,22.0,11.0,NotDisclosed,11527
+57221,2021-02-10,AMAZON,L5,Software Engineer,178.0,"Seattle, WA",5,3,Full Stack,127.0,28.0,23.0,Female,11527
+57252,2021-02-10,AMAZON,L5,Software Engineer,212.0,"Seattle, WA",2,1,API Development (Back-End),176.0,21.0,15.0,Female,11527
+57397,2021-02-12,AMAZON,L4,Software Engineer,219.0,"Seattle, WA",3,0,ML / AI,194.0,25.0,0.0,Male,11527
+57475,2021-02-12,AMAZON,SDE I,Software Engineer,163.0,"Seattle, WA",0,0,Full Stack,126.0,29.0,8.0,Male,11527
+57480,2021-02-12,AMAZON,L5,Software Engineer,171.0,"Seattle, WA",6,2,Web Development (Front-End),135.0,27.0,9.0,Female,11527
+57549,2021-02-13,AMAZON,L4,Software Engineer,135.0,"Seattle, WA",4,2,Distributed Systems (Back-End),79.0,27.0,29.0,Male,11527
+57604,2021-02-14,AMAZON,L4,Software Engineer,111.0,"Seattle, WA",0,0,iOS,85.0,12.0,14.0,NotDisclosed,11527
+57732,2021-02-15,AMAZON,L4,Software Engineer,98.0,"Seattle, WA",1,1,API Development (Back-End),72.0,19.0,7.0,Female,11527
+57770,2021-02-15,AMAZON,L4,Software Engineer,154.0,"Seattle, WA",0,0,API Development (Back-End),134.0,13.0,7.0,NotDisclosed,11527
+57830,2021-02-16,AMAZON,L5,Software Engineer,250.0,"Seattle, WA",3,4,API Development (Back-End),196.0,54.0,0.0,Male,11527
+57894,2021-02-16,AMAZON,SDE II,Software Engineer,295.0,"Seattle, WA",1,0,Full Stack,209.0,57.0,29.0,NotDisclosed,11527
+58210,2021-02-18,AMAZON,L5,Software Engineer,253.0,"Seattle, WA",7,1,Web Development (Front-End),189.0,52.0,12.0,Male,11527
+58252,2021-02-19,AMAZON,Senior SDE,Software Engineer,270.0,"Seattle, WA",7,8,Distributed Systems (Back-End),169.0,101.0,0.0,Male,11527
+58358,2021-02-19,AMAZON,SDE I,Software Engineer,131.0,"Seattle, WA",0,0,,96.0,25.0,10.0,Male,11527
+58580,2021-02-21,AMAZON,L5,Software Engineer,138.0,"Seattle, WA",10,0,Web Development (Front-End),93.0,19.0,26.0,Male,11527
+58657,2021-02-22,AMAZON,L5,Software Engineer,232.0,"Seattle, WA",7,6,API Development (Back-End),160.0,72.0,0.0,Male,11527
+58688,2021-02-22,AMAZON,L4,Software Engineer,141.0,"Seattle, WA",5,0,Web Development (Front-End),95.0,31.0,15.0,Male,11527
+58852,2021-02-23,AMAZON,L3,Software Engineer,170.0,"Seattle, WA",0,0,Distributed Systems (Back-End),91.0,64.0,15.0,NotDisclosed,11527
+58862,2021-02-23,AMAZON,L4,Software Engineer,140.0,"Seattle, WA",2,1,Full Stack,101.0,39.0,0.0,Male,11527
+58929,2021-02-24,AMAZON,L4,Software Engineer,128.0,"Seattle, WA",2,1,Full Stack,110.0,18.0,0.0,Male,11527
+58974,2021-02-24,AMAZON,L5,Software Engineer,281.0,"Seattle, WA",3,4,Distributed Systems (Back-End),209.0,72.0,0.0,NotDisclosed,11527
+59019,2021-02-24,AMAZON,L5,Software Engineer,272.0,"Seattle, WA",7,9,Full Stack,165.0,107.0,0.0,Male,11527
+59133,2021-02-25,AMAZON,L4,Software Engineer,193.0,"Seattle, WA",3,0,Distributed Systems (Back-End),153.0,20.0,20.0,Male,11527
+59156,2021-02-25,AMAZON,L4,Software Engineer,78.0,"Seattle, WA",3,0,Testing (SDET),70.0,8.0,0.0,NotDisclosed,11527
+59240,2021-02-26,AMAZON,L5,Software Engineer,201.0,"Seattle, WA",16,3,API Development (Back-End),112.0,89.0,0.0,Male,11527
+59242,2021-02-26,AMAZON,L4,Software Engineer,179.0,"Seattle, WA",0,0,API Development (Back-End),142.0,21.0,16.0,NotDisclosed,11527
+59251,2021-02-26,AMAZON,L4,Software Engineer,118.0,"Seattle, WA",3,1,API Development (Back-End),79.0,39.0,0.0,NotDisclosed,11527
+59261,2021-02-26,AMAZON,L4,Software Engineer,182.0,"Seattle, WA",3,1,Full Stack,114.0,42.0,26.0,Male,11527
+59282,2021-02-26,AMAZON,L5,Software Engineer,283.0,"Seattle, WA",8,0,Distributed Systems (Back-End),189.0,57.0,37.0,Male,11527
+59283,2021-02-26,AMAZON,L4,Software Engineer,204.0,"Seattle, WA",0,0,Full Stack,154.0,28.0,22.0,Male,11527
+59311,2021-02-26,AMAZON,L4,Software Engineer,190.0,"Seattle, WA",1,0,Mobile (iOS + Android),154.0,24.0,12.0,Male,11527
+59407,2021-02-27,AMAZON,L4,Software Engineer,122.0,"Seattle, WA",1,1,Distributed Systems (Back-End),100.0,22.0,0.0,NotDisclosed,11527
+59488,2021-02-28,AMAZON,SDE I,Software Engineer,131.0,"Seattle, WA",0,0,Production,116.0,15.0,0.0,Male,11527
+59530,2021-02-28,AMAZON,L4,Software Engineer,154.0,"Seattle, WA",1,0,,110.0,4.0,40.0,Female,11527
+59626,2021-03-01,AMAZON,L5,Software Engineer,156.0,"Seattle, WA",8,1,Full Stack,90.0,42.0,24.0,Male,11527
+59705,2021-03-01,AMAZON,L5,Software Engineer,214.0,"Seattle, WA",10,0,Data,147.0,35.0,32.0,NotDisclosed,11527
+59730,2021-03-02,AMAZON,L5,Software Engineer,205.0,"Seattle, WA",8,5,API Development (Back-End),141.0,64.0,0.0,Male,11527
+59765,2021-03-02,AMAZON,L5,Software Engineer,184.0,"Seattle, WA",5,5,API Development (Back-End),139.0,45.0,0.0,Male,11527
+59939,2021-03-03,AMAZON,L4,Software Engineer,202.0,"Seattle, WA",0,0,API Development (Back-End),166.0,14.0,22.0,NotDisclosed,11527
+60013,2021-03-03,AMAZON,L4,Software Engineer,151.0,"Seattle, WA",0,0,New Grad SWE 2020,90.0,23.0,38.0,Male,11527
+60068,2021-03-04,AMAZON,L5,Software Engineer,162.0,"Seattle, WA",6,4,Full Stack,148.0,14.0,0.0,Male,11527
+60110,2021-03-04,AMAZON,L4,Software Engineer,175.0,"Seattle, WA",1,1,Full Stack,129.0,7.0,39.0,Female,11527
+60166,2021-03-04,AMAZON,L4,Software Engineer,169.0,"Seattle, WA",2,2,Full Stack,152.0,17.0,0.0,Male,11527
+60170,2021-03-04,AMAZON,L5,Software Engineer,235.0,"Seattle, WA",4,2,Full Stack,146.0,68.0,21.0,NotDisclosed,11527
+60187,2021-03-05,AMAZON,L5,Software Engineer,182.0,"Seattle, WA",3,3,Distributed Systems (Back-End),136.0,46.0,0.0,Male,11527
+60235,2021-03-05,AMAZON,L4,Software Engineer,223.0,"Seattle, WA",4,1,Distributed Systems (Back-End),178.0,34.0,11.0,Male,11527
+60258,2021-03-05,AMAZON,L4,Software Engineer,130.0,"Seattle, WA",1,1,Distributed Systems (Back-End),83.0,25.0,22.0,Male,11527
+60260,2021-03-05,AMAZON,L4,Software Engineer,118.0,"Seattle, WA",2,0,API Development (Back-End),87.0,14.0,17.0,NotDisclosed,11527
+60301,2021-03-05,AMAZON,SDE I,Software Engineer,114.0,"Seattle, WA",1,1,API Development (Back-End),84.0,17.0,13.0,NotDisclosed,11527
+60303,2021-03-06,AMAZON,L4,Software Engineer,200.0,"Seattle, WA",1,1,Full Stack,133.0,49.0,18.0,Male,11527
+60329,2021-03-06,AMAZON,L4,Software Engineer,203.0,"Seattle, WA",3,0,API Development (Back-End),180.0,23.0,0.0,NotDisclosed,11527
+60461,2021-03-07,AMAZON,L4,Software Engineer,188.0,"Seattle, WA",1,0,Distributed Systems (Back-End),150.0,29.0,9.0,Male,11527
+60573,2021-03-08,AMAZON,L5,Software Engineer,171.0,"Seattle, WA",11,5,Distributed Systems (Back-End),91.0,80.0,0.0,Male,11527
+60641,2021-03-08,AMAZON,L5,Software Engineer,185.0,"Seattle, WA",2,3,Distributed Systems (Back-End),140.0,31.0,14.0,Male,11527
+60646,2021-03-08,AMAZON,L4,Software Engineer,210.0,"Seattle, WA",2,4,Production,156.0,54.0,0.0,NotDisclosed,11527
+60761,2021-03-09,AMAZON,L4,Software Engineer,219.0,"Seattle, WA",1,1,Security,165.0,30.0,24.0,Male,11527
+60775,2021-03-09,AMAZON,SDE I,Software Engineer,167.0,"Seattle, WA",0,0,API Development (Back-End),129.0,24.0,14.0,Male,11527
+60814,2021-03-09,AMAZON,L4,Software Engineer,130.0,"Seattle, WA",1,1,Full Stack,91.0,28.0,11.0,Male,11527
+60838,2021-03-09,AMAZON,L5,Software Engineer,165.0,"Seattle, WA",4,3,Distributed Systems (Back-End),99.0,66.0,0.0,NotDisclosed,11527
+60906,2021-03-10,AMAZON,L4,Software Engineer,190.0,"Seattle, WA",2,0,Backend,167.0,11.0,12.0,NotDisclosed,11527
+60925,2021-03-10,AMAZON,L4,Software Engineer,177.0,"Seattle, WA",2,3,Distributed Systems (Back-End),149.0,27.0,1.0,Male,11527
+61009,2021-03-10,AMAZON,L5,Software Engineer,180.0,"Seattle, WA",3,0,Web Development (Front-End),138.0,42.0,0.0,Male,11527
+61010,2021-03-10,AMAZON,L4,Software Engineer,148.0,"Seattle, WA",2,1,DevOps,120.0,8.0,20.0,NotDisclosed,11527
+61074,2021-03-11,AMAZON,L4,Software Engineer,262.0,"Seattle, WA",3,0,Web Development (Front-End),171.0,72.0,19.0,Female,11527
+61081,2021-03-11,AMAZON,L5,Software Engineer,174.0,"Seattle, WA",4,7,Distributed Systems (Back-End),107.0,67.0,0.0,Male,11527
+61144,2021-03-11,AMAZON,L5,Software Engineer,260.0,"Seattle, WA",3,0,API Development (Back-End),166.0,51.0,43.0,Male,11527
+61147,2021-03-11,AMAZON,L4,Software Engineer,182.0,"Seattle, WA",0,0,DevOps,142.0,21.0,19.0,Male,11527
+61260,2021-03-12,AMAZON,L4,Software Engineer,154.0,"Seattle, WA",0,0,Distributed Systems (Back-End),118.0,25.0,11.0,NotDisclosed,11527
+61291,2021-03-12,AMAZON,SDE I,Software Engineer,171.0,"Seattle, WA",0,0,API Development (Back-End),133.0,25.0,13.0,Male,11527
+61342,2021-03-12,AMAZON,L4,Software Engineer,157.0,"Seattle, WA",0,0,University,113.0,26.0,18.0,Male,11527
+61385,2021-03-13,AMAZON,L4,Software Engineer,187.0,"Seattle, WA",4,1,Distributed Systems (Back-End),129.0,45.0,13.0,NotDisclosed,11527
+61414,2021-03-13,AMAZON,L4,Software Engineer,172.0,"Seattle, WA",6,0,Distributed Systems (Back-End),144.0,15.0,13.0,NotDisclosed,11527
+61522,2021-03-14,AMAZON,L5,Software Engineer,155.0,"Seattle, WA",4,1,DevOps,85.0,52.0,18.0,Male,11527
+61571,2021-03-15,AMAZON,L5,Software Engineer,187.0,"Seattle, WA",10,2,API Development (Back-End),96.0,60.0,31.0,Male,11527
+61684,2021-03-15,AMAZON,L5,Software Engineer,201.0,"Seattle, WA",3,4,Distributed Systems (Back-End),115.0,86.0,0.0,NotDisclosed,11527
+61739,2021-03-16,AMAZON,SDE I,Software Engineer,152.0,"Seattle, WA",0,0,Distributed Systems (Back-End),111.0,31.0,10.0,Male,11527
+61741,2021-03-16,AMAZON,L5,Software Engineer,272.0,"Seattle, WA",3,5,Distributed Systems (Back-End),175.0,97.0,0.0,Male,11527
+61842,2021-03-17,AMAZON,L5,Software Engineer,154.0,"Seattle, WA",17,5,Distributed Systems (Back-End),89.0,65.0,0.0,NotDisclosed,11527
+61847,2021-03-17,AMAZON,L4,Software Engineer,209.0,"Seattle, WA",9,6,Distributed Systems (Back-End),155.0,54.0,0.0,Male,11527
+61852,2021-03-17,AMAZON,L5,Software Engineer,246.0,"Seattle, WA",7,2,Backend,195.0,38.0,13.0,NotDisclosed,11527
+61862,2021-03-17,AMAZON,L6,Software Engineer,217.0,"Seattle, WA",5,11,Full Stack,118.0,99.0,0.0,Male,11527
+61938,2021-03-17,AMAZON,L4,Software Engineer,130.0,"Seattle, WA",3,1,Full Stack,75.0,38.0,17.0,Male,11527
+62031,2021-03-18,AMAZON,L5,Software Engineer,144.0,"Seattle, WA",1,3,Full Stack,87.0,57.0,0.0,Male,11527
+62076,2021-03-18,AMAZON,L4,Software Engineer,206.0,"Seattle, WA",2,2,Full Stack,175.0,19.0,12.0,NotDisclosed,11527
+62088,2021-03-19,AMAZON,L4,Software Engineer,236.0,"Seattle, WA",6,0,Full Stack,197.0,18.0,21.0,NotDisclosed,11527
+62169,2021-03-19,AMAZON,L4,Software Engineer,191.0,"Seattle, WA",0,0,Full Stack,157.0,22.0,12.0,Male,11527
+62185,2021-03-19,AMAZON,L4,Software Engineer,199.0,"Seattle, WA",5,3,Android,166.0,14.0,19.0,Female,11527
+62190,2021-03-19,AMAZON,L4,Software Engineer,108.0,"Seattle, WA",4,3,Distributed Systems (Back-End),78.0,6.0,24.0,NotDisclosed,11527
+62207,2021-03-19,AMAZON,L4,Software Engineer,141.0,"Seattle, WA",3,0,Full Stack,101.0,26.0,14.0,Male,11527
+62319,2021-03-21,AMAZON,L5,Software Engineer,149.0,"Seattle, WA",20,8,DevOps,128.0,21.0,0.0,Male,11527
+62391,2021-03-22,AMAZON,L4,Software Engineer,171.0,"Seattle, WA",0,0,API Development (Back-End),129.0,25.0,17.0,Male,11527
+62428,2021-03-22,AMAZON,L5,Software Engineer,205.0,"Seattle, WA",3,1,ML / AI,89.0,80.0,36.0,NotDisclosed,11527
+62454,2021-03-22,AMAZON,L4,Software Engineer,189.0,"Seattle, WA",0,0,Distributed Systems (Back-End),153.0,24.0,12.0,Male,11527
+62596,2021-03-23,AMAZON,L5,Software Engineer,278.0,"Seattle, WA",6,7,API Development (Back-End),189.0,89.0,0.0,NotDisclosed,11527
+62644,2021-03-23,AMAZON,L5,Software Engineer,224.0,"Seattle, WA",3,2,Distributed Systems (Back-End),204.0,20.0,0.0,NotDisclosed,11527
+62747,2021-03-24,AMAZON,L4,Software Engineer,151.0,"Seattle, WA",1,0,Distributed Systems (Back-End),121.0,8.0,22.0,NotDisclosed,11527
+62838,2021-03-25,AMAZON,L4,Software Engineer,159.0,"Seattle, WA",3,1,Distributed Systems (Back-End),128.0,18.0,13.0,NotDisclosed,11527
+62874,2021-03-25,AMAZON,L5,Software Engineer,176.0,"Seattle, WA",3,3,Distributed Systems (Back-End),150.0,26.0,0.0,Male,11527
+62953,2021-03-26,AMAZON,L4,Software Engineer,124.0,"Seattle, WA",1,1,API Development (Back-End),89.0,26.0,9.0,Male,11527
+62982,2021-03-26,AMAZON,L4,Software Engineer,157.0,"Seattle, WA",0,0,ML / AI,111.0,7.0,39.0,NotDisclosed,11527
+63012,2021-03-26,AMAZON,L6,Software Engineer,212.0,"Seattle, WA",15,9,API Development (Back-End),130.0,82.0,0.0,Male,11527
+63051,2021-03-26,AMAZON,L5,Software Engineer,214.0,"Seattle, WA",3,3,API Development (Back-End),148.0,66.0,0.0,Male,11527
+63146,2021-03-27,AMAZON,L4,Software Engineer,118.0,"Seattle, WA",3,0,Web Development (Front-End),78.0,33.0,7.0,Male,11527
+63150,2021-03-27,AMAZON,SDE II,Software Engineer,253.0,"Seattle, WA",9,5,Full Stack,159.0,94.0,0.0,Male,11527
+63268,2021-03-28,AMAZON,L5,Software Engineer,112.0,"Seattle, WA",4,2,Distributed Systems (Back-End),83.0,21.0,8.0,Male,11527
+63389,2021-03-29,AMAZON,L5,Software Engineer,213.0,"Seattle, WA",4,3,ML / AI,115.0,98.0,0.0,Male,11527
+63403,2021-03-29,AMAZON,L5,Software Engineer,181.0,"Seattle, WA",15,8,Distributed Systems (Back-End),107.0,74.0,0.0,Male,11527
+63420,2021-03-30,AMAZON,L6,Software Engineer,301.0,"Seattle, WA",7,3,Distributed Systems (Back-End),209.0,92.0,0.0,Male,11527
+63537,2021-03-30,AMAZON,L4,Software Engineer,160.0,"Seattle, WA",2,3,Distributed Systems (Back-End),137.0,14.0,9.0,NotDisclosed,11527
+63883,2021-04-02,AMAZON,SDE I,Software Engineer,112.0,"Seattle, WA",0,0,Full Stack,73.0,31.0,8.0,Female,11527
+63969,2021-04-02,AMAZON,L5,Software Engineer,167.0,"Seattle, WA",2,1,API Development (Back-End),107.0,46.0,14.0,Male,11527
+64033,2021-04-03,AMAZON,L4,Software Engineer,131.0,"Seattle, WA",1,1,Full Stack,103.0,16.0,12.0,Male,11527
+64254,2021-04-05,AMAZON,L5,Software Engineer,202.0,"Seattle, WA",5,6,Distributed Systems (Back-End),151.0,51.0,0.0,NotDisclosed,11527
+64256,2021-04-05,AMAZON,L4,Software Engineer,214.0,"Seattle, WA",2,0,Distributed Systems (Back-End),174.0,21.0,19.0,Male,11527
+64302,2021-04-05,AMAZON,L2,Software Engineer,119.0,"Seattle, WA",4,6,Android,98.0,10.0,11.0,NotDisclosed,11527
+64324,2021-04-05,AMAZON,SDE II,Software Engineer,220.0,"Seattle, WA",4,3,API Development (Back-End),202.0,18.0,0.0,NotDisclosed,11527
+64328,2021-04-05,AMAZON,L4,Software Engineer,146.0,"Seattle, WA",0,0,Full Stack,111.0,18.0,17.0,Female,11527
+64449,2021-04-06,AMAZON,L5,Software Engineer,172.0,"Seattle, WA",10,9,Distributed Systems (Back-End),141.0,31.0,0.0,Female,11527
+64459,2021-04-06,AMAZON,L5,Software Engineer,186.0,"Seattle, WA",6,5,API Development (Back-End),120.0,37.0,29.0,Male,11527
+64548,2021-04-07,AMAZON,L5,Software Engineer,186.0,"Seattle, WA",3,7,API Development (Back-End),125.0,61.0,0.0,NotDisclosed,11527
+64602,2021-04-07,AMAZON,L5,Software Engineer,198.0,"Seattle, WA",9,6,Security,139.0,59.0,0.0,Male,11527
+64615,2021-04-07,AMAZON,L5,Software Engineer,179.0,"Seattle, WA",3,1,Data,108.0,71.0,0.0,Female,11527
+64628,2021-04-07,AMAZON,L5,Software Engineer,251.0,"Seattle, WA",4,4,Full Stack,202.0,49.0,0.0,NotDisclosed,11527
+64633,2021-04-07,AMAZON,L5,Software Engineer,216.0,"Seattle, WA",4,0,API Development (Back-End),154.0,42.0,20.0,Male,11527
+64657,2021-04-07,AMAZON,L4,Software Engineer,110.0,"Seattle, WA",4,3,Distributed Systems (Back-End),78.0,13.0,19.0,Male,11527
+64754,2021-04-08,AMAZON,L5,Software Engineer,137.0,"Seattle, WA",6,3,Distributed Systems (Back-End),78.0,59.0,0.0,NotDisclosed,11527
+64793,2021-04-08,AMAZON,L5,Software Engineer,229.0,"Seattle, WA",3,3,API Development (Back-End),157.0,72.0,0.0,Male,11527
+64797,2021-04-08,AMAZON,L5,Software Engineer,173.0,"Seattle, WA",8,6,Full Stack,88.0,85.0,0.0,Male,11527
+64806,2021-04-08,AMAZON,L5,Software Engineer,120.0,"Seattle, WA",3,3,Full Stack,85.0,35.0,0.0,Male,11527
+64827,2021-04-08,AMAZON,SDE II,Software Engineer,195.0,"Seattle, WA",4,4,Full Stack,140.0,55.0,0.0,Male,11527
+64869,2021-04-08,AMAZON,L4,Software Engineer,123.0,"Seattle, WA",3,1,Networking,107.0,9.0,7.0,Male,11527
+64976,2021-04-09,AMAZON,SDE I,Software Engineer,187.0,"Seattle, WA",0,0,Web Development (Front-End),161.0,15.0,11.0,NotDisclosed,11527
+65052,2021-04-10,AMAZON,L4,Software Engineer,157.0,"Seattle, WA",4,2,Distributed Systems (Back-End),110.0,28.0,19.0,Male,11527
+65138,2021-04-11,AMAZON,L4,Software Engineer,188.0,"Seattle, WA",0,0,Distributed Systems (Back-End),169.0,10.0,9.0,Male,11527
+65233,2021-04-11,AMAZON,SDE I,Software Engineer,217.0,"Seattle, WA",1,0,Full Stack,173.0,25.0,19.0,NotDisclosed,11527
+65241,2021-04-12,AMAZON,L6,Software Engineer,178.0,"Seattle, WA",18,4,Distributed Systems (Back-End),103.0,75.0,0.0,Male,11527
+65327,2021-04-12,AMAZON,L5,Software Engineer,253.0,"Seattle, WA",6,9,Full Stack,144.0,109.0,0.0,NotDisclosed,11527
+65397,2021-04-12,AMAZON,L5,Software Engineer,157.0,"Seattle, WA",3,4,ML / AI,116.0,41.0,0.0,Male,11527
+65418,2021-04-13,AMAZON,L5,Software Engineer,222.0,"Seattle, WA",4,4,API Development (Back-End),167.0,55.0,0.0,NotDisclosed,11527
+65421,2021-04-13,AMAZON,L5,Software Engineer,234.0,"Seattle, WA",7,3,Distributed Systems (Back-End),169.0,65.0,0.0,Male,11527
+65505,2021-04-13,AMAZON,L5,Software Engineer,240.0,"Seattle, WA",6,5,Distributed Systems (Back-End),151.0,89.0,0.0,Male,11527
+65659,2021-04-14,AMAZON,L6,Software Engineer,274.0,"Seattle, WA",4,3,Web Development (Front-End),188.0,86.0,0.0,Male,11527
+65662,2021-04-14,AMAZON,L5,Software Engineer,339.0,"Seattle, WA",3,3,Security,208.0,98.0,33.0,NotDisclosed,11527
+65664,2021-04-14,AMAZON,L4,Software Engineer,115.0,"Seattle, WA",1,1,Distributed Systems (Back-End),76.0,27.0,12.0,Male,11527
+65689,2021-04-14,AMAZON,L5,Software Engineer,219.0,"Seattle, WA",4,4,API Development (Back-End),186.0,33.0,0.0,Female,11527
+65707,2021-04-14,AMAZON,L4,Software Engineer,149.0,"Seattle, WA",1,1,Distributed Systems (Back-End),122.0,13.0,14.0,Male,11527
+65746,2021-04-14,AMAZON,L5,Software Engineer,256.0,"Seattle, WA",6,6,Distributed Systems (Back-End),201.0,55.0,0.0,NotDisclosed,11527
+65795,2021-04-15,AMAZON,L5,Software Engineer,231.0,"Seattle, WA",2,1,API Development (Back-End),166.0,65.0,0.0,Male,11527
+65826,2021-04-15,AMAZON,L6,Software Engineer,183.0,"Seattle, WA",6,2,Full Stack,89.0,94.0,0.0,Male,11527
+65855,2021-04-15,AMAZON,L5,Software Engineer,192.0,"Seattle, WA",2,2,Full Stack,131.0,45.0,16.0,Male,11527
+65860,2021-04-15,AMAZON,L4,Software Engineer,200.0,"Seattle, WA",1,0,Full Stack,171.0,19.0,10.0,Male,11527
+65866,2021-04-15,AMAZON,L4,Software Engineer,153.0,"Seattle, WA",4,0,Full Stack,121.0,19.0,13.0,Male,11527
+65870,2021-04-15,AMAZON,SDE II,Software Engineer,222.0,"Seattle, WA",2,4,Full Stack,182.0,40.0,0.0,Female,11527
+65880,2021-04-15,AMAZON,L4,Software Engineer,120.0,"Seattle, WA",2,2,Full Stack,80.0,35.0,5.0,NotDisclosed,11527
+65906,2021-04-15,AMAZON,L5,Software Engineer,170.0,"Seattle, WA",3,4,Full Stack,119.0,51.0,0.0,Female,11527
+65913,2021-04-15,AMAZON,L5,Software Engineer,299.0,"Seattle, WA",8,4,Distributed Systems (Back-End),209.0,90.0,0.0,Male,11527
+65917,2021-04-15,AMAZON,L5,Software Engineer,250.0,"Seattle, WA",3,7,Full Stack,144.0,106.0,0.0,Male,11527
+66059,2021-04-16,AMAZON,L4,Software Engineer,162.0,"Seattle, WA",1,3,Full Stack,147.0,14.0,1.0,Male,11527
+66093,2021-04-16,AMAZON,L5,Software Engineer,201.0,"Seattle, WA",8,6,Distributed Systems (Back-End),153.0,48.0,0.0,Male,11527
+66095,2021-04-16,AMAZON,L5,Software Engineer,234.0,"Seattle, WA",4,2,Distributed Systems (Back-End),122.0,110.0,2.0,Male,11527
+66096,2021-04-16,AMAZON,L4,Software Engineer,192.0,"Seattle, WA",2,2,Full Stack,160.0,24.0,8.0,Male,11527
+66134,2021-04-16,AMAZON,L5,Software Engineer,151.0,"Seattle, WA",1,2,Full Stack,91.0,60.0,0.0,NotDisclosed,11527
+66211,2021-04-17,AMAZON,L5,Software Engineer,173.0,"Seattle, WA",3,3,Distributed Systems (Back-End),112.0,35.0,26.0,Male,11527
+66217,2021-04-17,AMAZON,L5,Software Engineer,209.0,"Seattle, WA",5,3,Distributed Systems (Back-End),116.0,93.0,0.0,Male,11527
+66247,2021-04-17,AMAZON,L5,Software Engineer,207.0,"Seattle, WA",2,2,API Development (Back-End),139.0,68.0,0.0,NotDisclosed,11527
+66330,2021-04-18,AMAZON,L5,Software Engineer,154.0,"Seattle, WA",12,3,ML / AI,85.0,69.0,0.0,NotDisclosed,11527
+66342,2021-04-18,AMAZON,L5,Software Engineer,251.0,"Seattle, WA",7,7,Full Stack,139.0,112.0,0.0,Male,11527
+66413,2021-04-19,AMAZON,L5,Software Engineer,197.0,"Seattle, WA",6,7,Networking,151.0,46.0,0.0,Male,11527
+66420,2021-04-19,AMAZON,SDE III,Software Engineer,183.0,"Seattle, WA",6,6,Distributed Systems (Back-End),109.0,74.0,0.0,Male,11527
+66424,2021-04-19,AMAZON,SDE II,Software Engineer,135.0,"Seattle, WA",3,2,Mobile (iOS + Android),106.0,25.0,4.0,NotDisclosed,11527
+66477,2021-04-19,AMAZON,L5,Software Engineer,290.0,"Seattle, WA",6,10,Full Stack,181.0,109.0,0.0,Male,11527
+66561,2021-04-20,AMAZON,SDE III,Software Engineer,281.0,"Seattle, WA",8,6,Distributed Systems (Back-End),198.0,83.0,0.0,Male,11527
+66576,2021-04-20,AMAZON,L6,Software Engineer,239.0,"Seattle, WA",7,10,Testing (SDET),184.0,55.0,0.0,NotDisclosed,11527
+66599,2021-04-20,AMAZON,L5,Software Engineer,183.0,"Seattle, WA",3,5,Full Stack,104.0,79.0,0.0,NotDisclosed,11527
+66628,2021-04-20,AMAZON,L5,Software Engineer,123.0,"Seattle, WA",7,5,Full Stack,79.0,41.0,3.0,NotDisclosed,11527
+66631,2021-04-20,AMAZON,L4,Software Engineer,229.0,"Seattle, WA",6,6,API Development (Back-End),154.0,75.0,0.0,Male,11527
+66693,2021-04-21,AMAZON,L4,Software Engineer,205.0,"Seattle, WA",0,0,Full Stack,166.0,21.0,18.0,NotDisclosed,11527
+66954,2021-04-22,AMAZON,SDE II,Software Engineer,135.0,"Seattle, WA",5,5,Distributed Systems (Back-End),109.0,26.0,0.0,NotDisclosed,11527
+66995,2021-04-22,AMAZON,L4,Software Engineer,210.0,"Seattle, WA",0,0,API Development (Back-End),167.0,28.0,15.0,Male,11527
+67026,2021-04-22,AMAZON,L4,Software Engineer,190.0,"Seattle, WA",4,1,API Development (Back-End),106.0,76.0,8.0,NotDisclosed,11527
+67093,2021-04-23,AMAZON,L5,Software Engineer,187.0,"Seattle, WA",8,1,Full Stack,131.0,40.0,16.0,Male,11527
+67118,2021-04-23,AMAZON,L5,Software Engineer,231.0,"Seattle, WA",3,2,Distributed Systems (Back-End),161.0,70.0,0.0,NotDisclosed,11527
+67152,2021-04-23,AMAZON,L6,Software Engineer,229.0,"Seattle, WA",5,6,Distributed Systems (Back-End),196.0,33.0,0.0,Male,11527
+67217,2021-04-24,AMAZON,L5,Software Engineer,321.0,"Seattle, WA",2,3,Full Stack,208.0,110.0,3.0,Male,11527
+67244,2021-04-24,AMAZON,L5,Software Engineer,192.0,"Seattle, WA",6,3,Full Stack,91.0,95.0,6.0,Male,11527
+67285,2021-04-25,AMAZON,L5,Software Engineer,221.0,"Seattle, WA",4,4,Distributed Systems (Back-End),178.0,43.0,0.0,Male,11527
+67336,2021-04-25,AMAZON,L4,Software Engineer,153.0,"Seattle, WA",4,3,Distributed Systems (Back-End),129.0,14.0,10.0,Male,11527
+67342,2021-04-25,AMAZON,L6,Software Engineer,243.0,"Seattle, WA",15,10,Distributed Systems (Back-End),175.0,68.0,0.0,Male,11527
+67351,2021-04-25,AMAZON,L5,Software Engineer,242.0,"Seattle, WA",4,1,API Development (Back-End),178.0,38.0,26.0,NotDisclosed,11527
+67395,2021-04-26,AMAZON,L4,Software Engineer,161.0,"Seattle, WA",2,1,Production,118.0,19.0,24.0,NotDisclosed,11527
+67414,2021-04-26,AMAZON,L5,Software Engineer,230.0,"Seattle, WA",8,1,ML / AI,98.0,107.0,25.0,Male,11527
+67467,2021-04-26,AMAZON,L5,Software Engineer,123.0,"Seattle, WA",12,7,API Development (Back-End),74.0,49.0,0.0,Male,11527
+67612,2021-04-27,AMAZON,L5,Software Engineer,217.0,"Seattle, WA",10,2,API Development (Back-End),112.0,105.0,0.0,Male,11527
+67631,2021-04-27,AMAZON,SDE I,Software Engineer,162.0,"Seattle, WA",0,0,ML / AI,121.0,33.0,8.0,Male,11527
+67665,2021-04-27,AMAZON,L5,Software Engineer,223.0,"Seattle, WA",7,2,API Development (Back-End),144.0,79.0,0.0,Male,11527
+67767,2021-04-28,AMAZON,L5,Software Engineer,296.0,"Seattle, WA",11,3,Full Stack,191.0,105.0,0.0,Male,11527
+67776,2021-04-28,AMAZON,L4,Software Engineer,207.0,"Seattle, WA",1,0,Full Stack,171.0,25.0,11.0,NotDisclosed,11527
+67790,2021-04-28,AMAZON,L4,Software Engineer,129.0,"Seattle, WA",1,0,API Development (Back-End),86.0,22.0,21.0,Male,11527
+67822,2021-04-28,AMAZON,L4,Software Engineer,111.0,"Seattle, WA",6,1,Distributed Systems (Back-End),70.0,25.0,16.0,Female,11527
+67960,2021-04-30,AMAZON,L4,Software Engineer,138.0,"Seattle, WA",0,0,Full Stack,90.0,41.0,7.0,Male,11527
+67982,2021-04-30,AMAZON,L5,Software Engineer,173.0,"Seattle, WA",10,6,ML / AI,108.0,65.0,0.0,NotDisclosed,11527
+68039,2021-04-30,AMAZON,L5,Software Engineer,152.0,"Seattle, WA",7,1,Full Stack,107.0,24.0,21.0,NotDisclosed,11527
+68099,2021-05-01,AMAZON,L4,Software Engineer,147.0,"Seattle, WA",0,0,AWS,106.0,31.0,10.0,Male,11527
+68131,2021-05-01,AMAZON,L4,Software Engineer,169.0,"Seattle, WA",2,4,Distributed Systems (Back-End),142.0,25.0,2.0,Male,11527
+68135,2021-05-01,AMAZON,L5,Software Engineer,168.0,"Seattle, WA",10,1,Production,88.0,40.0,40.0,Female,11527
+68156,2021-05-01,AMAZON,L5,Software Engineer,222.0,"Seattle, WA",13,7,Distributed Systems (Back-End),167.0,55.0,0.0,NotDisclosed,11527
+68260,2021-05-03,AMAZON,L4,Software Engineer,161.0,"Seattle, WA",3,2,ML / AI,85.0,76.0,0.0,Male,11527
+68264,2021-05-03,AMAZON,L6,Software Engineer,283.0,"Seattle, WA",11,6,API Development (Back-End),177.0,106.0,0.0,NotDisclosed,11527
+68287,2021-05-03,AMAZON,L5,Software Engineer,261.0,"Seattle, WA",5,5,Distributed Systems (Back-End),167.0,94.0,0.0,NotDisclosed,11527
+68291,2021-05-03,AMAZON,L6,Software Engineer,244.0,"Seattle, WA",7,8,Full Stack,145.0,99.0,0.0,Male,11527
+68352,2021-05-03,AMAZON,L5,Software Engineer,201.0,"Seattle, WA",3,2,Full Stack,154.0,47.0,0.0,NotDisclosed,11527
+68578,2021-05-05,AMAZON,L5,Software Engineer,217.0,"Seattle, WA",4,0,Web Development (Front-End),180.0,20.0,17.0,Female,11527
+68608,2021-05-05,AMAZON,L5,Software Engineer,282.0,"Seattle, WA",2,4,API Development (Back-End),188.0,94.0,0.0,Female,11527
+68612,2021-05-05,AMAZON,L5,Software Engineer,304.0,"Seattle, WA",7,7,ML / AI,197.0,107.0,0.0,Female,11527
+68709,2021-05-06,AMAZON,L5,Software Engineer,218.0,"Seattle, WA",6,5,Full Stack,173.0,45.0,0.0,Male,11527
+68738,2021-05-06,AMAZON,SDE I,Software Engineer,200.0,"Seattle, WA",6,1,Full Stack,137.0,45.0,18.0,Female,11527
+68859,2021-05-07,AMAZON,L5,Software Engineer,200.0,"Seattle, WA",7,8,Distributed Systems (Back-End),129.0,71.0,0.0,Male,11527
+68875,2021-05-07,AMAZON,SDE III,Software Engineer,208.0,"Seattle, WA",3,2,Distributed Systems (Back-End),117.0,91.0,0.0,Male,11527
+68987,2021-05-08,AMAZON,L5,Software Engineer,191.0,"Seattle, WA",5,2,API Development (Back-End),119.0,72.0,0.0,Male,11527
+69006,2021-05-08,AMAZON,L4,Software Engineer,179.0,"Seattle, WA",2,0,Distributed Systems (Back-End),138.0,19.0,22.0,Male,11527
+69050,2021-05-08,AMAZON,L5,Software Engineer,170.0,"Seattle, WA",2,3,Distributed Systems (Back-End),128.0,42.0,0.0,Male,11527
+69134,2021-05-09,AMAZON,L4,Software Engineer,224.0,"Seattle, WA",1,1,Distributed Systems (Back-End),180.0,28.0,16.0,Male,11527
+69240,2021-05-10,AMAZON,L6,Software Engineer,265.0,"Seattle, WA",7,5,Full Stack,168.0,87.0,10.0,NotDisclosed,11527
+69306,2021-05-10,AMAZON,L5,Software Engineer,170.0,"Seattle, WA",4,3,Web Development (Front-End),118.0,52.0,0.0,NotDisclosed,11527
+69328,2021-05-11,AMAZON,L5,Software Engineer,233.0,"Seattle, WA",10,10,Distributed Systems (Back-End),190.0,43.0,0.0,Male,11527
+69431,2021-05-11,AMAZON,L5,Software Engineer,179.0,"Seattle, WA",3,2,Security,141.0,33.0,5.0,Male,11527
+69442,2021-05-11,AMAZON,L4,Software Engineer,139.0,"Seattle, WA",1,1,Production,102.0,23.0,14.0,NotDisclosed,11527
+69592,2021-05-12,AMAZON,L4,Software Engineer,245.0,"Seattle, WA",2,0,Distributed Systems (Back-End),190.0,28.0,27.0,Female,11527
+69602,2021-05-12,AMAZON,L4,Software Engineer,251.0,"Seattle, WA",7,2,Full Stack,140.0,99.0,12.0,Male,11527
+69629,2021-05-12,AMAZON,L1,Software Engineer,149.0,"Seattle, WA",3,2,Full Stack,114.0,35.0,0.0,Female,11527
+69739,2021-05-13,AMAZON,SDE I,Software Engineer,153.0,"Seattle, WA",2,0,Distributed Systems (Back-End),83.0,29.0,41.0,Male,11527
+69742,2021-05-13,AMAZON,SDE I,Software Engineer,175.0,"Seattle, WA",2,0,Distributed Systems (Back-End),120.0,22.0,33.0,Male,11527
+69760,2021-05-13,AMAZON,L4,Software Engineer,222.0,"Seattle, WA",1,2,Distributed Systems (Back-End),173.0,49.0,0.0,Male,11527
+69954,2021-05-15,AMAZON,L5,Software Engineer,256.0,"Seattle, WA",3,0,Full Stack,209.0,22.0,25.0,Female,11527
+69959,2021-05-15,AMAZON,SDE I,Software Engineer,146.0,"Seattle, WA",0,0,Networking,110.0,22.0,14.0,NotDisclosed,11527
+69967,2021-05-15,AMAZON,L5,Software Engineer,242.0,"Seattle, WA",4,3,Full Stack,151.0,91.0,0.0,NotDisclosed,11527
+69968,2021-05-15,AMAZON,L5,Software Engineer,270.0,"Seattle, WA",5,5,Full Stack,163.0,107.0,0.0,Male,11527
+69984,2021-05-15,AMAZON,L6,Software Engineer,251.0,"Seattle, WA",5,12,Distributed Systems (Back-End),166.0,85.0,0.0,NotDisclosed,11527
+70077,2021-05-16,AMAZON,L4,Software Engineer,151.0,"Seattle, WA",1,1,Distributed Systems (Back-End),118.0,23.0,10.0,Male,11527
+70276,2021-05-18,AMAZON,L5,Software Engineer,214.0,"Seattle, WA",11,5,Distributed Systems (Back-End),137.0,77.0,0.0,Male,11527
+70279,2021-05-18,AMAZON,L5,Software Engineer,201.0,"Seattle, WA",5,3,API Development (Back-End),148.0,53.0,0.0,Female,11527
+70319,2021-05-19,AMAZON,L4,Software Engineer,156.0,"Seattle, WA",3,3,Distributed Systems (Back-End),124.0,32.0,0.0,Male,11527
+70331,2021-05-19,AMAZON,L5,Software Engineer,202.0,"Seattle, WA",6,4,Customer Experience,99.0,103.0,0.0,NotDisclosed,11527
+70395,2021-05-20,AMAZON,L3,Software Engineer,198.0,"Seattle, WA",1,2,Security,151.0,38.0,9.0,Male,11527
+70412,2021-05-20,AMAZON,L5,Software Engineer,217.0,"Seattle, WA",6,6,API Development (Back-End),152.0,65.0,0.0,NotDisclosed,11527
+70444,2021-05-20,AMAZON,L5,Software Engineer,246.0,"Seattle, WA",6,2,DevOps,146.0,83.0,17.0,Female,11527
+70568,2021-05-21,AMAZON,L2,Software Engineer,147.0,"Seattle, WA",8,4,API Development (Back-End),100.0,47.0,0.0,NotDisclosed,11527
+70649,2021-05-22,AMAZON,L5,Software Engineer,155.0,"Seattle, WA",3,5,Distributed Systems (Back-End),114.0,41.0,0.0,Male,11527
+70659,2021-05-22,AMAZON,L5,Software Engineer,252.0,"Seattle, WA",7,9,Full Stack,209.0,43.0,0.0,Male,11527
+70667,2021-05-22,AMAZON,L6,Software Engineer,244.0,"Seattle, WA",7,9,Full Stack,154.0,90.0,0.0,Male,11527
+70692,2021-05-22,AMAZON,L5,Software Engineer,185.0,"Seattle, WA",5,1,Full Stack,111.0,74.0,0.0,Male,11527
+70702,2021-05-22,AMAZON,L5,Software Engineer,180.0,"Seattle, WA",1,1,Security,119.0,54.0,7.0,Male,11527
+70709,2021-05-22,AMAZON,l5,Software Engineer,209.0,"Seattle, WA",2,3,Production,141.0,68.0,0.0,Female,11527
+70715,2021-05-23,AMAZON,L4,Software Engineer,173.0,"Seattle, WA",1,0,API Development (Back-End),120.0,36.0,17.0,NotDisclosed,11527
+70771,2021-05-23,AMAZON,L5,Software Engineer,256.0,"Seattle, WA",15,1,ML / AI,177.0,79.0,0.0,Male,11527
+70799,2021-05-23,AMAZON,L4,Software Engineer,157.0,"Seattle, WA",1,3,Distributed Systems (Back-End),122.0,21.0,14.0,Male,11527
+70806,2021-05-23,AMAZON,L5,Software Engineer,180.0,"Seattle, WA",5,4,API Development (Back-End),135.0,45.0,0.0,Male,11527
+70900,2021-05-24,AMAZON,SDE II,Software Engineer,188.0,"Seattle, WA",7,9,Production,96.0,92.0,0.0,NotDisclosed,11527
+70918,2021-05-24,AMAZON,L4,Software Engineer,186.0,"Seattle, WA",3,1,Full Stack,139.0,36.0,11.0,Male,11527
+70979,2021-05-24,AMAZON,L5,Software Engineer,186.0,"Seattle, WA",4,5,Distributed Systems (Back-End),81.0,105.0,0.0,NotDisclosed,11527
+71038,2021-05-25,AMAZON,L5,Software Engineer,218.0,"Seattle, WA",3,3,iOS,118.0,100.0,0.0,Female,11527
+71039,2021-05-25,AMAZON,L5,Software Engineer,352.0,"Seattle, WA",4,3,Distributed Systems (Back-End),202.0,108.0,42.0,Male,11527
+71090,2021-05-25,AMAZON,L5,Software Engineer,229.0,"Seattle, WA",3,5,Distributed Systems (Back-End),153.0,76.0,0.0,Male,11527
+71092,2021-05-25,AMAZON,L5,Software Engineer,192.0,"Seattle, WA",4,5,API Development (Back-End),89.0,103.0,0.0,Female,11527
+71121,2021-05-25,AMAZON,L4,Software Engineer,171.0,"Seattle, WA",3,3,Full Stack,106.0,49.0,16.0,Male,11527
+71123,2021-05-25,AMAZON,L4,Software Engineer,240.0,"Seattle, WA",1,1,iOS,175.0,40.0,25.0,Female,11527
+71242,2021-05-26,AMAZON,L5,Software Engineer,244.0,"Seattle, WA",5,5,Full Stack,156.0,78.0,10.0,Male,11527
+71433,2021-05-28,AMAZON,L5,Software Engineer,185.0,"Seattle, WA",4,1,Full Stack,90.0,95.0,0.0,NotDisclosed,11527
+71549,2021-05-28,AMAZON,L6,Software Engineer,220.0,"Seattle, WA",9,7,Distributed Systems (Back-End),167.0,53.0,0.0,Male,11527
+71654,2021-05-29,AMAZON,SDE I,Software Engineer,186.0,"Seattle, WA",3,1,Distributed Systems (Back-End),120.0,37.0,29.0,Female,11527
+71726,2021-05-30,AMAZON,L4,Software Engineer,153.0,"Seattle, WA",0,0,API Development (Back-End),115.0,29.0,9.0,NotDisclosed,11527
+71955,2021-06-01,AMAZON,SDE I,Software Engineer,200.0,"Seattle, WA",0,0,Full Stack,145.0,30.0,25.0,Other,11527
+71960,2021-06-01,AMAZON,L4,Software Engineer,157.0,"Seattle, WA",1,0,Distributed Systems (Back-End),129.0,14.0,14.0,NotDisclosed,11527
+71989,2021-06-02,AMAZON,l4,Software Engineer,178.0,"Seattle, WA",1,1,Full Stack,144.0,11.0,23.0,Male,11527
+71997,2021-06-02,AMAZON,L5,Software Engineer,275.0,"Seattle, WA",5,5,ML / AI,199.0,76.0,0.0,Male,11527
+72017,2021-06-02,AMAZON,L4,Software Engineer,120.0,"Seattle, WA",1,0,API Development (Back-End),76.0,17.0,27.0,Male,11527
+72041,2021-06-02,AMAZON,L5,Software Engineer,176.0,"Seattle, WA",13,10,Distributed Systems (Back-End),156.0,20.0,0.0,Female,11527
+72081,2021-06-02,AMAZON,L5,Software Engineer,192.0,"Seattle, WA",2,3,Distributed Systems (Back-End),153.0,39.0,0.0,NotDisclosed,11527
+72123,2021-06-02,AMAZON,L5,Software Engineer,196.0,"Seattle, WA",4,2,Distributed Systems (Back-End),148.0,48.0,0.0,Male,11527
+72214,2021-06-03,AMAZON,L4,Software Engineer,165.0,"Seattle, WA",2,1,API Development (Back-End),129.0,18.0,18.0,Female,11527
+72267,2021-06-03,AMAZON,L4,Software Engineer,176.0,"Seattle, WA",0,0,Web Development (Front-End),129.0,32.0,15.0,Male,11527
+72330,2021-06-03,AMAZON,L4,Software Engineer,200.0,"Seattle, WA",0,0,Distributed Systems (Back-End),164.0,21.0,15.0,NotDisclosed,11527
+72569,2021-06-05,AMAZON,L4,Software Engineer,234.0,"Seattle, WA",1,1,Distributed Systems (Back-End),180.0,43.0,11.0,Male,11527
+72597,2021-06-06,AMAZON,L5,Software Engineer,211.0,"Seattle, WA",7,1,Distributed Systems (Back-End),125.0,86.0,0.0,Male,11527
+72633,2021-06-06,AMAZON,L4,Software Engineer,185.0,"Seattle, WA",1,1,iOS,165.0,6.0,14.0,Male,11527
+72725,2021-06-07,AMAZON,L4,Software Engineer,126.0,"Seattle, WA",2,0,Distributed Systems (Back-End),71.0,34.0,21.0,Male,11527
+72790,2021-06-07,AMAZON,L5,Software Engineer,200.0,"Seattle, WA",7,5,API Development (Back-End),126.0,74.0,0.0,Male,11527
+72793,2021-06-07,AMAZON,L5,Software Engineer,132.0,"Seattle, WA",7,2,Distributed Systems (Back-End),84.0,48.0,0.0,NotDisclosed,11527
+72813,2021-06-07,AMAZON,L4,Software Engineer,158.0,"Seattle, WA",0,0,ML / AI,128.0,20.0,10.0,Male,11527
+72838,2021-06-07,AMAZON,L5,Software Engineer,210.0,"Seattle, WA",16,1,Data,83.0,105.0,22.0,Male,11527
+72919,2021-06-08,AMAZON,L4,Software Engineer,184.0,"Seattle, WA",2,0,Distributed Systems (Back-End),161.0,11.0,12.0,Male,11527
+72932,2021-06-08,AMAZON,L5,Software Engineer,196.0,"Seattle, WA",4,0,Networking,120.0,34.0,42.0,Male,11527
+72960,2021-06-08,AMAZON,L5,Software Engineer,241.0,"Seattle, WA",3,2,Distributed Systems (Back-End),145.0,76.0,20.0,NotDisclosed,11527
+73001,2021-06-08,AMAZON,L5,Software Engineer,175.0,"Seattle, WA",4,4,Data,97.0,78.0,0.0,Male,11527
+73004,2021-06-08,AMAZON,L5,Software Engineer,234.0,"Seattle, WA",3,1,Distributed Systems (Back-End),153.0,46.0,35.0,NotDisclosed,11527
+73044,2021-06-08,AMAZON,L5,Software Engineer,137.0,"Seattle, WA",4,2,API Development (Back-End),103.0,14.0,20.0,Male,11527
+73099,2021-06-09,AMAZON,L5,Software Engineer,253.0,"Seattle, WA",4,3,Distributed Systems (Back-End),171.0,82.0,0.0,Male,11527
+73179,2021-06-09,AMAZON,L4,Software Engineer,182.0,"Seattle, WA",5,1,API Development (Back-End),117.0,46.0,19.0,Male,11527
+73190,2021-06-09,AMAZON,SDE I,Software Engineer,214.0,"Seattle, WA",1,0,ML / AI,190.0,12.0,12.0,Female,11527
+73223,2021-06-09,AMAZON,L4,Software Engineer,214.0,"Seattle, WA",1,0,API Development (Back-End),180.0,18.0,16.0,Male,11527
+73285,2021-06-10,AMAZON,L4,Software Engineer,184.0,"Seattle, WA",1,1,Data,159.0,4.0,21.0,NotDisclosed,11527
+73497,2021-06-11,AMAZON,SDE I,Software Engineer,237.0,"Seattle, WA",2,0,ML / AI,187.0,36.0,14.0,Male,11527
+73583,2021-06-12,AMAZON,L4,Software Engineer,130.0,"Seattle, WA",0,0,Distributed Systems (Back-End),103.0,14.0,13.0,Male,11527
+73594,2021-06-12,AMAZON,L4,Software Engineer,118.0,"Seattle, WA",3,1,Networking,80.0,28.0,10.0,Male,11527
+73601,2021-06-12,AMAZON,L4,Software Engineer,188.0,"Seattle, WA",0,0,Security,139.0,35.0,14.0,Male,11527
+73806,2021-06-14,AMAZON,L4,Software Engineer,159.0,"Seattle, WA",3,1,Distributed Systems (Back-End),108.0,22.0,29.0,NotDisclosed,11527
+73871,2021-06-14,AMAZON,L4,Software Engineer,136.0,"Seattle, WA",3,1,API Development (Back-End),104.0,7.0,25.0,Female,11527
+74145,2021-06-16,AMAZON,L3,Software Engineer,154.0,"Seattle, WA",2,0,Full Stack,102.0,23.0,29.0,Male,11527
+74150,2021-06-16,AMAZON,5,Software Engineer,225.0,"Seattle, WA",4,1,Data,142.0,78.0,5.0,Female,11527
+74153,2021-06-16,AMAZON,L4,Software Engineer,117.0,"Seattle, WA",0,0,API Development (Back-End),101.0,7.0,9.0,Female,11527
+74175,2021-06-16,AMAZON,L5,Software Engineer,235.0,"Seattle, WA",2,3,API Development (Back-End),168.0,48.0,19.0,Male,11527
+74190,2021-06-16,AMAZON,L5,Software Engineer,269.0,"Seattle, WA",2,4,Data,177.0,92.0,0.0,Male,11527
+74307,2021-06-17,AMAZON,L5,Software Engineer,144.0,"Seattle, WA",3,3,DevOps,84.0,60.0,0.0,Male,11527
+74411,2021-06-18,AMAZON,L5,Software Engineer,175.0,"Seattle, WA",3,1,Distributed Systems (Back-End),117.0,58.0,0.0,Male,11527
+74412,2021-06-18,AMAZON,L6,Software Engineer,188.0,"Seattle, WA",5,4,Distributed Systems (Back-End),83.0,105.0,0.0,Male,11527
+74650,2021-06-20,AMAZON,L5,Software Engineer,223.0,"Seattle, WA",2,2,Distributed Systems (Back-End),168.0,55.0,0.0,Male,11527
+74798,2021-06-21,AMAZON,L5,Software Engineer,246.0,"Seattle, WA",4,0,Web Development (Front-End),178.0,38.0,30.0,Male,11527
+74865,2021-06-22,AMAZON,L4,Software Engineer,180.0,"Seattle, WA",1,1,Security,155.0,20.0,5.0,Male,11527
+74925,2021-06-22,AMAZON,L4,Software Engineer,171.0,"Seattle, WA",4,0,API Development (Back-End),129.0,8.0,34.0,NotDisclosed,11527
+74959,2021-06-22,AMAZON,L5,Software Engineer,213.0,"Seattle, WA",2,2,Networking,157.0,38.0,18.0,Male,11527
+75021,2021-06-23,AMAZON,L5,Software Engineer,185.0,"Seattle, WA",5,3,ML / AI,151.0,34.0,0.0,Male,11527
+75107,2021-06-23,AMAZON,L4,Software Engineer,149.0,"Seattle, WA",1,0,API Development (Back-End),113.0,7.0,29.0,NotDisclosed,11527
+75130,2021-06-23,AMAZON,L4,Software Engineer,145.0,"Seattle, WA",3,3,Distributed Systems (Back-End),98.0,47.0,0.0,Male,11527
+75131,2021-06-23,AMAZON,L5,Software Engineer,174.0,"Seattle, WA",8,9,API Development (Back-End),117.0,57.0,0.0,Male,11527
+75141,2021-06-23,AMAZON,L5,Software Engineer,206.0,"Seattle, WA",7,5,Full Stack,151.0,55.0,0.0,Male,11527
+75150,2021-06-24,AMAZON,L5,Software Engineer,215.0,"Seattle, WA",4,4,Full Stack,143.0,72.0,0.0,NotDisclosed,11527
+75160,2021-06-24,AMAZON,L5,Software Engineer,204.0,"Seattle, WA",4,3,Distributed Systems (Back-End),169.0,35.0,0.0,NotDisclosed,11527
+75215,2021-06-24,AMAZON,L5,Software Engineer,155.0,"Seattle, WA",6,0,Distributed Systems (Back-End),87.0,43.0,25.0,Male,11527
+75314,2021-06-24,AMAZON,L3,Software Engineer,198.0,"Seattle, WA",0,0,Production,173.0,16.0,9.0,Male,11527
+75319,2021-06-25,AMAZON,60,Software Engineer,154.0,"Seattle, WA",2,0,Full Stack,125.0,17.0,12.0,Male,11527
+75379,2021-06-25,AMAZON,L6,Software Engineer,200.0,"Seattle, WA",5,9,Full Stack,101.0,99.0,0.0,Male,11527
+75410,2021-06-25,AMAZON,L5,Software Engineer,234.0,"Seattle, WA",5,2,Full Stack,180.0,34.0,20.0,Male,11527
+75427,2021-06-25,AMAZON,L5,Software Engineer,108.0,"Seattle, WA",9,1,Production,75.0,6.0,27.0,Male,11527
+75540,2021-06-26,AMAZON,L5,Software Engineer,184.0,"Seattle, WA",4,4,Distributed Systems (Back-End),114.0,64.0,6.0,NotDisclosed,11527
+75561,2021-06-26,AMAZON,L4,Software Engineer,180.0,"Seattle, WA",1,0,Distributed Systems (Back-End),137.0,22.0,21.0,Male,11527
+75716,2021-06-28,AMAZON,L5,Software Engineer,153.0,"Seattle, WA",3,4,Distributed Systems (Back-End),87.0,66.0,0.0,Female,11527
+75777,2021-06-28,AMAZON,L4,Software Engineer,236.0,"Seattle, WA",6,1,Distributed Systems (Back-End),194.0,32.0,10.0,Male,11527
+75806,2021-06-28,AMAZON,SDE I,Software Engineer,223.0,"Seattle, WA",0,0,iOS,166.0,25.0,32.0,Male,11527
+75868,2021-06-29,AMAZON,SDE II,Software Engineer,168.0,"Seattle, WA",5,2,Full Stack,104.0,64.0,0.0,NotDisclosed,11527
+75880,2021-06-29,AMAZON,L5,Software Engineer,322.0,"Seattle, WA",7,3,API Development (Back-End),184.0,99.0,39.0,Male,11527
+76003,2021-06-29,AMAZON,L5,Software Engineer,175.0,"Seattle, WA",2,3,Full Stack,129.0,46.0,0.0,NotDisclosed,11527
+76006,2021-06-29,AMAZON,L5,Software Engineer,172.0,"Seattle, WA",9,5,Distributed Systems (Back-End),132.0,40.0,0.0,NotDisclosed,11527
+76025,2021-06-30,AMAZON,L5,Software Engineer,113.0,"Seattle, WA",6,0,Data,70.0,24.0,19.0,NotDisclosed,11527
+76061,2021-06-30,AMAZON,L4,Software Engineer,188.0,"Seattle, WA",4,1,Distributed Systems (Back-End),116.0,55.0,17.0,Male,11527
+76065,2021-06-30,AMAZON,L4,Software Engineer,189.0,"Seattle, WA",1,1,Production,129.0,25.0,35.0,Male,11527
+76097,2021-06-30,AMAZON,L5,Software Engineer,227.0,"Seattle, WA",28,4,DevOps,184.0,43.0,0.0,Male,11527
+76175,2021-06-30,AMAZON,L5,Software Engineer,201.0,"Seattle, WA",4,3,Distributed Systems (Back-End),157.0,44.0,0.0,Male,11527
+76188,2021-06-30,AMAZON,L4,Software Engineer,192.0,"Seattle, WA",1,1,Distributed Systems (Back-End),164.0,28.0,0.0,NotDisclosed,11527
+76198,2021-06-30,AMAZON,L5,Software Engineer,194.0,"Seattle, WA",8,6,Distributed Systems (Back-End),121.0,73.0,0.0,Male,11527
+76238,2021-06-30,AMAZON,L5,Software Engineer,262.0,"Seattle, WA",2,1,Distributed Systems (Back-End),208.0,37.0,17.0,Female,11527
+76242,2021-06-30,AMAZON,L5,Software Engineer,219.0,"Seattle, WA",4,6,Full Stack,164.0,55.0,0.0,Male,11527
+76265,2021-07-01,AMAZON,L5,Software Engineer,175.0,"Seattle, WA",3,4,Full Stack,143.0,11.0,21.0,Male,11527
+76386,2021-07-01,AMAZON,L5,Software Engineer,271.0,"Seattle, WA",3,2,Full Stack,204.0,67.0,0.0,Female,11527
+76412,2021-07-01,AMAZON,L5,Software Engineer,156.0,"Seattle, WA",2,1,API Development (Back-End),85.0,58.0,13.0,Female,11527
+76425,2021-07-01,AMAZON,L4,Software Engineer,165.0,"Seattle, WA",0,0,ML / AI,130.0,17.0,18.0,NotDisclosed,11527
+76546,2021-07-02,AMAZON,L5,Software Engineer,314.0,"Seattle, WA",6,1,Full Stack,204.0,86.0,24.0,NotDisclosed,11527
+76561,2021-07-02,AMAZON,L5,Software Engineer,196.0,"Seattle, WA",5,1,Full Stack,133.0,49.0,14.0,Male,11527
+76629,2021-07-02,AMAZON,L5,Software Engineer,131.0,"Seattle, WA",7,3,Distributed Systems (Back-End),80.0,51.0,0.0,Female,11527
+76751,2021-07-04,AMAZON,L5,Software Engineer,273.0,"Seattle, WA",4,1,Web Development (Front-End),205.0,68.0,0.0,NotDisclosed,11527
+76790,2021-07-04,AMAZON,L4,Software Engineer,214.0,"Seattle, WA",1,1,frontend,172.0,8.0,34.0,Female,11527
+76852,2021-07-05,AMAZON,L4,Software Engineer,208.0,"Seattle, WA",4,0,Full Stack,161.0,30.0,17.0,Female,11527
+76861,2021-07-05,AMAZON,L5,Software Engineer,245.0,"Seattle, WA",1,1,Distributed Systems (Back-End),206.0,39.0,0.0,Male,11527
+76880,2021-07-05,AMAZON,L5,Software Engineer,243.0,"Seattle, WA",3,5,Full Stack,168.0,75.0,0.0,Male,11527
+76903,2021-07-05,AMAZON,L4,Software Engineer,189.0,"Seattle, WA",0,0,Distributed Systems (Back-End),119.0,43.0,27.0,NotDisclosed,11527
+77117,2021-07-07,AMAZON,L4,Software Engineer,188.0,"Seattle, WA",3,0,iOS,128.0,27.0,33.0,Male,11527
+77144,2021-07-07,AMAZON,L4,Software Engineer,152.0,"Seattle, WA",0,0,Full Stack,121.0,12.0,19.0,Male,11527
+77209,2021-07-08,AMAZON,L4,Software Engineer,128.0,"Seattle, WA",1,3,API Development (Back-End),96.0,18.0,14.0,Male,11527
+77260,2021-07-08,AMAZON,L5,Software Engineer,160.0,"Seattle, WA",4,1,Full Stack,76.0,84.0,0.0,Male,11527
+77484,2021-07-09,AMAZON,L4,Software Engineer,133.0,"Seattle, WA",3,0,API Development (Back-End),93.0,25.0,15.0,Female,11527
+77586,2021-07-10,AMAZON,L5,Software Engineer,309.0,"Seattle, WA",3,6,DevOps,204.0,105.0,0.0,Male,11527
+77597,2021-07-10,AMAZON,L4,Software Engineer,142.0,"Seattle, WA",4,0,Distributed Systems (Back-End),96.0,26.0,20.0,Male,11527
+77598,2021-07-10,AMAZON,L4,Software Engineer,117.0,"Seattle, WA",1,1,API Development (Back-End),96.0,4.0,17.0,Male,11527
+77754,2021-07-12,AMAZON,L4,Software Engineer,159.0,"Seattle, WA",1,0,Distributed Systems (Back-End),119.0,27.0,13.0,Male,11527
+77795,2021-07-12,AMAZON,SDE II,Software Engineer,152.0,"Seattle, WA",6,2,Full Stack,86.0,66.0,0.0,Male,11527
+78125,2021-07-14,AMAZON,L3,Software Engineer,169.0,"Seattle, WA",1,1,Distributed Systems (Back-End),124.0,4.0,41.0,Female,11527
+78148,2021-07-14,AMAZON,L5,Software Engineer,254.0,"Seattle, WA",3,3,Full Stack,197.0,43.0,14.0,Male,11527
+78198,2021-07-14,AMAZON,SDE II,Software Engineer,174.0,"Seattle, WA",2,0,ML / AI,94.0,51.0,29.0,NotDisclosed,11527
+78277,2021-07-15,AMAZON,L4,Software Engineer,274.0,"Seattle, WA",2,1,Web Development (Front-End),208.0,23.0,43.0,Male,11527
+78364,2021-07-15,AMAZON,L5,Software Engineer,176.0,"Seattle, WA",7,6,Distributed Systems (Back-End),109.0,67.0,0.0,Male,11527
+78420,2021-07-15,AMAZON,L6,Software Engineer,279.0,"Seattle, WA",9,4,API Development (Back-End),188.0,91.0,0.0,Male,11527
+78499,2021-07-16,AMAZON,L5,Software Engineer,196.0,"Seattle, WA",5,2,Distributed Systems (Back-End),167.0,14.0,15.0,Male,11527
+78879,2021-07-19,AMAZON,L5,Software Engineer,196.0,"Seattle, WA",7,1,Mobile (iOS + Android),112.0,79.0,5.0,Male,11527
+78893,2021-07-19,AMAZON,L6,Software Engineer,296.0,"Seattle, WA",11,8,Distributed Systems (Back-End),191.0,105.0,0.0,Male,11527
+78914,2021-07-19,AMAZON,L4,Software Engineer,169.0,"Seattle, WA",5,4,Production,111.0,58.0,0.0,NotDisclosed,11527
+78962,2021-07-20,AMAZON,L5,Software Engineer,253.0,"Seattle, WA",1,1,Full Stack,189.0,42.0,22.0,NotDisclosed,11527
+78972,2021-07-20,AMAZON,L4,Software Engineer,157.0,"Seattle, WA",2,0,Full Stack,114.0,32.0,11.0,NotDisclosed,11527
+79034,2021-07-20,AMAZON,SDE I,Software Engineer,182.0,"Seattle, WA",3,3,Distributed Systems (Back-End),133.0,49.0,0.0,Male,11527
+79101,2021-07-20,AMAZON,L4,Software Engineer,130.0,"Seattle, WA",1,0,DevOps,101.0,20.0,9.0,NotDisclosed,11527
+79171,2021-07-21,AMAZON,L4,Software Engineer,203.0,"Seattle, WA",3,1,API Development (Back-End),131.0,60.0,12.0,NotDisclosed,11527
+79205,2021-07-21,AMAZON,L4,Software Engineer,150.0,"Seattle, WA",0,0,Full Stack,122.0,18.0,10.0,NotDisclosed,11527
+79223,2021-07-21,AMAZON,L4,Software Engineer,212.0,"Seattle, WA",1,1,Testing (SDET),172.0,19.0,21.0,Male,11527
+79236,2021-07-21,AMAZON,SDE II,Software Engineer,210.0,"Seattle, WA",6,9,Distributed Systems (Back-End),118.0,92.0,0.0,Female,11527
+79417,2021-07-22,AMAZON,L5,Software Engineer,244.0,"Seattle, WA",3,4,API Development (Back-End),158.0,86.0,0.0,Male,11527
+79426,2021-07-22,AMAZON,L4,Software Engineer,161.0,"Seattle, WA",4,5,Distributed Systems (Back-End),90.0,68.0,3.0,Male,11527
+79504,2021-07-22,AMAZON,L6,Software Engineer,211.0,"Seattle, WA",15,4,Data,139.0,72.0,0.0,NotDisclosed,11527
+79608,2021-07-23,AMAZON,L4,Software Engineer,121.0,"Seattle, WA",1,1,Distributed Systems (Back-End),107.0,3.0,11.0,Male,11527
+79719,2021-07-24,AMAZON,L4,Software Engineer,228.0,"Seattle, WA",4,0,API Development (Back-End),179.0,34.0,15.0,NotDisclosed,11527
+79787,2021-07-24,AMAZON,L5,Software Engineer,219.0,"Seattle, WA",1,1,API Development (Back-End),141.0,78.0,0.0,Female,11527
+79856,2021-07-25,AMAZON,L5,Software Engineer,151.0,"Seattle, WA",17,1,Android,99.0,50.0,2.0,Female,11527
+79970,2021-07-26,AMAZON,L4,Software Engineer,148.0,"Seattle, WA",1,0,API Development (Back-End),112.0,26.0,10.0,Female,11527
+80078,2021-07-27,AMAZON,L4,Software Engineer,111.0,"Seattle, WA",2,0,Distributed Systems (Back-End),92.0,10.0,9.0,Male,11527
+80135,2021-07-27,AMAZON,L4,Software Engineer,179.0,"Seattle, WA",1,1,API Development (Back-End),163.0,10.0,6.0,Male,11527
+80172,2021-07-27,AMAZON,L6,Software Engineer,190.0,"Seattle, WA",8,9,Testing (SDET),130.0,60.0,0.0,NotDisclosed,11527
+80193,2021-07-27,AMAZON,L4,Software Engineer,201.0,"Seattle, WA",0,0,API Development (Back-End),152.0,23.0,26.0,Female,11527
+80235,2021-07-27,AMAZON,L4,Software Engineer,133.0,"Seattle, WA",3,2,Full Stack,80.0,45.0,8.0,Male,11527
+80274,2021-07-28,AMAZON,SDE I,Software Engineer,108.0,"Seattle, WA",0,0,Full Stack,77.0,20.0,11.0,Male,11527
+80318,2021-07-28,AMAZON,L4,Software Engineer,253.0,"Seattle, WA",6,0,Networking,202.0,27.0,24.0,NotDisclosed,11527
+80329,2021-07-28,AMAZON,SDE I,Software Engineer,111.0,"Seattle, WA",3,0,API Development (Back-End),90.0,21.0,0.0,NotDisclosed,11527
+80403,2021-07-28,AMAZON,L4,Software Engineer,213.0,"Seattle, WA",2,1,Full Stack,180.0,10.0,23.0,Male,11527
+80415,2021-07-28,AMAZON,L5,Software Engineer,154.0,"Seattle, WA",2,2,Networking,88.0,66.0,0.0,Male,11527
+80487,2021-07-29,AMAZON,L4,Software Engineer,179.0,"Seattle, WA",0,0,Security,130.0,30.0,19.0,Male,11527
+80516,2021-07-29,AMAZON,L4,Software Engineer,134.0,"Seattle, WA",1,1,Full Stack,104.0,22.0,8.0,NotDisclosed,11527
+80543,2021-07-29,AMAZON,L4,Software Engineer,156.0,"Seattle, WA",0,0,API Development (Back-End),102.0,32.0,22.0,Male,11527
+80927,2021-08-01,AMAZON,L5,Software Engineer,236.0,"Seattle, WA",6,3,Testing (SDET),178.0,39.0,19.0,Male,11527
+80987,2021-08-02,AMAZON,L4,Software Engineer,212.0,"Seattle, WA",1,0,Web Development (Front-End),178.0,24.0,10.0,Male,11527
+81029,2021-08-02,AMAZON,L4,Software Engineer,178.0,"Seattle, WA",6,1,Distributed Systems (Back-End),123.0,39.0,16.0,NotDisclosed,11527
+81031,2021-08-02,AMAZON,SDE I,Software Engineer,218.0,"Seattle, WA",1,0,Distributed Systems (Back-End),180.0,21.0,17.0,Male,11527
+81073,2021-08-02,AMAZON,L5,Software Engineer,148.0,"Seattle, WA",15,5,Full Stack,81.0,67.0,0.0,Male,11527
+81272,2021-08-03,AMAZON,L5,Software Engineer,253.0,"Seattle, WA",4,0,Distributed Systems (Back-End),167.0,45.0,41.0,Male,11527
+81462,2021-08-04,AMAZON,L5,Software Engineer,130.0,"Seattle, WA",13,4,API Development (Back-End),70.0,60.0,0.0,NotDisclosed,11527
+81510,2021-08-04,AMAZON,sde1,Software Engineer,153.0,"Seattle, WA",2,3,API Development (Back-End),131.0,9.0,13.0,Female,11527
+81598,2021-08-04,AMAZON,L5,Software Engineer,245.0,"Seattle, WA",6,0,Web Development (Front-End),196.0,34.0,15.0,NotDisclosed,11527
+81806,2021-08-05,AMAZON,L4,Software Engineer,208.0,"Seattle, WA",1,1,Consumables ,162.0,18.0,28.0,NotDisclosed,11527
+81866,2021-08-05,AMAZON,L5,Software Engineer,120.0,"Seattle, WA",6,4,Distributed Systems (Back-End),81.0,21.0,18.0,Male,11527
+82026,2021-08-06,AMAZON,L5,Software Engineer,208.0,"Seattle, WA",7,3,Full Stack,155.0,53.0,0.0,Male,11527
+82175,2021-08-07,AMAZON,L4,Software Engineer,141.0,"Seattle, WA",0,0,Distributed Systems (Back-End),103.0,16.0,22.0,Male,11527
+82242,2021-08-08,AMAZON,L4,Software Engineer,178.0,"Seattle, WA",4,1,Full Stack,132.0,46.0,0.0,Female,11527
+82384,2021-08-09,AMAZON,L4,Software Engineer,113.0,"Seattle, WA",2,0,Data,87.0,19.0,7.0,Male,11527
+82391,2021-08-09,AMAZON,SDE I,Software Engineer,216.0,"Seattle, WA",1,0,Full Stack,190.0,3.0,23.0,Male,11527
+82399,2021-08-09,AMAZON,SDE II,Software Engineer,214.0,"Seattle, WA",3,3,Full Stack,182.0,32.0,0.0,Male,11527
+82402,2021-08-09,AMAZON,L5,Software Engineer,206.0,"Seattle, WA",7,2,Data,152.0,29.0,25.0,Female,11527
+82440,2021-08-09,AMAZON,SDE III,Software Engineer,172.0,"Seattle, WA",12,2,Distributed Systems (Back-End),84.0,67.0,21.0,Male,11527
+82536,2021-08-10,AMAZON,L4,Software Engineer,145.0,"Seattle, WA",0,0,Security,106.0,23.0,16.0,NotDisclosed,11527
+82657,2021-08-10,AMAZON,L4,Software Engineer,166.0,"Seattle, WA",6,1,Distributed Systems (Back-End),99.0,45.0,22.0,Male,11527
+82780,2021-08-11,AMAZON,SDE I,Software Engineer,176.0,"Seattle, WA",1,1,Full Stack,127.0,41.0,8.0,Male,11527
+82886,2021-08-11,AMAZON,L4,Software Engineer,193.0,"Seattle, WA",0,0,Web Development (Front-End),162.0,31.0,0.0,Male,11527
+82902,2021-08-11,AMAZON,L4,Software Engineer,166.0,"Seattle, WA",0,0,Full Stack,125.0,11.0,30.0,NotDisclosed,11527
+83018,2021-08-12,AMAZON,L4,Software Engineer,95.0,"Seattle, WA",4,1,API Development (Back-End),73.0,11.0,11.0,Male,11527
+83253,2021-08-13,AMAZON,L4,Software Engineer,134.0,"Seattle, WA",7,0,Web Development (Front-End),82.0,15.0,37.0,NotDisclosed,11527
+83288,2021-08-13,AMAZON,L4,Software Engineer,112.0,"Seattle, WA",0,0,Full Stack,80.0,21.0,11.0,Male,11527
+83290,2021-08-13,AMAZON,L4,Software Engineer,173.0,"Seattle, WA",3,3,Full Stack,161.0,12.0,0.0,NotDisclosed,11527
+83302,2021-08-13,AMAZON,L4,Software Engineer,196.0,"Seattle, WA",1,0,Distributed Systems (Back-End),177.0,11.0,8.0,NotDisclosed,11527
+83386,2021-08-14,AMAZON,L5,Software Engineer,225.0,"Seattle, WA",5,0,Full Stack,171.0,29.0,25.0,Male,11527
+83427,2021-08-14,AMAZON,L4,Software Engineer,194.0,"Seattle, WA",0,0,Full Stack,154.0,31.0,9.0,Male,11527
+83446,2021-08-14,AMAZON,L4,Software Engineer,211.0,"Seattle, WA",5,2,Full Stack,172.0,39.0,0.0,NotDisclosed,11527
+83450,2021-08-14,AMAZON,L4,Software Engineer,173.0,"Seattle, WA",0,0,Distributed Systems (Back-End),144.0,22.0,7.0,Male,11527
+83461,2021-08-14,AMAZON,L5,Software Engineer,216.0,"Seattle, WA",11,1,Distributed Systems (Back-End),151.0,56.0,9.0,Male,11527
+83575,2021-08-15,AMAZON,L5,Software Engineer,176.0,"Seattle, WA",4,0,Full Stack,151.0,25.0,0.0,NotDisclosed,11527
+83825,2021-08-16,AMAZON,SDE I,Software Engineer,175.0,"Seattle, WA",0,0,Full Stack,121.0,33.0,21.0,Male,11527

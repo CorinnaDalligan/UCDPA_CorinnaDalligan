@@ -1,0 +1,140 @@
+,Date,Company,Level,Title,TCOMP,Location,YearsOfExperience,YearsOfService,Tag,BaseSalary,StockGrant,Bonus,Gender,CityId,Ticker,OpeningPrice
+0,2017-08-13,AMAZON,L5,Software Engineer,231.0,"Dublin, DN, Ireland",11,3,NotDisclosed,115.0,115.0,1.0,NotDisclosed,4015,AMZN,97.87999725341795
+1,2018-06-12,AMAZON,L5,Software Engineer,133.0,"Dublin, DN, Ireland",15,2,Full Stack,87.0,46.0,0.0,Male,4015,AMZN,97.87999725341795
+2,2018-10-31,AMAZON,6,Software Engineer,238.0,"Dublin, DN, Ireland",25,5,Distributed Systems (Back-End),155.0,83.0,0.0,NotDisclosed,4015,AMZN,97.87999725341795
+3,2019-03-02,AMAZON,L5,Software Engineer,160.0,"Dublin, DN, Ireland",12,1,Web Development (Front-End),122.0,25.0,13.0,Male,4015,AMZN,97.87999725341795
+4,2019-07-16,AMAZON,L4,Software Engineer,158.0,"Dublin, DN, Ireland",5,0,Distributed Systems (Back-End),80.0,61.0,17.0,Male,4015,AMZN,97.87999725341795
+5,2019-10-18,AMAZON,SDE II,Software Engineer,135.0,"Dublin, DN, Ireland",6,1,Distributed Systems (Back-End),94.0,41.0,0.0,Male,4015,AMZN,97.87999725341795
+6,2019-10-26,AMAZON,L4,Software Engineer,100.0,"Dublin, DN, Ireland",3,0,Full Stack,71.0,8.0,21.0,Male,4015,AMZN,97.87999725341795
+7,2020-01-30,AMAZON,SDE I,Software Engineer,67.0,"Dublin, DN, Ireland",0,0,Web Development (Front-End),57.0,10.0,0.0,Female,4015,AMZN,97.87999725341795
+8,2020-07-11,AMAZON,Senior SDE,Software Engineer,177.0,"Dublin, DN, Ireland",13,10,Distributed Systems (Back-End),120.0,57.0,0.0,Male,4015,AMZN,97.87999725341795
+9,2020-07-21,AMAZON,L5,Software Engineer,172.0,"Dublin, DN, Ireland",10,0,API Development (Back-End),149.0,10.0,13.0,Male,4015,AMZN,97.87999725341795
+10,2020-07-21,AMAZON,L5,Software Engineer,118.0,"Dublin, DN, Ireland",2,0,Distributed Systems (Back-End),75.0,27.0,16.0,Male,4015,AMZN,97.87999725341795
+11,2020-07-23,AMAZON,L4,Software Engineer,73.0,"Dublin, DN, Ireland",0,0,Distributed Systems (Back-End),57.0,11.0,5.0,NotDisclosed,4015,AMZN,97.87999725341795
+12,2020-07-28,AMAZON,SDE II,Software Engineer,146.0,"Dublin, DN, Ireland",11,1,Distributed Systems (Back-End),121.0,16.0,9.0,Male,4015,AMZN,97.87999725341795
+13,2020-08-08,AMAZON,L5,Software Engineer,114.0,"Dublin, DN, Ireland",6,3,Distributed Systems (Back-End),54.0,54.0,6.0,Male,4015,AMZN,97.87999725341795
+14,2020-09-09,AMAZON,L4,Software Engineer,124.0,"Dublin, DN, Ireland",0,0,Full Stack,99.0,10.0,15.0,Male,4015,AMZN,97.87999725341795
+15,2020-09-30,AMAZON,L4,Software Engineer,127.0,"Dublin, DN, Ireland",0,0,Production,96.0,15.0,16.0,NotDisclosed,4015,AMZN,97.87999725341795
+16,2020-10-29,AMAZON,L5,Software Engineer,200.0,"Dublin, DN, Ireland",9,1,Distributed Systems (Back-End),161.0,17.0,22.0,Male,4015,AMZN,97.87999725341795
+17,2020-10-31,AMAZON,L5,Software Engineer,118.0,"Dublin, DN, Ireland",4,2,Distributed Systems (Back-End),72.0,46.0,0.0,Male,4015,AMZN,97.87999725341795
+18,2020-11-08,AMAZON,L4,Software Engineer,92.0,"Dublin, DN, Ireland",1,1,API Development (Back-End),70.0,13.0,9.0,NotDisclosed,4015,AMZN,97.87999725341795
+19,2020-11-13,AMAZON,L4,Software Engineer,109.0,"Dublin, DN, Ireland",4,0,Distributed Systems (Back-End),84.0,13.0,12.0,Male,4015,AMZN,97.87999725341795
+20,2020-12-02,AMAZON,L5,Software Engineer,166.0,"Dublin, DN, Ireland",8,4,Distributed Systems (Back-End),103.0,54.0,9.0,Male,4015,AMZN,97.87999725341795
+21,2020-12-03,AMAZON,L6,Software Engineer,222.0,"Dublin, DN, Ireland",13,2,Site Reliability (SRE),176.0,43.0,3.0,NotDisclosed,4015,AMZN,97.87999725341795
+22,2020-12-15,AMAZON,L5,Software Engineer,75.0,"Dublin, DN, Ireland",4,3,Data,53.0,22.0,0.0,Male,4015,AMZN,97.87999725341795
+23,2021-01-07,AMAZON,L5,Software Engineer,188.0,"Dublin, DN, Ireland",11,0,API Development (Back-End),158.0,30.0,0.0,NotDisclosed,4015,AMZN,97.87999725341795
+24,2021-01-20,AMAZON,L4,Software Engineer,131.0,"Dublin, DN, Ireland",8,0,Distributed Systems (Back-End),105.0,18.0,8.0,Female,4015,AMZN,97.87999725341795
+25,2021-02-03,AMAZON,L5,Software Engineer,133.0,"Dublin, DN, Ireland",9,1,Full Stack,69.0,39.0,25.0,Male,4015,AMZN,97.87999725341795
+26,2021-02-03,AMAZON,L4,Software Engineer,124.0,"Dublin, DN, Ireland",1,1,Networking,109.0,12.0,3.0,Male,4015,AMZN,97.87999725341795
+27,2021-02-08,AMAZON,L4,Software Engineer,91.0,"Dublin, DN, Ireland",3,1,Full Stack,68.0,23.0,0.0,Male,4015,AMZN,97.87999725341795
+28,2021-02-18,AMAZON,L5,Software Engineer,220.0,"Dublin, DN, Ireland",9,0,Distributed Systems (Back-End),171.0,34.0,15.0,Male,4015,AMZN,97.87999725341795
+29,2021-03-16,AMAZON,L5,Software Engineer,165.0,"Dublin, DN, Ireland",11,0,Site Reliability (SRE),121.0,23.0,21.0,NotDisclosed,4015,AMZN,97.87999725341795
+30,2021-03-17,AMAZON,L4,Software Engineer,72.0,"Dublin, DN, Ireland",0,0,Distributed Systems (Back-End),59.0,8.0,5.0,Male,4015,AMZN,97.87999725341795
+31,2021-03-27,AMAZON,L4,Software Engineer,131.0,"Dublin, DN, Ireland",6,2,Distributed Systems (Back-End),100.0,20.0,11.0,NotDisclosed,4015,AMZN,97.87999725341795
+32,2021-03-30,AMAZON,L5,Software Engineer,187.0,"Dublin, DN, Ireland",9,3,Networking,149.0,28.0,10.0,NotDisclosed,4015,AMZN,97.87999725341795
+33,2021-04-02,AMAZON,SDE I,Software Engineer,129.0,"Dublin, DN, Ireland",3,0,Distributed Systems (Back-End),114.0,8.0,7.0,NotDisclosed,4015,AMZN,97.87999725341795
+34,2021-04-21,AMAZON,L4,Software Engineer,111.0,"Dublin, DN, Ireland",2,0,Distributed Systems (Back-End),95.0,9.0,7.0,NotDisclosed,4015,AMZN,97.87999725341795
+35,2021-04-21,AMAZON,L4,Software Engineer,147.0,"Dublin, DN, Ireland",4,1,API Development (Back-End),118.0,29.0,0.0,Male,4015,AMZN,97.87999725341795
+36,2021-04-26,AMAZON,L5,Software Engineer,157.0,"Dublin, DN, Ireland",3,2,API Development (Back-End),144.0,13.0,0.0,Male,4015,AMZN,97.87999725341795
+37,2021-05-01,AMAZON,L4,Software Engineer,110.0,"Dublin, DN, Ireland",6,1,API Development (Back-End),79.0,19.0,12.0,Male,4015,AMZN,97.87999725341795
+38,2021-05-07,AMAZON,L5,Software Engineer,170.0,"Dublin, DN, Ireland",6,4,Site Reliability (SRE),141.0,24.0,5.0,Male,4015,AMZN,97.87999725341795
+39,2021-06-10,AMAZON,L5,Software Engineer,165.0,"Dublin, DN, Ireland",18,1,DevOps,131.0,24.0,10.0,Male,4015,AMZN,97.87999725341795
+40,2021-06-12,AMAZON,L1,Software Engineer,106.0,"Dublin, DN, Ireland",1,0,Networking,88.0,8.0,10.0,Male,4015,AMZN,97.87999725341795
+41,2021-07-02,AMAZON,L4,Software Engineer,87.0,"Dublin, DN, Ireland",4,0,API Development (Back-End),62.0,16.0,9.0,Male,4015,AMZN,97.87999725341795
+42,2021-07-11,AMAZON,L5,Software Engineer,124.0,"Dublin, DN, Ireland",12,0,API Development (Back-End),91.0,21.0,12.0,NotDisclosed,4015,AMZN,97.87999725341795
+43,2021-07-12,AMAZON,L5,Software Engineer,248.0,"Dublin, DN, Ireland",4,2,Distributed Systems (Back-End),171.0,77.0,0.0,Male,4015,AMZN,97.87999725341795
+44,2021-07-18,AMAZON,L5,Software Engineer,194.0,"Dublin, DN, Ireland",4,2,Distributed Systems (Back-End),136.0,58.0,0.0,Male,4015,AMZN,97.87999725341795
+45,2021-07-25,AMAZON,L4,Software Engineer,133.0,"Dublin, DN, Ireland",0,0,Networking,114.0,7.0,12.0,NotDisclosed,4015,AMZN,97.87999725341795
+46,2021-07-30,AMAZON,L6,Software Engineer,200.0,"Dublin, DN, Ireland",13,6,Full Stack,91.0,109.0,0.0,Male,4015,AMZN,97.87999725341795
+47,2021-08-04,AMAZON,L4,Software Engineer,128.0,"Dublin, DN, Ireland",0,0,Distributed Systems (Back-End),109.0,10.0,9.0,Female,4015,AMZN,97.87999725341795
+48,2021-08-06,AMAZON,L5,Software Engineer,108.0,"Dublin, DN, Ireland",3,1,Distributed Systems (Back-End),91.0,15.0,2.0,Male,4015,AMZN,97.87999725341795
+49,2021-08-15,AMAZON,L5,Software Engineer,159.0,"Dublin, DN, Ireland",12,0,Distributed Systems (Back-End),123.0,27.0,9.0,NotDisclosed,4015,AMZN,97.87999725341795
+50,2021-08-17,AMAZON,L5,Software Engineer,99.0,"Dublin, DN, Ireland",9,1,Site Reliability (SRE),61.0,17.0,21.0,Male,4015,AMZN,97.87999725341795
+51,2018-03-11,GOOGLE,5,Software Engineer,227.0,"Dublin, DN, Ireland",20,7,NotDisclosed,64.0,133.0,30.0,NotDisclosed,4015,GOOG,94.70999908447266
+52,2018-12-27,GOOGLE,L3,Software Engineer,114.0,"Dublin, DN, Ireland",7,1,DevOps,69.0,10.0,35.0,Female,4015,GOOG,94.70999908447266
+53,2019-05-15,GOOGLE,L5,Software Engineer,201.0,"Dublin, DN, Ireland",11,6,DevOps,154.0,42.0,5.0,Male,4015,GOOG,94.70999908447266
+54,2019-11-11,GOOGLE,5,Software Engineer,202.0,"Dublin, DN, Ireland",8,6,DevOps,91.0,92.0,19.0,Male,4015,GOOG,94.70999908447266
+55,2020-08-25,GOOGLE,L3,Software Engineer,113.0,"Dublin, DN, Ireland",3,5,Site Reliability (SRE),90.0,16.0,7.0,Male,4015,GOOG,94.70999908447266
+56,2020-11-11,GOOGLE,L3,Software Engineer,107.0,"Dublin, DN, Ireland",1,0,Security,90.0,8.0,9.0,NotDisclosed,4015,GOOG,94.70999908447266
+57,2021-01-03,GOOGLE,L5,Software Engineer,187.0,"Dublin, DN, Ireland",4,7,Site Reliability (SRE),70.0,99.0,18.0,Female,4015,GOOG,94.70999908447266
+58,2021-01-06,GOOGLE,L3,Software Engineer,156.0,"Dublin, DN, Ireland",2,1,Site Reliability (SRE),105.0,36.0,15.0,Male,4015,GOOG,94.70999908447266
+59,2021-01-27,GOOGLE,L3,Software Engineer,72.0,"Dublin, DN, Ireland",0,0,Site Reliability (SRE),46.0,9.0,17.0,Male,4015,GOOG,94.70999908447266
+60,2021-02-10,GOOGLE,L3,Software Engineer,110.0,"Dublin, DN, Ireland",2,3,Site Reliability (SRE),70.0,21.0,19.0,Male,4015,GOOG,94.70999908447266
+61,2021-02-14,GOOGLE,L3,Software Engineer,125.0,"Dublin, DN, Ireland",2,1,Site Reliability (SRE),71.0,39.0,15.0,Male,4015,GOOG,94.70999908447266
+62,2021-03-07,GOOGLE,L4,Business Analyst,134.0,"Ireland, IN",9,3,Finance,81.0,37.0,16.0,Male,28920,GOOG,94.70999908447266
+63,2021-05-06,GOOGLE,L3,Business Analyst,143.0,"Dublin, DN, Ireland",2,2,Sales,94.0,19.0,30.0,NotDisclosed,4015,GOOG,94.70999908447266
+64,2021-05-14,GOOGLE,L5,Software Engineer,174.0,"Dublin, DN, Ireland",14,13,Site Reliability (SRE),102.0,52.0,20.0,NotDisclosed,4015,GOOG,94.70999908447266
+65,2021-08-15,GOOGLE,L4,Software Engineer,186.0,"Dublin, DN, Ireland",9,1,Site Reliability (SRE),150.0,24.0,12.0,Male,4015,GOOG,94.70999908447266
+66,2018-09-09,WORKDAY,P4,Software Engineer,92.0,"Dublin, DN, Ireland",8,0,Distributed Systems (Back-End),56.0,36.0,0.0,NotDisclosed,4015,WDAY,153.1199951171875
+67,2019-02-08,WORKDAY,P3,Software Engineer,114.0,"Dublin, DN, Ireland",10,3,API Development (Back-End),68.0,41.0,5.0,Female,4015,WDAY,153.1199951171875
+68,2019-06-17,WORKDAY,P3,Software Engineer,99.0,"Dublin, DN, Ireland",4,2,Business logic,61.0,36.0,2.0,Male,4015,WDAY,153.1199951171875
+69,2019-07-16,WORKDAY,SWE II,Software Engineer,108.0,"Dublin, DN, Ireland",2,3,Distributed Systems (Back-End),61.0,38.0,9.0,Male,4015,WDAY,153.1199951171875
+70,2020-02-15,WORKDAY,Senior SWE,Software Engineer,140.0,"Dublin, DN, Ireland",12,3,Site Reliability (SRE),72.0,68.0,0.0,Male,4015,WDAY,153.1199951171875
+71,2020-04-15,WORKDAY,P3,Software Engineer,96.0,"Dublin, DN, Ireland",3,2,Site Reliability (SRE),65.0,23.0,8.0,Male,4015,WDAY,153.1199951171875
+72,2020-04-16,WORKDAY,P5,Software Engineer,181.0,"Dublin, DN, Ireland",10,4,App Dev,79.0,97.0,5.0,Male,4015,WDAY,153.1199951171875
+73,2020-07-23,WORKDAY,P3,Software Engineer,126.0,"Dublin, DN, Ireland",5,2,Web Development (Front-End),99.0,15.0,12.0,Male,4015,WDAY,153.1199951171875
+74,2020-08-19,WORKDAY,Senior SWE,Software Engineer,144.0,"Dublin, DN, Ireland",16,1,DevOps,111.0,26.0,7.0,Male,4015,WDAY,153.1199951171875
+75,2020-11-13,WORKDAY,P3,Software Engineer,88.0,"Dublin, DN, Ireland",4,0,Full Stack,72.0,16.0,0.0,Male,4015,WDAY,153.1199951171875
+76,2021-01-22,WORKDAY,P4,Software Engineer,138.0,"Dublin, DN, Ireland",7,9,App Dev,76.0,46.0,16.0,Male,4015,WDAY,153.1199951171875
+77,2021-05-10,WORKDAY,P3,Software Engineer,94.0,"Dublin, DN, Ireland",4,0,API Development (Back-End),65.0,29.0,0.0,Male,4015,WDAY,153.1199951171875
+78,2021-05-17,WORKDAY,P3,Software Engineer,94.0,"Dublin, DN, Ireland",5,0,Distributed Systems (Back-End),71.0,23.0,0.0,Male,4015,WDAY,153.1199951171875
+79,2021-06-02,WORKDAY,P4,Software Engineer,151.0,"Dublin, DN, Ireland",11,5,DevOps,55.0,87.0,9.0,Male,4015,WDAY,153.1199951171875
+80,2019-03-26,MICROSOFT,63,Software Engineer,142.0,"Dublin, DN, Ireland",9,0,Distributed Systems (Back-End),98.0,33.0,11.0,Male,4015,MSFT,242.9900054931641
+81,2019-05-07,MICROSOFT,Principal SDE,Software Engineer,172.0,"Dublin, DN, Ireland",15,3,DevOps,122.0,22.0,28.0,NotDisclosed,4015,MSFT,242.9900054931641
+82,2019-06-14,MICROSOFT,62,Software Engineer,144.0,"Dublin, DN, Ireland",3,1,ML / AI,114.0,25.0,5.0,Male,4015,MSFT,242.9900054931641
+83,2019-12-01,MICROSOFT,65,Software Engineer,243.0,"Dublin, DN, Ireland",12,1,Distributed Systems (Back-End),181.0,30.0,32.0,Male,4015,MSFT,242.9900054931641
+84,2020-02-16,MICROSOFT,64,Software Engineer,173.0,"Dublin, DN, Ireland",9,9,Full Stack,138.0,16.0,19.0,Male,4015,MSFT,242.9900054931641
+85,2020-02-27,MICROSOFT,60,Software Engineer,91.0,"Dublin, DN, Ireland",1,1,Distributed Systems (Back-End),63.0,16.0,12.0,NotDisclosed,4015,MSFT,242.9900054931641
+86,2020-02-28,MICROSOFT,62,Software Engineer,74.0,"Dublin, DN, Ireland",5,8,Distributed Systems (Back-End),51.0,10.0,13.0,Male,4015,MSFT,242.9900054931641
+87,2020-04-10,MICROSOFT,61,Software Engineer,85.0,"Dublin, DN, Ireland",4,0,Full Stack,69.0,9.0,7.0,Male,4015,MSFT,242.9900054931641
+88,2020-04-19,MICROSOFT,Senior SDE,Software Engineer,209.0,"Dublin, DN, Ireland",9,1,Distributed Systems (Back-End),121.0,59.0,29.0,Male,4015,MSFT,242.9900054931641
+89,2020-05-08,MICROSOFT,63,Software Engineer,175.0,"Dublin, DN, Ireland",8,2,Distributed Systems (Back-End),117.0,35.0,23.0,Male,4015,MSFT,242.9900054931641
+90,2020-05-10,MICROSOFT,62,Software Engineer,141.0,"Dublin, DN, Ireland",11,1,Site Reliability (SRE),122.0,11.0,8.0,Male,4015,MSFT,242.9900054931641
+91,2020-10-23,MICROSOFT,59,Software Engineer,90.0,"Dublin, DN, Ireland",2,1,Distributed Systems (Back-End),72.0,10.0,8.0,Female,4015,MSFT,242.9900054931641
+92,2020-11-05,MICROSOFT,61,Software Engineer,96.0,"Dublin, DN, Ireland",3,3,Full Stack,65.0,26.0,5.0,Male,4015,MSFT,242.9900054931641
+93,2020-12-10,MICROSOFT,SDE II,Solution Architect,174.0,"Dublin, DN, Ireland",2,0,Cloud Computing,141.0,10.0,23.0,NotDisclosed,4015,MSFT,242.9900054931641
+94,2021-03-03,MICROSOFT,63,Software Engineer,141.0,"Dublin, DN, Ireland",15,1,Production,98.0,19.0,24.0,Male,4015,MSFT,242.9900054931641
+95,2021-05-14,MICROSOFT,62,Software Engineer,62.0,"Dublin, DN, Ireland",4,5,Full Stack,45.0,5.0,12.0,Male,4015,MSFT,242.9900054931641
+96,2021-05-20,MICROSOFT,64,Software Engineer,253.0,"Dublin, DN, Ireland",15,3,API Development (Back-End),203.0,16.0,34.0,Male,4015,MSFT,242.9900054931641
+97,2021-06-27,MICROSOFT,62,Software Engineer,178.0,"Dublin, DN, Ireland",11,0,Distributed Systems (Back-End),150.0,14.0,14.0,NotDisclosed,4015,MSFT,242.9900054931641
+98,2021-07-11,MICROSOFT,61,Software Engineer,74.0,"Dublin, DN, Ireland",6,2,Full Stack,54.0,8.0,12.0,Male,4015,MSFT,242.9900054931641
+99,2021-08-09,MICROSOFT,64,Software Engineer,206.0,"Dublin, DN, Ireland",15,3,Software developer,191.0,15.0,0.0,Male,4015,MSFT,242.9900054931641
+100,2019-06-08,FACEBOOK,IC5,Software Engineer,209.0,"Dublin, DN, Ireland",12,4,Networking,121.0,71.0,17.0,Male,4015,META,109.2300033569336
+101,2019-12-30,FACEBOOK,E5,Software Engineer,219.0,"Dublin, DN, Ireland",10,0,Distributed Systems (Back-End),120.0,83.0,16.0,Male,4015,META,109.2300033569336
+102,2020-04-03,FACEBOOK,IC3,Software Engineer,127.0,"Dublin, DN, Ireland",10,0,Full Stack,109.0,10.0,8.0,Male,4015,META,109.2300033569336
+103,2020-05-26,FACEBOOK,IC4,Software Engineer,241.0,"Dublin, DN, Ireland",3,3,Distributed Systems (Back-End),155.0,72.0,14.0,Male,4015,META,109.2300033569336
+104,2020-07-26,FACEBOOK,IC3,Software Engineer,127.0,"Dublin, DN, Ireland",0,0,Full Stack,94.0,21.0,12.0,Male,4015,META,109.2300033569336
+105,2020-09-02,FACEBOOK,IC4,Software Engineer,99.0,"Dublin, DN, Ireland",7,3,Full Stack,57.0,30.0,12.0,Male,4015,META,109.2300033569336
+106,2020-12-10,FACEBOOK,IC4,Software Engineer,86.0,"Dublin, DN, Ireland",4,0,Production,60.0,16.0,10.0,Female,4015,META,109.2300033569336
+107,2021-02-06,FACEBOOK,IC4,Software Engineer,192.0,"Dublin, DN, Ireland",17,4,Full Stack,97.0,85.0,10.0,Male,4015,META,109.2300033569336
+108,2021-03-03,FACEBOOK,E4,Software Engineer,118.0,"Dublin, DN, Ireland",3,1,Production,70.0,33.0,15.0,Male,4015,META,109.2300033569336
+109,2021-04-12,FACEBOOK,IC5,Software Engineer,296.0,"Dublin, DN, Ireland",3,5,Full Stack,214.0,62.0,20.0,NotDisclosed,4015,META,109.2300033569336
+110,2021-04-13,FACEBOOK,IC4,Software Engineer,166.0,"Dublin, DN, Ireland",10,2,Distributed Systems (Back-End),120.0,34.0,12.0,Male,4015,META,109.2300033569336
+111,2021-05-05,FACEBOOK,IC4,Business Analyst,159.0,"Dublin, DN, Ireland",9,0,Platform integrity ,124.0,24.0,11.0,Male,4015,META,109.2300033569336
+112,2020-01-04,ARISTA NETWORKS,L3 (New Grad),Software Engineer,96.0,"Dublin, DN, Ireland",0,0,API Development (Back-End),82.0,14.0,0.0,Male,4015,ANET,127.4800033569336
+113,2020-01-27,MONGODB,Software Engineer,Software Engineer,252.0,"Dublin, DN, Ireland",14,3,Technical Services,133.0,119.0,0.0,Male,4015,MDB,163.4499969482422
+114,2020-02-16,HUBSPOT,SSE2,Software Engineer,94.0,"Dublin, DN, Ireland",6,1,Distributed Systems (Back-End),70.0,20.0,4.0,Male,4015,HUBS,303.82000732421875
+115,2020-03-05,HUBSPOT,Software Engineer,Software Engineer,75.0,"Dublin, DN, Ireland",0,0,Distributed Systems (Back-End),63.0,3.0,9.0,Male,4015,HUBS,303.82000732421875
+116,2020-06-09,HUBSPOT,Entry,Software Engineer,76.0,"Dublin, DN, Ireland",1,1,Web Development (Front-End),73.0,3.0,0.0,Female,4015,HUBS,303.82000732421875
+117,2021-04-04,HUBSPOT,L1,Software Engineer,136.0,"Dublin, DN, Ireland",9,1,Web Development (Front-End),89.0,47.0,0.0,NotDisclosed,4015,HUBS,303.82000732421875
+118,2021-08-06,HUBSPOT,Senior Software Engineer II,Software Engineer,128.0,"Dublin, DN, Ireland",8,6,Distributed Systems (Back-End),75.0,53.0,0.0,Male,4015,HUBS,303.82000732421875
+119,2021-08-06,HUBSPOT,Senior,Software Engineer,97.0,"Dublin, DN, Ireland",7,1,Web Development (Front-End),81.0,14.0,2.0,Male,4015,HUBS,303.82000732421875
+120,2021-08-06,HUBSPOT,SSE2,Software Engineer,90.0,"Dublin, DN, Ireland",11,3,Distributed Systems (Back-End),68.0,22.0,0.0,Male,4015,HUBS,303.82000732421875
+121,2020-02-25,PIVOTAL,P3,Software Engineer,80.0,"Dublin, DN, Ireland",12,3,Full Stack,69.0,11.0,0.0,NotDisclosed,4015,PICC,9.94499969482422
+122,2020-04-16,TWILIO,IC3,Software Engineer,156.0,"Dublin, DN, Ireland",6,0,Data,113.0,43.0,0.0,Male,4015,TWLO,50.77000045776367
+123,2020-06-19,EXPEDIA,M,Technical Program Manager,124.0,"Dublin, DN, Ireland",12,7,Web Development (Front-End),74.0,27.0,23.0,Female,4015,EXPE,99.52999877929688
+124,2020-08-19,SHUTTERSTOCK,L5,Software Engineer,208.0,"Dublin, DN, Ireland",22,1,API Development (Back-End),178.0,15.0,15.0,NotDisclosed,4015,SSTK,52.61000061035156
+125,2021-03-11,SHUTTERSTOCK,L3,Software Engineer,141.0,"Ireland, IN",7,0,Distributed Systems (Back-End),127.0,3.0,11.0,Male,28920,SSTK,52.61000061035156
+126,2020-08-19,VMWARE,Staff Engineer 2,Software Engineer,187.0,"Dublin, DN, Ireland",20,5,DevOps,104.0,50.0,33.0,Male,4015,VMW,114.5999984741211
+127,2021-07-11,VMWARE,Senior MTS,Software Engineer,148.0,"Galway, GY, Ireland",2,0,Distributed Systems (Back-End),125.0,13.0,10.0,Male,4018,VMW,114.5999984741211
+128,2020-11-23,QUALTRICS,L4,Software Engineer,191.0,"Dublin, DN, Ireland",3,2,Full Stack,138.0,46.0,7.0,Male,4015,XM,11.239999771118164
+129,2020-12-26,SERVICENOW,IC2,Software Engineer,77.0,"Dublin, DN, Ireland",3,1,Full Stack,62.0,7.0,8.0,Male,4015,NOW,406.989990234375
+130,2021-01-30,ZALANDO,C8,Software Engineer,225.0,"Dublin, DN, Ireland",15,4,Distributed Systems (Back-End),206.0,17.0,2.0,NotDisclosed,4015,ZLNDY,16.19029998779297
+131,2021-03-04,ZENDESK,ZEN3,Software Engineer,90.0,"Dublin, DN, Ireland",8,3,Distributed Systems (Back-End),55.0,32.0,3.0,NotDisclosed,4015,ZEN,76.62999725341797
+132,2021-04-02,ZENDESK,L4,Software Engineer,131.0,"Dublin, DN, Ireland",10,4,Mobile (iOS + Android),103.0,23.0,5.0,Male,4015,ZEN,76.62999725341797
+133,2021-04-06,ZENDESK,L3,Software Engineer,70.0,"Dublin, DN, Ireland",3,2,Data,48.0,19.0,3.0,NotDisclosed,4015,ZEN,76.62999725341797
+134,2021-07-11,ZENDESK,Senior Software Engineer,Software Engineer,76.0,"Dublin, DN, Ireland",3,4,Distributed Systems (Back-End),56.0,17.0,3.0,Male,4015,ZEN,76.62999725341797
+135,2021-08-05,ZENDESK,P10,Software Engineer,105.0,"Dublin, DN, Ireland",1,1,Data,101.0,2.0,2.0,Female,4015,ZEN,76.62999725341797
+136,2021-05-09,RAPID7,L6,Software Engineer,83.0,"Dublin, DN, Ireland",8,3,Web Development (Front-End),66.0,5.0,12.0,Female,4015,RPD,29.989999771118164
+137,2021-07-15,CISCO,Grade 11,Solution Architect,124.0,"Dublin, DN, Ireland",12,2,Networking,76.0,16.0,32.0,Male,4015,CSCO,45.18000030517578
+138,2021-08-06,CISCO,Grade 11,Software Engineer,182.0,"Galway, GY, Ireland",3,9,Full Stack,131.0,40.0,11.0,NotDisclosed,4018,CSCO,45.18000030517578
